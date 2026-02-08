@@ -1,0 +1,1 @@
+import{d as o,s as a,S as s,a as t,R as e,j as n,b as c,M as d}from"./main-C79OEEb1.js";o.locale("zh-cn"),a(!1),s.mount(new t),e.createRoot(document.body).render(window.location.protocol.includes("http")?n.jsx(c,{}):n.jsx(d,{type:"ext"}));
