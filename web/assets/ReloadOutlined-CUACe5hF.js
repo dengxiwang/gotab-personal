@@ -1,0 +1,1 @@
+import{r,I as t,aJ as a}from"./main-DIAdahSg.js";function n(){return n=Object.assign?Object.assign.bind():function(r){for(var t=1;t<arguments.length;t++){var a=arguments[t];for(var n in a)Object.prototype.hasOwnProperty.call(a,n)&&(r[n]=a[n])}return r},n.apply(this,arguments)}const e=(e,o)=>r.createElement(t,n({},e,{ref:o,icon:a})),o=r.forwardRef(e);export{o as R};
