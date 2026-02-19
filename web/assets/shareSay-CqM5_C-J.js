@@ -1,0 +1,1 @@
+import{r as t,c as n,j as o,al as s}from"./main-CVBikCBg.js";const a=t.memo(function(t){const a=n.c(2),{content:c}=t;let e;return a[0]!==c?(e=o.jsx(s,{content:c}),a[0]=c,a[1]=e):e=a[1],e});export{a as default};
