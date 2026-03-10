@@ -1,1 +1,0 @@
-import{r,I as t,cV as n}from"./main-Cxc3HoC5.js";function a(){return a=Object.assign?Object.assign.bind():function(r){for(var t=1;t<arguments.length;t++){var n=arguments[t];for(var a in n)Object.prototype.hasOwnProperty.call(n,a)&&(r[a]=n[a])}return r},a.apply(this,arguments)}const e=(e,o)=>r.createElement(t,a({},e,{ref:o,icon:n})),o=r.forwardRef(e);export{o as R};
