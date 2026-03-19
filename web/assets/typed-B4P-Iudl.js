@@ -1,0 +1,1 @@
+var r=Array.isArray,t=r=>!!r&&r.constructor===Object,a=r=>{try{return Number(r)===r}catch{return!1}};export{a as n,t as r,r as t};

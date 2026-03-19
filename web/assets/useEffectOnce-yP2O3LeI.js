@@ -1,0 +1,1 @@
+import{n as r,s}from"./compiler-runtime-DUgdXVlM.js";var t=s(r()),e=function(r){(0,t.useEffect)(r,[])};export{e as t};

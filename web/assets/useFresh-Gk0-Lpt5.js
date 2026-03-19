@@ -1,0 +1,1 @@
+import{n as e,s as t,t as r}from"./compiler-runtime-DUgdXVlM.js";var n=r(),o=t(e(),1);function s(){const e=(0,n.c)(3),[t,r]=(0,o.useState)(0);let s;e[0]===Symbol.for("react.memo_cache_sentinel")?(s=()=>{r(c)},e[0]=s):s=e[0];const a=s;let m;return e[1]!==t?(m={key:t,refresh:a},e[1]=t,e[2]=m):m=e[2],m}function c(e){return e+1}export{s as t};

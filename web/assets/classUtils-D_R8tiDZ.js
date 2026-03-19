@@ -1,0 +1,1 @@
+function t(t,n,r,a,c){const e=String(t),s=parseInt(e.charAt(0),10),h=parseInt(e.charAt(1),10);return{width:h*n+(h-1)*c,height:s*r+(s-1)*a}}function n(t){const n=String(t);return{row:parseInt(n.charAt(0),10),column:parseInt(n.charAt(1),10)}}export{n,t};

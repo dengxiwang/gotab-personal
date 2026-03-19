@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[48835,["/install/_next/static/chunks/0p_q~~yyqmur1.js","/install/_next/static/chunks/0n5zxoj8fn.6t.js","/install/_next/static/chunks/00u9kr2p6ztds.js"],"ViewportBoundary"]
+3:I[48835,["/install/_next/static/chunks/0p_q~~yyqmur1.js","/install/_next/static/chunks/0n5zxoj8fn.6t.js","/install/_next/static/chunks/00u9kr2p6ztds.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[55964,["/install/_next/static/chunks/0p_q~~yyqmur1.js","/install/_next/static/chunks/0n5zxoj8fn.6t.js","/install/_next/static/chunks/00u9kr2p6ztds.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"初始化配置"}],["$","meta","1",{"name":"description","content":"新标签页的初始化配置，配置数据库连接信息以及邮件服务等基础内容"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0h-5bronq34bz.ico","sizes":"32x32","type":"image/x-icon"}],["$","link","3",{"rel":"icon","href":"/install/favicon.ico"}],["$","$L5","4",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eCO1MJ34pfnycF4EP5qqs"}

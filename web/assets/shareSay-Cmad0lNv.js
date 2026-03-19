@@ -1,0 +1,1 @@
+import{n as t,s as r,t as o}from"./compiler-runtime-DUgdXVlM.js";import{t as n}from"./jsx-runtime-Dzyui-DX.js";import"./react-redux-CgzKQzIP.js";import{t as s}from"./markdownContent-lTfNCtlF.js";var e=o(),m=r(t(),1),a=n();var i=(0,m.memo)(function(t){const r=(0,e.c)(2),{content:o}=t;let n;return r[0]!==o?(n=(0,a.jsx)(s,{content:o}),r[0]=o,r[1]=n):n=r[1],n});export{i as default};

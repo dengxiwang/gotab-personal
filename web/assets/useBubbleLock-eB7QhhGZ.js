@@ -1,0 +1,1 @@
+import{n as r,s as n}from"./compiler-runtime-DUgdXVlM.js";import{dt as t,ft as u}from"./AntdIcon-xjZEUvjW.js";var e=n(r());function o(r){const n=e.useRef(null),t=()=>{u.cancel(n.current),n.current=null};return[()=>{t(),n.current=u(()=>{n.current=null})},u=>{n.current&&(u.stopPropagation(),t()),null==r||r(u)}]}t();export{o as t};
