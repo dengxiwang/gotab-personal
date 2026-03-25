@@ -36,7 +36,7 @@ CMD ["sh", "-c", "echo Running server on port $SERVER_PORT && ./gotab-server -po
 
 # 第二步（本地测试）：
 
-# VERSION=1.6.1.4
+# VERSION=1.6.1.5
 # docker buildx build \
 #     --platform linux/arm64 \
 #     -t doxwant/gotab:${VERSION} \
@@ -47,7 +47,7 @@ CMD ["sh", "-c", "echo Running server on port $SERVER_PORT && ./gotab-server -po
 
 # 第三步（多平台构建推送）：
 
-# VERSION=1.6.1.4
+# VERSION=1.6.1.5
 # docker buildx build \
 #     --platform linux/amd64,linux/arm64 \
 #     -t doxwant/gotab:${VERSION} \

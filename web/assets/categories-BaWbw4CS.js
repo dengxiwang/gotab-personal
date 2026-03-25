@@ -1,0 +1,1 @@
+import{t}from"./categories-CucmHTIf.js";export{t as default};
