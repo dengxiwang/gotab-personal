@@ -1,0 +1,1 @@
+import{t}from"./categories-BiDYIvlu.js";export{t as default};
