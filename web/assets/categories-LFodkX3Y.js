@@ -1,0 +1,1 @@
+import{t}from"./categories-CAnTCdiO.js";export{t as default};
