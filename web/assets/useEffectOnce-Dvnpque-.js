@@ -1,0 +1,1 @@
+import{n as s,s as t}from"./jsx-runtime-C9X_W2It.js";var r=t(s()),a=function(s){(0,r.useEffect)(s,[])};export{a as t};

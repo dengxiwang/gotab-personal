@@ -1,0 +1,1 @@
+function t(t){return null!=t&&""!==t}function s(t,s="https://"){return t?/^[a-z][a-z0-9+.-]*:/.test(t)?t:t.startsWith("//")?`${s}${t.slice(2)}`:t.startsWith("/")?t:t.includes(".")&&!t.includes(" ")?`${s}${t}`:t:""}export{t as n,s as t};
