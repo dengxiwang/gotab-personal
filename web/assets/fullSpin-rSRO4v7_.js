@@ -1,0 +1,1 @@
+import{n as e,s as t,t as n}from"./jsx-runtime-D8nDyRPw.js";import{t as r}from"./spin-CIDZ7VTK.js";var i=t(e(),1),a=n();function o(e){let{tip:t,children:n,className:i=``}=e;return(0,a.jsx)(`div`,{className:`flex-center ${i}`,style:{width:`100%`,height:`100%`},children:(0,a.jsx)(r,{size:`large`,tip:t,className:`flex`,children:n})})}var s=(0,i.memo)(o);export{s as t};

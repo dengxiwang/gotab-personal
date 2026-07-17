@@ -1,1 +1,0 @@
-import{n,s as r}from"./jsx-runtime-C9X_W2It.js";import{Fn as t,Pn as u}from"./AntdIconLight-BGxdKaPD.js";var s=r(n());function e(n){const r=s.useRef(null),u=()=>{t.cancel(r.current),r.current=null};return[()=>{u(),r.current=t(()=>{r.current=null})},t=>{r.current&&(t.stopPropagation(),u()),null==n||n(t)}]}u();export{e as t};

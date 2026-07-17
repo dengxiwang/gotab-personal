@@ -1,0 +1,1 @@
+function e(e){return e!=null&&e!==``}function t(e,t=`https://`){return e?/^[a-z][a-z0-9+.-]*:/.test(e)?e:e.startsWith(`//`)?`${t}${e.slice(2)}`:e.startsWith(`/`)?e:e.includes(`.`)&&!e.includes(` `)?`${t}${e}`:e:``}export{e as n,t};

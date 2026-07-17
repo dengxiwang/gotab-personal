@@ -1,0 +1,1 @@
+var e=(e,t)=>{e?.addEventListener===void 0?e?.addListener!==void 0&&e.addListener(t):e.addEventListener(`change`,t)},t=(e,t)=>{e?.removeEventListener===void 0?e?.removeListener!==void 0&&e.removeListener(t):e.removeEventListener(`change`,t)};export{t as n,e as t};

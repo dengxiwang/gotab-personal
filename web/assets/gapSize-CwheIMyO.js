@@ -1,1 +1,0 @@
-function e(e){return["small","middle","large"].includes(e)}function n(e){return!!e&&("number"==typeof e&&!Number.isNaN(e))}export{n,e as t};

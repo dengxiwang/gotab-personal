@@ -1,17 +1,21 @@
 if (!window.requestIdleCallback) {
     window.requestIdleCallback = function (callback, options) {
         const userTimeout = options?.timeout;
-        const timeout = userTimeout ?? Infinity;
         const startTime = Date.now();
+        const fallbackDelay = userTimeout == null
+            ? 50
+            : Math.min(50, Math.max(0, userTimeout));
 
         const id = setTimeout(() => {
-            const now = Date.now();
-            const remaining = Math.max(0, timeout - (now - startTime));
+            const callbackStart = Date.now();
+            const didTimeout = userTimeout != null && callbackStart - startTime >= userTimeout;
             callback({
-                timeRemaining: () => remaining,
-                didTimeout: userTimeout != null && now - startTime >= userTimeout,
+                timeRemaining: () => didTimeout
+                    ? 0
+                    : Math.max(0, 8 - (Date.now() - callbackStart)),
+                didTimeout,
             });
-        }, 1);
+        }, fallbackDelay);
 
         return id;
     };

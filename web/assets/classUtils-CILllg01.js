@@ -1,0 +1,1 @@
+function e(e,t,n,r,i){let a=String(e),o=Number.parseInt(a.charAt(0),10),s=Number.parseInt(a.charAt(1),10);return{width:s*t+(s-1)*i,height:o*n+(o-1)*r}}function t(e){let t=String(e);return{row:Number.parseInt(t.charAt(0),10),column:Number.parseInt(t.charAt(1),10)}}export{t as n,e as t};

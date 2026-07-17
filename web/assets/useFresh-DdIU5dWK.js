@@ -1,1 +1,0 @@
-import{n as t,s as e}from"./jsx-runtime-C9X_W2It.js";import{b as r}from"./AntdIconLight-BGxdKaPD.js";var n=r(),o=e(t(),1);function s(){const t=(0,n.c)(3),[e,r]=(0,o.useState)(0);let s;t[0]===Symbol.for("react.memo_cache_sentinel")?(s=()=>{r(c)},t[0]=s):s=t[0];const a=s;let m;return t[1]!==e?(m={key:e,refresh:a},t[1]=e,t[2]=m):m=t[2],m}function c(t){return t+1}export{s as t};
