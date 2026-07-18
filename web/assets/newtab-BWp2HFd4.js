@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-D8nDyRPw.js";import{a as t,o as n}from"./themeModeProvider-Cj7F9RjW.js";import{t as r}from"./main-BRZcyrUi.js";import{t as i}from"./myErrorPage-DWHzZTZI.js";var a=e();t({sortable:!0}),n(window.location.protocol.includes(`http`)?(0,a.jsx)(i,{}):(0,a.jsx)(r,{type:`ext`}));

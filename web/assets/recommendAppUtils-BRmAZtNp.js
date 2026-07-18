@@ -1,0 +1,1 @@
+import{a as e,k as t}from"./serverUrl-Bwtld-Qy.js";function n(){let n=t(e()),r=t(`https://web.gotab.cn`);return!n||n===r}export{n as t};
