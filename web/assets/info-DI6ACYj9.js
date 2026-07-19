@@ -1,1 +1,0 @@
-import{v as e}from"./serverUrl-Bwtld-Qy.js";var t=e||`GoTab 新标签页`,n=`搜一搜，看一看`,r=`搜索`,i=`豫ICP备2023009053号-6`,a=`https://www.rainyun.com/gotab_`;export{t as a,r as i,a as n,n as r,i as t};
