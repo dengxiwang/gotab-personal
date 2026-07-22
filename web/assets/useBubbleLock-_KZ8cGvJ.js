@@ -1,1 +1,0 @@
-import{n as e,s as t}from"./jsx-runtime-D8nDyRPw.js";import{Ct as n,wt as r}from"./pickAttrs-xaGE33C4.js";var i=t(e());n();function a(e){let t=i.useRef(null),n=()=>{r.cancel(t.current),t.current=null};return[()=>{n(),t.current=r(()=>{t.current=null})},r=>{t.current&&(r.stopPropagation(),n()),e?.(r)}]}export{a as t};

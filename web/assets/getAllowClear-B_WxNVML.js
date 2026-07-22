@@ -1,1 +1,0 @@
-import{n as e,s as t}from"./jsx-runtime-D8nDyRPw.js";import{i as n}from"./reactNode-7g-T3QrG.js";var r=t(e()),i=e=>{let t;return typeof e==`object`&&e?.clearIcon?t=e:e&&(t={clearIcon:r.createElement(n,null)}),t};export{i as t};

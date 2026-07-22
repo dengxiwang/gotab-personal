@@ -1,0 +1,1 @@
+import{n as e,s as t}from"./jsx-runtime-CdArH33I.js";var n=t(e());function r(){let[,e]=n.useReducer(e=>e+1,0);return e}export{r as t};
