@@ -1,1 +1,0 @@
-var e=[{time:`2026-7-18`,version:`2.0.2`,smallVersion:``,content:`✨ 优化主题切换效果及其他细节，提升用户体验；`}];export{e as t};
