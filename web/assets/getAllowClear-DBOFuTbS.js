@@ -1,0 +1,1 @@
+import{n as e,s as t}from"./jsx-runtime-CdArH33I.js";import{i as n}from"./reactNode-BPPGGdDm.js";var r=t(e()),i=e=>{let t;return typeof e==`object`&&e?.clearIcon?t=e:e&&(t={clearIcon:r.createElement(n,null)}),t};export{i as t};
