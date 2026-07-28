@@ -3,7 +3,7 @@
     "description": "GoTab 新标签页是一款简约美观、功能强大的浏览器起始主页，极致的个性化配置，满足您的各项要求，提高工作效率！支持创建/分享个人导航页，方便快捷的美化您的桌面，提升浏览器主页与 newtab 新标签页使用体验！",
     "author": "dengxiwang",
     "homepage_url": "https://www.gotab.cn",
-    "version": "2.0.3",
+    "version": "2.0.3.1",
     "manifest_version": 3,
     "default_locale": "zh_CN",
     "icons": {
