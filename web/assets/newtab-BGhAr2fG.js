@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-CdArH33I.js";import{a as t,o as n}from"./themeModeProvider-CGFHkP42.js";import{t as r}from"./main-CZ4URCxE.js";import{t as i}from"./myErrorPage-C6TlX7HT.js";var a=e();t({sortable:!0}),n(window.location.protocol.includes(`http`)?(0,a.jsx)(i,{}):(0,a.jsx)(r,{type:`ext`}));
