@@ -1,1 +1,0 @@
-import{a as e,o as t,s as n}from"./themeModeProvider-DIoFnwea.js";import{t as r}from"./jsx-runtime-Ciaf_P-h.js";import{t as i}from"./main-BHV11Y_h.js";import{t as a}from"./myErrorPage-C-Gn_oKZ.js";var o=r();e(),t().catch(e=>{console.error(`Sortable 初始化失败`,e)}).then(()=>n(window.location.protocol.includes(`http`)?(0,o.jsx)(a,{}):(0,o.jsx)(i,{type:`ext`})));
