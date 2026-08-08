@@ -1,1 +1,0 @@
-import{n as e,s as t}from"./jsx-runtime-B5yqYJvp.js";var n=t(e(),1),r=(0,n.createContext)(null);function i(){let e=(0,n.useContext)(r);if(!e)throw Error(`useResolvedTheme must be used within a ThemeModeProvider`);return e}export{i as n,r as t};

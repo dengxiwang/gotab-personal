@@ -1,0 +1,1 @@
+import{t as e}from"./compiler-runtime-CpSjN8De.js";import{i as t}from"./useWindowSize-DaxZ9HuF.js";var n=e();function r(e){let r=(0,n.c)(2),i=e===void 0?768:e,a;return r[0]===i?a=r[1]:(a=e=>e<i,r[0]=i,r[1]=a),t(a)}export{r as t};

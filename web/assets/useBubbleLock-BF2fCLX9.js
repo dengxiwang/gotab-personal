@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-B0Z9INg1.js";import{n as t}from"./jsx-runtime-Ciaf_P-h.js";import{N as n,P as r}from"./pickAttrs-DIkXfajW.js";var i=e(t());n();function a(e){let t=i.useRef(null),n=()=>{r.cancel(t.current),t.current=null};return[()=>{n(),t.current=r(()=>{t.current=null})},r=>{t.current&&(r.stopPropagation(),n()),e?.(r)}]}export{a as t};

@@ -1,0 +1,1 @@
+(function(){self.onmessage=e=>{let t;try{t={ok:!0,value:JSON.parse(e.data)}}catch(e){t={ok:!1,error:e instanceof Error?e.message:`JSON 解析失败`}}self.postMessage(t)}})();

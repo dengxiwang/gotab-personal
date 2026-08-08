@@ -1,1 +1,0 @@
-import{n as e,s as t}from"./jsx-runtime-B5yqYJvp.js";var n=t(e()),r=function(e){(0,n.useEffect)(e,[])};export{r as t};

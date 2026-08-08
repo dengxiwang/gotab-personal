@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-B0Z9INg1.js";import{n as t}from"./jsx-runtime-Ciaf_P-h.js";var n=e(t());function r(){var e=(0,n.useRef)(!0);return e.current?(e.current=!1,!0):e.current}var i=function(e,t){var i=r();(0,n.useEffect)(function(){if(!i)return e()},t)};export{i as t};

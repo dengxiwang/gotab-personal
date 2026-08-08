@@ -1,1 +1,0 @@
-import{o as e}from"./useWindowSize-DLA9P7nF.js";function t(t){let n=t===void 0?768:t;return e()<n}export{t};
