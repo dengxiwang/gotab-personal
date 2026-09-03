@@ -1,0 +1,1 @@
+import{$o as e,Qo as t,es as n,t as r}from"./myErrorPage-duSnGROQ.js";import{t as i}from"./jsx-runtime-Ciaf_P-h.js";import{t as a}from"./main-DDZCDGo8.js";var o=i();t(),e().catch(e=>{console.error(`Sortable 初始化失败`,e)}).then(()=>n(window.location.protocol.includes(`http`)?(0,o.jsx)(r,{}):(0,o.jsx)(a,{type:`ext`})));

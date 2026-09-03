@@ -1,1 +1,0 @@
-import{a as e}from"./rolldown-runtime-B0Z9INg1.js";import{n as t}from"./jsx-runtime-Ciaf_P-h.js";import{n}from"./pickAttrs-u3yQGbn0.js";var r=e(t()),i=e=>{let t;return typeof e==`object`&&e?.clearIcon?t=e:e&&(t={clearIcon:r.createElement(n,null)}),t};export{i as t};

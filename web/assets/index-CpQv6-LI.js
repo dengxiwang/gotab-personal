@@ -1,0 +1,1 @@
+import{$o as e,Qo as t,es as n}from"./myErrorPage-duSnGROQ.js";import{t as r}from"./jsx-runtime-Ciaf_P-h.js";import{t as i}from"./main-DDZCDGo8.js";var a=r();t(),e().catch(e=>{console.error(`Sortable 初始化失败`,e)}).then(()=>n((0,a.jsx)(i,{})));

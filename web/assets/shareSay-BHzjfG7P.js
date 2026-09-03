@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-B0Z9INg1.js";import{n as t,t as n}from"./jsx-runtime-Ciaf_P-h.js";import{o as r}from"./main-DDZCDGo8.js";import{t as i}from"./compiler-runtime-CpSjN8De.js";var a=i(),o=e(t(),1),s=n();function c(e){let t=(0,a.c)(2),{content:n}=e,i;return t[0]===n?i=t[1]:(i=(0,s.jsx)(r,{content:n}),t[0]=n,t[1]=i),i}var l=(0,o.memo)(c);export{l as default};

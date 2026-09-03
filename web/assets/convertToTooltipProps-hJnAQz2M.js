@@ -1,1 +1,0 @@
-import{a as e}from"./rolldown-runtime-B0Z9INg1.js";import{n as t}from"./jsx-runtime-Ciaf_P-h.js";var n=e(t());function r(e){return e==null?null:typeof e==`object`&&!(0,n.isValidElement)(e)?e:{title:e}}export{r as t};
