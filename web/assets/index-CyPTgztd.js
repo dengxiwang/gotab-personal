@@ -1,0 +1,1 @@
+import{ds as e,ls as t,us as n}from"./myErrorPage-DjWn1KNe.js";import{t as r}from"./jsx-runtime-DpJIb57s.js";import{t as i}from"./main-D1j9fCCD.js";var a=r();t(),n().catch(e=>{console.error(`Sortable 初始化失败`,e)}).then(()=>e((0,a.jsx)(i,{})));
