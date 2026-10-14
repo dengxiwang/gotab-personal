@@ -1,0 +1,1 @@
+function e(e,t=!1){if(!e.defaultIconPaddingEnabled)return t?0:6;let n=e.defaultIconPadding;return typeof n==`number`&&Number.isFinite(n)?Math.min(48,Math.max(0,n)):0}function t(t,n){return e(t,!!(n?.backgroundColor&&n?.fontColor))}export{t as n,e as t};

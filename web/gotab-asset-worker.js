@@ -1,19 +1,136 @@
-/* Generated at build time. Do not add navigation, configuration or API caching. */
+/* Generated at build time. Cache public home HTML, its configuration and verified build assets. */
 "use strict";
 
-const BUILD = {"version":"7741e1c47012669a805d","scope":"/","assets":[{"path":"/assets/aboutUs-5r8Zp0ik.js","hash":"d0eb6fbee37243fe2748afe9553417415ee28e01d8c81bdf53dce24dc651ed41","size":8316,"type":"script"},{"path":"/assets/action-BtS0JuiY.js","hash":"0cfb21c2dfd93f398fbbc25c4d0fe053ddfcf7fc68aa9c584fbd052a7a737751","size":18998,"type":"script"},{"path":"/assets/addComponent-DH-jZuRZ.js","hash":"910300a4d39845d9b73333e08feb6722d77bfdfa5eab54636b8b99b08aa1c531","size":4366,"type":"script"},{"path":"/assets/addorEditCardForm-B7ZISlkR.js","hash":"c21deca383bf5bec2cf7d7ce00ce800158609be2a9ef1af420d4cb2f15fc553b","size":12041,"type":"script"},{"path":"/assets/AlipayOutlined-BNiQe2XH.js","hash":"cf8743e238608209c69a01ac44c00dbe704fb40d14555bb46878258f0140b603","size":1680,"type":"script"},{"path":"/assets/backup-u7UHXFRj.js","hash":"bb4f026aa13c294721561deadc3fc42b59a5a0ea432b99d7aae3acef777e0d7d","size":20951,"type":"script"},{"path":"/assets/basicInfoSet-DbVWcfYL.js","hash":"d6ce31f2446dd350620f058be7b71e2389763b83b8e483dd7f1d0f3cdbf0e8dd","size":3970,"type":"script"},{"path":"/assets/batchSet-DebQJQ7j.js","hash":"e363283bfbbc34a54eae6706040b91b9b4901f19870442fc3c688cab9abeefed","size":26251,"type":"script"},{"path":"/assets/bottomLinks-BfjOGP8y.js","hash":"4045b35cb18ddf6af3bc243392d75f7b1465789755e171580df2ac8586b3957c","size":3367,"type":"script"},{"path":"/assets/button-BzY49BoU.js","hash":"fbd5c1fce92cfe6ebed40a9f2534db13f483cd28d828a71659ce96b690ad1f1e","size":44868,"type":"script"},{"path":"/assets/card-D6vnFFTX.js","hash":"8b40c0dbe6104190b1178efca31c698ace2024c943e6cacd7abdc6776a87ab22","size":23072,"type":"script"},{"path":"/assets/cardPreview-l5o6CQMb.js","hash":"b74bcea5687b41cc37768e1d622516f88ad97c811a04e0de98a287fc5980a211","size":2697,"type":"script"},{"path":"/assets/CaretRightOutlined-BMCSnNU8.js","hash":"8397bc6727d8109f810fb90f217e2a36c752d94706f8ce9beaf0d22b76c9efbe","size":724,"type":"script"},{"path":"/assets/categories-CfJKwIAr.js","hash":"0c35a490592ffc278b3013f7dfbdccf96ee6c42491abda924bae417f193bc7de","size":6198,"type":"script"},{"path":"/assets/clockAndDate-DIf8h3V6.js","hash":"0281f7bfb7f44f67b7e7cbc231fff3f09c5b964520050a787381c0d405d2beea","size":16214,"type":"script"},{"path":"/assets/closeIcon-BvMkTQke.css","hash":"183e1dea91b94ff1f633b304a18779c28a6b6f0f172a7178a239c89597b7e83f","size":324,"type":"style"},{"path":"/assets/closeIcon-CkVVYeVZ.js","hash":"3d67be11bd7b908cbb9ba4fb64a55a4aceb1c5653e7d0b2632ae2c6d8c13a4ab","size":11081,"type":"script"},{"path":"/assets/CloseOutlined-BWky8g6a.js","hash":"535c39d59443ee85784c528967520e35c9ea6d26bdeab5a82329024b5096beb4","size":1085,"type":"script"},{"path":"/assets/colorPresets-CbavFk8z.js","hash":"e3705187ae8c31da847bb66424a0dd339eda3ef242036273b4992c93cf31c54e","size":24916,"type":"script"},{"path":"/assets/compiler-runtime-DC85ItEU.js","hash":"2b258498b92a5287e18524baaf54ecd2f2f2cfeffc3c0640404e59f968eebec3","size":276,"type":"script"},{"path":"/assets/compositedIconContent-SnpfEFN9.js","hash":"80db18a4b833b910f5e8cdc96f846bd8f4dffe121194453c18fe77b13c5c3b50","size":401,"type":"script"},{"path":"/assets/console-DYP85BtN.js","hash":"218e549710bfba4b6de07e525007783d2309f841c91ca989b6d767da66065422","size":22862,"type":"script"},{"path":"/assets/contentLayout-BkrRU02t.js","hash":"92df48d67b260de752530ef2d816eddbc0471adb575cdf346bc988d8e9137bbc","size":807,"type":"script"},{"path":"/assets/ContextIsolator-C8VQ6tPD.js","hash":"720e36e23b6151b5981f2f9f82185578e307a9449acc4cc576676754bbf32330","size":73057,"type":"script"},{"path":"/assets/dashboard-DJcB2ptq.js","hash":"99a89a6942e5bea89fc2b67fb3b2175c11cb0674c539c4e37dc8feec30caec6d","size":6721,"type":"script"},{"path":"/assets/dataClean-P3gXgP0_.js","hash":"098035ead939f4d407c0628bd0902f4b4afcedbaeb15759ef5723bfa3fe4992c","size":2861,"type":"script"},{"path":"/assets/dataUtils-BcSSykT0.js","hash":"80ce0cda18239a5479aaf487f02a616b6be5e448baf2365610d7d1d2aaa15205","size":89555,"type":"script"},{"path":"/assets/defaultDataManage-BsQ-dOGC.js","hash":"013360fffa3aa431085350ea147bff16adfc3eb53d57c3e5728e9105f49037fd","size":5869,"type":"script"},{"path":"/assets/DisconnectOutlined-CEE7g1qK.js","hash":"269940a954d4ce7dbc22ddc38452701a134037d4e4bf430017ea637e5bd86ee7","size":1103,"type":"script"},{"path":"/assets/dockSet-CUDT-bfG.js","hash":"00ad94ae12ea467ab546047d4686fe9fe7602a77d437e3c51a711b2a9478a0e2","size":6936,"type":"script"},{"path":"/assets/donate-BbpwSLRS.js","hash":"2b9a910c5f5b6d3b5d97544a95f24a479e87d82763169cb433b350a0ca34d23f","size":3203,"type":"script"},{"path":"/assets/donate-BJ5zkg7a.js","hash":"252894435fa615f51388c29b8d21085480b31ee08702b730eeabc4ebcc0cdc10","size":689,"type":"script"},{"path":"/assets/donate-CmnZbVEQ.js","hash":"734efe62c1e36f79dd2daa668bf1389dcf882bde136bdcef87adfa8acfb73ebf","size":5163,"type":"script"},{"path":"/assets/drawer-9WwQpHHx.js","hash":"c7d650282c48349af849fe0885018371e59f792e382658d05237e1f7ad6d7468","size":14670,"type":"script"},{"path":"/assets/EllipsisOutlined-BLDUPgiN.js","hash":"c5c4ada56fc09007c4b9093f9f5dc72bfe9dc9debdd322adfd58ce0572744703","size":22580,"type":"script"},{"path":"/assets/emailSet-BBEtpgQk.js","hash":"3c9a50605dc440ea434b9b18c3e3021390485576a5e2557d40d377a89368d0f8","size":4148,"type":"script"},{"path":"/assets/es-B8_0SlNg.js","hash":"86c33c64bcc60c22363c5c38299352e24577ea709e090f41467fd77027c0ab48","size":10147,"type":"script"},{"path":"/assets/es-Tuyp5w88.js","hash":"fc57de987ff2b2501e40b229f028dcb6bca4fbd6e23c52b978d73419d7a56d8d","size":3484,"type":"script"},{"path":"/assets/extensionHostPermissions-CRMKlR9N.js","hash":"762d7fe6a42d2224b57d28727ca388083d0c0edd923ee08b5a265dbb06501c74","size":154860,"type":"script"},{"path":"/assets/EyeOutlined-BTgK_xcB.js","hash":"086f1e7836f45cec0bb0c3276b261572aba8f234b0c48a144b8c7a0801b26e69","size":1077,"type":"script"},{"path":"/assets/fade-oMs0j22I.js","hash":"69c283644c080c707a91b0e6f6254c4ae89fd4db3bd5343833e86b2051cc4e5e","size":518,"type":"script"},{"path":"/assets/fakeAssistant-blh-YTtn.css","hash":"2da08accf384227565603fe9670e4547028020fe69a3a65814ce5f17e7e01ab6","size":4050,"type":"style"},{"path":"/assets/fakeUpdateShared-DKOddSMl.js","hash":"d709f94d97435a6125fadff1602874d756e714a9fd1cf5714efc664c2d5131fa","size":1275,"type":"script"},{"path":"/assets/FileImageOutlined-BvYVQC8j.js","hash":"dfb5bf28bd9e4b553fa4d25a97a3abedc72823a0ea2f72501158e6b24547f52d","size":1024,"type":"script"},{"path":"/assets/FileSaver.min-O96tPChL.js","hash":"dbee2f03fed47e41e61fe2d657663d7fa76441670b36688aed6b2c80b519656e","size":2689,"type":"script"},{"path":"/assets/freeDrag-rA6XcCCU.js","hash":"299ab0d25f2da394a6e9dea2ad700a8313fe0367883e9a850597458406e80187","size":8303,"type":"script"},{"path":"/assets/freeDragPosition-BqKdoyBA.js","hash":"39a9b38a7fac14a3cf3ec5e2f8bf483e30c71b64e54224e0bf9f2a91e9045975","size":1367,"type":"script"},{"path":"/assets/fullClock-uTQFs3Fl.js","hash":"19586acc51d069a7a8a32306cf21680d1af020631da48c694c4bd4dfe57e4375","size":1141,"type":"script"},{"path":"/assets/fullNumFlipClock-DlmbvxGB.css","hash":"5d16d0c96a004d258eeff57b2b4a8ba623ad27226ac057b6e0c0b6b3e2a808d9","size":2776,"type":"style"},{"path":"/assets/fullNumFlipClock-DradTrMo.js","hash":"3f59a4b0dacba91178e2d5d85dc29500eb459583359d1b339c9f1423ec66a717","size":3459,"type":"script"},{"path":"/assets/FullscreenExitOutlined-D1V8jgyi.js","hash":"d7c41099aaa88825698c3dfcacb156b27449e33ad719741d1800c02385311360","size":17563,"type":"script"},{"path":"/assets/functionSwitch-CbNxvHlp.js","hash":"146c2ff26a55ec950e1fcd1759bce237b8a89c2ee4dbc3c5a2b3874c7d3a72a8","size":6617,"type":"script"},{"path":"/assets/gapSize-D72fcywO.js","hash":"e2369cfdabfd121651e46777e5a7ea6f0ae6a8ed9180d54c8d14b20dcc271e8d","size":144,"type":"script"},{"path":"/assets/handleButton-DMJeWXSA.js","hash":"ccb3b82b813cd46b05c434fb7b63961963f0e2bb7f2f34074d1f55f627f06932","size":538,"type":"script"},{"path":"/assets/harmonyOsUpdatePage-C6ElGCzT.js","hash":"4c64fdfe4e25f78cea9c42cfb19e812a199c03072f6ad782a276f941b7420190","size":1527,"type":"script"},{"path":"/assets/hi-C3frr3v6.js","hash":"f88174ad4e8f325452dcd86fc8709f30e640b314b119ebd187a8a90bc25b3134","size":1079,"type":"script"},{"path":"/assets/iconBase-Dal_dspA.js","hash":"53a1926355238949f100ff9ffa8d4c8afe36f6480721e5a89cf7581ff77ffcd9","size":2525,"type":"script"},{"path":"/assets/image-CUjfPeRr.js","hash":"42f27757eb7e6676a471da4968414d512410449973db2f55e86174d6b81d8938","size":30794,"type":"script"},{"path":"/assets/importBookmark-5euJxkHa.js","hash":"8caf2dc4e41dfbd17879f4bbf1651d73ffb1785e49469cdc25acc306c865d025","size":10129,"type":"script"},{"path":"/assets/index-CrNG-eBG.js","hash":"4b821ed792ef9702c26bc50df1e3b7d1c48a59d347e5f2848a84815e10e38238","size":1895,"type":"script"},{"path":"/assets/InfoCircleFilled-Bw1QNlj8.js","hash":"c5320296cc7ab6c7f059ccaa9d6b1567f01e5687569884a12dcd5c1e27b4b426","size":1621,"type":"script"},{"path":"/assets/input-BU5K5cfH.js","hash":"95270f96747879b60892d6f789f41a1678643c6202edbb470271c27a6b08bca7","size":10522,"type":"script"},{"path":"/assets/input-number-CyVRT0Kh.js","hash":"e1236d8cd4e33a357f1dd0fad0c243e9a700bee9a404479550b1b7f6cb7765fe","size":23948,"type":"script"},{"path":"/assets/inputUtils-DFdm3kY6.js","hash":"92c1f8fda50c12589277923c4ff7bd4ff561bb83299c7a1d87ff08e4ff85c0f4","size":231,"type":"script"},{"path":"/assets/jsonParseWorker-dNXOhuB6.js","hash":"a9ebb9ebfa18466d18fc619c98439a47dfe24ff994a298d4e6eda1448e0da655","size":175,"type":"script"},{"path":"/assets/jsx-runtime-DpJIb57s.js","hash":"057ae3827ee78fd237d8bf7760f1996c5ff7022d1cfbf2f30136b11671157393","size":8243,"type":"script"},{"path":"/assets/layout-Cwx5YpRq.js","hash":"d4d3d006775ce3fff88b570654998a4df41c42e58292a895317b71f1c67ba828","size":19082,"type":"script"},{"path":"/assets/lib-BaGo5uv4.css","hash":"2ff9e609e6fbb2caaccd95f1984579875b41f5c556a09b7752d09c32f99b758b","size":24974,"type":"style"},{"path":"/assets/lib-BBdcFtaK.js","hash":"b0b9795b5ab02ba7fb60cf8941621a0aca44f04ad12bc6c11c343d505c2f53a7","size":38691,"type":"script"},{"path":"/assets/LoadingOutlined-ChDPlbm2.js","hash":"ac004a308d343dc52664b9ce1d4bab5902b15c78b16092723ac753dd3c45cbbc","size":919,"type":"script"},{"path":"/assets/localstorageUtils-Bqc6zvn4.js","hash":"e7be3e54be30aba7f34bd4fba20d916c04f1170ba408708aa1d8527510d72e44","size":591,"type":"script"},{"path":"/assets/macOsUpdatePage-1XP9jZIe.js","hash":"1fad1f083e91a567ef7e4eefec43ce51662ac46d7fb27af51a23435bbc4f1a5a","size":1218,"type":"script"},{"path":"/assets/main-B4_LXDNW.js","hash":"8fecfb6851977b46693f6dee604e29c8536c343d5bfdc7ff2f077f362396d821","size":2612498,"type":"script"},{"path":"/assets/main-DwVAqwHt.css","hash":"ebf70b9776ca24a28f9db53874a6c70aa0e9777ae424adf90ab28fa68b09f155","size":49059,"type":"style"},{"path":"/assets/markdownPageEdit-Cx0bvVGa.js","hash":"5c5f8135e89f659935923d0a8fc5cd0f266101dd4172eaf5a6d211ac68046eee","size":2917,"type":"script"},{"path":"/assets/MoneyCollectOutlined-lqRNiDeT.js","hash":"56d55a5ae2e9feaa83c153710bd76a382d4b2c12695d7b053ae2f7ef4d65623c","size":1358,"type":"script"},{"path":"/assets/moreSet-CgaFJYO3.js","hash":"999a46dcaebffdad025ef1033523f7e741c61d437b86dda8b83253ac61dc3ea2","size":22525,"type":"script"},{"path":"/assets/myAlert-CR-81msU.js","hash":"2dd7697bf22916274252aa9330a6b0a4f20a3940a077054f589ef7c9f31eb7aa","size":459,"type":"script"},{"path":"/assets/myErrorPage--BKGbUsa.js","hash":"0ab5c6cc3888451b95b2cabb9602d77fef1fc6c159bae7238c47f8f5e47a8af3","size":730927,"type":"script"},{"path":"/assets/myErrorPage-CXH_9XUh.css","hash":"3df86293f6a59e5ea5858011c9a056e1a33ef80fb23ceaaf6645585a4188127f","size":58409,"type":"style"},{"path":"/assets/myTable-BSss-CCx.js","hash":"6a1da966ffd7a1c88a4924827d3d1d0b8762714d65d2011c1683e5a79dfb7d38","size":131394,"type":"script"},{"path":"/assets/myTextAreaChangeWithEnd-E5fcCIbI.js","hash":"2850e7bb2105360bf6a4f6105dd7d6f20fe556d95bbc749562d18b7c072d19e6","size":1213,"type":"script"},{"path":"/assets/newtab-BS4YLHDH.js","hash":"81329acced13e70fa84dcf7b50470a3ce4187230f468e8e6f101f5771c39a2e3","size":326,"type":"script"},{"path":"/assets/noPermissions-SLH1GY58.js","hash":"25938a11a6a9537a181c73f83b27fdc977b6e4840e00ea8e5df2c9a768afbfcc","size":1623,"type":"script"},{"path":"/assets/notificationManage-7vG8QE3T.js","hash":"d3b03db16569adf18e0e0949ce7926cf66b5d2da3a1e369ff0fc93f30989a99c","size":6993,"type":"script"},{"path":"/assets/openTypeSet-9h8puhqF.js","hash":"fa2b3123ebd06ae6d1515ebf172492acbd90c92aa4b0a3afd8d28cc7b52cea63","size":4146,"type":"script"},{"path":"/assets/openTypeSlice-0fr16xW_.js","hash":"03306c3140bb1298e15d776a48a7182a80503b09bb5076e2e57ee226a8082672","size":4063,"type":"script"},{"path":"/assets/pickAttrs-SQ5zGQvi.js","hash":"73a05d63d4ff98f87a58331c4354a302653bc3ac0321b5ed9d48a2acbe439744","size":3260,"type":"script"},{"path":"/assets/popconfirm-Dg2fbAJ0.js","hash":"60465959bab29d3155acb9a8f08d87f2dd0fb1383e2f851edc567cb2abe2e218","size":4379,"type":"script"},{"path":"/assets/popover-apJGRJpb.js","hash":"5c9fa250207f2e2ac1700b5fcf34c451c3e49f22fab4dc7a5736746176222799","size":5451,"type":"script"},{"path":"/assets/popup-C_CDDJI_.js","hash":"64e3e8080cd51a516b2c6046a290b9af0f3c407228dcfba874c5b5ff8c0193d3","size":11111,"type":"script"},{"path":"/assets/privacy-7HhsA6lF.js","hash":"6ea0c36f9d5b65363a94d0393690b373a7a5b972ed45a269db2b8817e9ecbfce","size":10047,"type":"script"},{"path":"/assets/ProductOutlined-BypzFCbd.js","hash":"54621ff2ee33b5d90c8a56facc62aacb5d4161d430541b3ed2529d20a5d63960","size":1121,"type":"script"},{"path":"/assets/PurePanel-C7NmeUBX.js","hash":"5bcc7f4a39da2e05ba697978a4699baa2725b1e9b95d2d151c5440f1c3587802","size":1217,"type":"script"},{"path":"/assets/reactNode-BbcGXfqa.js","hash":"5e741e73c9542335b8a4956cc0a7966eeebf9ce54ba76fc1b8bf537b7dbb1d1f","size":34247,"type":"script"},{"path":"/assets/recommendApp-BUo6lxei.js","hash":"4618fa1374c76a7130c0a6c8d506183aec2142c59e9d5d5ac224e0c6e5258772","size":5356,"type":"script"},{"path":"/assets/recommendApp-Kc0D_nvU.js","hash":"adee5d8af79d35466a686ba371bccae7f3346a3ef3cda97a0e1fc0cae000a775","size":4493,"type":"script"},{"path":"/assets/recommendAppManage-Bdb1G-vt.js","hash":"ba64d8d91cc93096df832ad01fcc1edab109a02aaf54ac7e601e2589de785f27","size":6311,"type":"script"},{"path":"/assets/ReloadOutlined-C02dw8PA.js","hash":"69e0fca0e673766c467d233f5f00b261721e6e2a92c8f32696221d0d4ef9c9c4","size":1291,"type":"script"},{"path":"/assets/reset-CopljxAz.js","hash":"b09d6c89a6bbebe31b9286d51163c1c5b9bba90398c5873640435198d6039e0f","size":13524,"type":"script"},{"path":"/assets/rolldown-runtime-B0Z9INg1.js","hash":"5e9b0d884d2ebb14e241ab38b43e41efb61bce2e74d71507b0b95b264fba4047","size":901,"type":"script"},{"path":"/assets/runtimeStore-ChciJZE8.js","hash":"598693c747006170d6762587fd021d0c32fa7176f3421780406329029f8c63c0","size":907,"type":"script"},{"path":"/assets/scrollTo-yUXplwzs.js","hash":"d7598afbe950b2992b783b15ab305eed758aa7bf53cccc56dbec642ffb9a7144","size":776,"type":"script"},{"path":"/assets/searchBar-CTIkkJ_i.js","hash":"07fee26869eae53dc0c267172005d817a97d489f9fb84c185ab5350f8fa4313f","size":13815,"type":"script"},{"path":"/assets/searchEngines-DlEjD_Af.js","hash":"cdb580ed7db2a7fda2a63f0e64a777d8ea250416e4baa8de6f682f1373481d58","size":10918,"type":"script"},{"path":"/assets/segmented-C_5Alt8k.js","hash":"276951c8f82c3d74b7f35501a6449a9f674d64f4b151a17260cd0a00e4a39aec","size":10399,"type":"script"},{"path":"/assets/serverUrl-Bc4QL7IW.js","hash":"beb37aa9b69695a031e00e175886303033387009f4b64d66bb4291cbb57fb092","size":3927,"type":"script"},{"path":"/assets/settingControls-6rhXqiag.js","hash":"8068c1487b4a0d7b852432b713c4c8b78f0916ee38fb28a58c3d5b46865eb1c4","size":1898,"type":"script"},{"path":"/assets/settingsSearch-140W7Fyu.js","hash":"5ce14163db384393eccf27f80f0c6e751330fbbf1979d513fb844c78250d784c","size":26346,"type":"script"},{"path":"/assets/share-BRcxi2EC.js","hash":"b78de067b5bfa2c9507814190d568cd3bdad780ae1ef42df0fba16d438266737","size":14733,"type":"script"},{"path":"/assets/shareHome-CBoSK9Bg.js","hash":"6e7d6ade3684aec9ce6b3576f2627fa762d81f6dffa0e84f02c80c50bebb9af4","size":3161,"type":"script"},{"path":"/assets/shareManage-CjlVtNEf.js","hash":"d9008007efbb67ea9f2dfa76a92931d7d90f3b5a4e74797150afae3b1b8fa0b1","size":8751,"type":"script"},{"path":"/assets/sharePage-C8mBWG-k.js","hash":"3d4b95b9822b58037590e2afaf0c898d0d73232ffe31d771f3996df81f85c064","size":6391,"type":"script"},{"path":"/assets/shareSay-B2tocCz7.js","hash":"f5f2dfca638981ee3dfcf3f8b258a7d7efe6f9aeb876c120675bf7c65e664591","size":377,"type":"script"},{"path":"/assets/simpleMode-AkNsGC-F.js","hash":"aa04ffe9537d4d535867f8dd89ce49f848d0c03a64243618c2ab7da6441934d8","size":8781,"type":"script"},{"path":"/assets/slider-DyKl7-ZV.js","hash":"84379f5371db1876cde0b8b154c00835360b1880ce2e821e3820a1b7c4ddc7da","size":26826,"type":"script"},{"path":"/assets/sliderScrollScopeContext-DuFUPKup.js","hash":"da83cd7254a92cd86e94cf3297381f28650576bcfcb74181fc314ee1fde3b6be","size":201,"type":"script"},{"path":"/assets/sortable.esm-CzrFDxTy.js","hash":"8a06e1fd69d35c2a6d49ca74badbc19ab320591b90e479224f1d60d0bcdad0bb","size":45741,"type":"script"},{"path":"/assets/SortAscendingOutlined-VVh7Xw2b.js","hash":"2bcda67852a50c13a0d327d4ddb8566f4300df253ef4f80d78b4d3fa5d95c594","size":1325,"type":"script"},{"path":"/assets/stockPanel-DXR93jF6.js","hash":"65e3732b3eadadbca23aaa72b1b00e0499382528cd81d782e12d256b0c16c0f6","size":633373,"type":"script"},{"path":"/assets/StopOutlined-BvNB43oo.js","hash":"c0ad162e5b304c50f49fb59a9bf9444830be7cea36530ff0fa51a14f9f084c6f","size":893,"type":"script"},{"path":"/assets/styleChecker-jOA9ot6h.js","hash":"abdec3c4952a425d1b541a2a1a68eacdbb83d6f2db70822e78bb35e786d23d45","size":421,"type":"script"},{"path":"/assets/tabs-Bg5fWK-L.js","hash":"60c687f81492766fbc3ee675ae35f0524d2f33bfa8a73b4561364e407c5dde0b","size":35797,"type":"script"},{"path":"/assets/Title-BS6XJQZj.js","hash":"db311350214bed0b2afb2820e5a5c655e0082b884fd646273dc4e240313ab314","size":20685,"type":"script"},{"path":"/assets/tooltip-89nzi91f.js","hash":"e0477de63d6539eb8c238efa17d1e1625bc45703c051315327f82afce5d5a709","size":37435,"type":"script"},{"path":"/assets/transformData-UWAZnR0D.js","hash":"6abae3ddafa38e7a21e5a56ed3e4209a07e71df884f295e401ec44a6d1ad35d5","size":768,"type":"script"},{"path":"/assets/update-D8379J85.js","hash":"773aadf3d4d0d36799c63a2d66e9df6530296a4ea5d9b11436db1562d0393ccd","size":1368,"type":"script"},{"path":"/assets/uploadSrc-BF4kBJ9y.js","hash":"2ac337ee51756c201e9326d936672b5b8fe0d50c4bec397291457fa30475a3f9","size":6533,"type":"script"},{"path":"/assets/useBubbleLock-DFZbocAz.js","hash":"1bbde39eb8a09cc3a357628803daf456f6cde1061d5a2c734ddac43afa103f91","size":1586,"type":"script"},{"path":"/assets/user-Bekc__kS.js","hash":"a71547ecf51d68e90ee23618499a62b63d28175f37478bd98814242b48014c6d","size":4252,"type":"script"},{"path":"/assets/userAppellation-Bm26tTtP.js","hash":"d09360c8699daa8e299c16ec3cc21f7f1e6a51c810f85c90448b594d4dc7cf3a","size":4103,"type":"script"},{"path":"/assets/userManage-Dp_8gYv_.js","hash":"878d2113723b45f92929286942c14727d86f981bf3a4fa10f4ce88e3275804d3","size":9570,"type":"script"},{"path":"/assets/useToken-I8yiPsOk.js","hash":"9b810aee4b18508df3161314d7fb73e4bd8d835b34ffa1dbf6bc970689ad15c7","size":47707,"type":"script"},{"path":"/assets/useUpdateEffect-BMoubcn8.js","hash":"65fa017399a53938d1536b0dd8ebcce2a57aa06444fe06a18610289c2f30234a","size":285,"type":"script"},{"path":"/assets/useWindowSize-BmXmElu1.js","hash":"8688e6d68068764c693da0d6e9d8213b90c65d3796a139c9a489095d661c2a4d","size":2940,"type":"script"},{"path":"/assets/wallpaper-C8BujJa7.css","hash":"7675ebe418c0f2cc7ddb8ccf4572dd58fd5c79fbeb79f26129ecc04fe3e54737","size":22947,"type":"style"},{"path":"/assets/wallpaper-D00VQ08j.js","hash":"703c63049cedadb149aa5269debfb1670de8b9849e6bfbc8eeec35570d6ac294","size":75734,"type":"script"},{"path":"/assets/wallpaperDisplayWorker-DtgjpVQ3.js","hash":"e4f994e55b823fc28ac3418c546722c9c22e187b0af369687e863457b799df43","size":1484,"type":"script"},{"path":"/assets/wallpaperManage-Cl9yKfK5.js","hash":"442ea25e784d5f41e17f74eae4006b419241dcef6ed8c18872a6263acae7c4b4","size":8239,"type":"script"},{"path":"/assets/websiteCategoryManage-ChZijGNS.js","hash":"108f9ccc8e65f6537924fda7cd6f93b84d0b8681d0058d1593293acf6a89319b","size":6064,"type":"script"},{"path":"/assets/websiteSource-CwgsXaN0.js","hash":"18d71e607be6fcbfce9bd95f9e35d82ddb762a887c1b48a639d7c6582f5f70ee","size":7171,"type":"script"},{"path":"/assets/websiteSourceManage-Cd_BoUKf.js","hash":"e2e93a336b3cff3a23d2fc70176202ea520c74252cb4ee9fa4d86ec1a9ead1c1","size":7250,"type":"script"},{"path":"/assets/win10UpdatePage-DmrfxM_A.js","hash":"253e7d62077bf23d468c45e768fd01b1310ec7ad101adc8bf107deb66f686265","size":1819,"type":"script"},{"path":"/assets/win11UpdatePage-CjKoekQt.js","hash":"b800001694611882adb97cf36afb089c605e9bd637ea93d29ded75c682d568bd","size":1526,"type":"script"},{"path":"/startupBackground.js?v=6c362097f19c","hash":"6c362097f19cf41d03e43456b4b0ed49f08cda62c7b8b3ca5508d5dfe813ce85","size":59890,"type":"script"},{"path":"/startupShare.js?v=b02587b4d92b","hash":"b02587b4d92bb85953e0a945c67f261b02f7aaaa38f8259ccd67d50b9370c704","size":7874,"type":"script"},{"path":"/startupTitle.js?v=14d13a0aa922","hash":"14d13a0aa922542f650109ba41af25046400c64a6ab41b065d3f5e377bc429dd","size":6278,"type":"script"}]};
+const BUILD = {"version":"f3d1cad43e08b5499fc5","scope":"/","assets":[{"path":"/assets/aboutUs-Cg3W-Pvk.js","hash":"435918a32f2e1eb2e964c2ed33cbfcde1b12328304aebda8c50549e597ff3bdf","size":6241,"type":"script"},{"path":"/assets/addComponent-D8aQ_2c2.js","hash":"e406821b5d3ab7330e17324c62be20afee6cec6b587fa2a746a030cbfa1896b5","size":4233,"type":"script"},{"path":"/assets/addorEditCardForm-BAFslAmf.js","hash":"52aa8fe8e8a7bd6711ea2cb8afbe3cea597ff4962d2338f13c6fc3286eb4444d","size":16654,"type":"script"},{"path":"/assets/addOrEditCategories-Dx8F5NkB.js","hash":"355650038decf6c04536751d54775249a2e435a4fc37385e74bd2fea58949e92","size":1457,"type":"script"},{"path":"/assets/addOrEditCountDownDaysForm-BwuMMybE.js","hash":"9e10d53588b7f257528cc16e7d43f18fc55220154cc104a0ef2edc1f0b2e6932","size":8194,"type":"script"},{"path":"/assets/addRecommendAppForm-DvEFP9Zd.js","hash":"1793efc753a5d5c7ce6d1f86959806db3269a87250c5efb118240f74cc1824f4","size":7260,"type":"script"},{"path":"/assets/AlipayOutlined-DucsJwH3.js","hash":"0568612cd88ffcaf9c3c42e702ac9896cdc7eb4ada605053359d1d1ad078ef70","size":1624,"type":"script"},{"path":"/assets/antd-img-crop.esm-3D8veeFl.js","hash":"7a686a84c9aaaf1f9dedd012d100be04fe6b350b2da02a75fd0b69162f3d2046","size":30542,"type":"script"},{"path":"/assets/antd-startup-5216f110df1b.css","hash":"5216f110df1ba0cd79a3f14f959110e29fb222ce576cee238cf3caff1370581c","size":201938,"type":"style"},{"path":"/assets/appDataSlice-Cw2UgEzZ.js","hash":"0840d7d9e51538ef9f31e977489cfe1dfb9806d9be2e4e5dfca0dc3b05290156","size":2506,"type":"script"},{"path":"/assets/assets-C6ZrQSMK-lazy-imports.js","hash":"da552ee851c62ae4645320557c4c8c3df99ba3f9dc7ffe81e653a9975765b04c","size":1259,"type":"script"},{"path":"/assets/assets-C6ZrQSMK.js","hash":"5810d5a26d3d64de81a6dc14febef6e54e9e6ab6ea034f7eb4a23a396cb31e6c","size":483292,"type":"script"},{"path":"/assets/assets-Ckxjl18f.css","hash":"5281ba95d2905f8561d2c20b83afb8faf459b9396f7d3d2490e8a3d6d4242897","size":59222,"type":"style"},{"path":"/assets/backup-CCuuy_l5.js","hash":"3abfa68dbd3ace0f7e7ce216593912b76c40e45bbd0f4c649f0600be8efa92ac","size":21405,"type":"script"},{"path":"/assets/backupDataUtils-C-OYx08u.js","hash":"f12b79cecf330852e6ddf1d2b443eccdc1523f3f16c11fbed2dee78369dfa5c1","size":131778,"type":"script"},{"path":"/assets/basicInfoSet-DiIeeE6k.js","hash":"62fb0969a1db7c5700db3d6a98914556df2063000496da87527d9cfe57bd14ed","size":4094,"type":"script"},{"path":"/assets/batchSet-CRxtG8-9.js","hash":"caf1b6c9e84165c8d4be33734b23160eb24783f8134126ddb21b4d5d2ff16f12","size":26804,"type":"script"},{"path":"/assets/bookmarkController-BUdA9eJ4-lazy-imports.js","hash":"e41b5f00e9f32aaa64a63586a10ca847846e2b788d1c2090bdbbf2e57672eee2","size":3333,"type":"script"},{"path":"/assets/bookmarkController-BUdA9eJ4.js","hash":"235c2d3e88bbf66800aba5509dec4ed175a4ebec84a8adc2230978405e580e02","size":43620,"type":"script"},{"path":"/assets/bookmarkIcon-BJUUvRQ3.js","hash":"7d120c3be432dabb2ebf9bb9edfc9d73d273b993c79d34258086e05d04887f3d","size":1088,"type":"script"},{"path":"/assets/bottomLinks-BT606i3v.js","hash":"2b261ccf4318a2a8063abb5011c990f70103881f04d679297ef739112c9a707e","size":3352,"type":"script"},{"path":"/assets/brightnessAndBlurSet-BV9PDsi2.js","hash":"7607ae266673f0bf151aa8ce3279f1ffe9dc871ed24dea511559a7e3db2be9b2","size":1727,"type":"script"},{"path":"/assets/browserNavigation-C9cJ-yP7.js","hash":"ebe1d9d241b635447f920fccd2539e9f828ccd0d11250950234e30e5445d7d83","size":1704,"type":"script"},{"path":"/assets/calendar-BjvKTekK.js","hash":"803c36aa22c794f3a6873b525c9a79cb791a1e1492ad88e9d29f902212251aab","size":12121,"type":"script"},{"path":"/assets/card-CJL5fq8D.js","hash":"f1c0d486fc47cb627dfeb04fa9e112a188b44cb3e7912792f9620f981d10703a","size":23055,"type":"script"},{"path":"/assets/cardBackdrop-CM56t_vd.js","hash":"8f44b86ee38b0e4a03bb432a9864585ea8ef47c1b9c317aa876e2b10a37ece98","size":714,"type":"script"},{"path":"/assets/cardPreview-D2Bro1Ck.js","hash":"61347f02d4abdff5121c8373726bae2817ff2d220096ad47d938f4f842d69a92","size":2734,"type":"script"},{"path":"/assets/cardRuntimeSettingsContext-dFgh1VHS.js","hash":"c0afc3ca60ec11f7131a23a5a1992b9e569098b56147ce490b3cc42c1716b2fd","size":3639,"type":"script"},{"path":"/assets/CaretRightOutlined-Bp3ZUCm2.js","hash":"32f83bcedb88702ab170e2b71980ba634068f6ffcbf67f098a8c4bc71090b5a1","size":668,"type":"script"},{"path":"/assets/categories-Bv8VLGxq.js","hash":"53f35baca6c20e648186cf91026d33629bb4e0c5bac5a04a64400f49111bc7f9","size":6524,"type":"script"},{"path":"/assets/categoriesIcons-BeBwcCfc.js","hash":"ef94e8d2d0cf11f2465871082bc57b72c7a165e13ef89109420f311fefebb17b","size":63733,"type":"script"},{"path":"/assets/categoriesManage-CtelLUpD.js","hash":"dd195d1259177cce29f2ff73839cc61959f9099ae4318c3b95e185d0f8898a7b","size":735,"type":"script"},{"path":"/assets/categoriesSettingsForm-B7kU9y6E.js","hash":"617319543ea861b88815f42e284b07de1953cc66591632748750b79a77d5a2cf","size":3467,"type":"script"},{"path":"/assets/categoryIconUtils-Dwmeship.js","hash":"7e5d7170b6e486c4442533744f19a111a5e16ed54dfe5fc51ffa898264994497","size":19832,"type":"script"},{"path":"/assets/checkbox-BxtmD3UY.js","hash":"381ad6f907d0d44fda404821c5ba01ec1ecd492dd817323a8175246a0b368162","size":4230,"type":"script"},{"path":"/assets/CheckCircleOutlined-DtW8Cpuy.js","hash":"aafa873dd1cf533134c3a500f7bde7e930b096f879b82d6533dc12af9ae6394a","size":938,"type":"script"},{"path":"/assets/CheckOutlined-CGynvagC.js","hash":"cb028eed1b2936966b18fdbb290a6dd64003bdee377ecbefba5d4ba0e1685e6b","size":559,"type":"script"},{"path":"/assets/chunk-OB3PAWPO-D28dxKPo.js","hash":"b2e33f591e98be0f5b410d1357b763580d2b728f19900157c1f24a58fdc812f0","size":37962,"type":"script"},{"path":"/assets/clockAndDate-uv-8kH7k.js","hash":"3082ae48439c7fc2cb758efaa1add394a3c13efe51da9c5f364e5c17e7446d9d","size":16429,"type":"script"},{"path":"/assets/clockAppSettingsForm-BiEgyg8h.js","hash":"4bbba1e4c268f374cf2fe3c004477aed242baff5299508f63a1422c55df39a3d","size":3753,"type":"script"},{"path":"/assets/ClockCircleOutlined-BUqrKmZq.js","hash":"c058579f0f88d32d2e908bf5f6f9bb16de9daf4371251d09baeb047d34866824","size":914,"type":"script"},{"path":"/assets/closeIcon-BB8okLK9.js","hash":"a9d270c14b452b2d35b15cdf29ebbdad748046cd0f1dd5ed530b31495f323454","size":3619,"type":"script"},{"path":"/assets/closeIcon-BvMkTQke.css","hash":"183e1dea91b94ff1f633b304a18779c28a6b6f0f172a7178a239c89597b7e83f","size":324,"type":"style"},{"path":"/assets/CloudUploadOutlined-B5MFt972.js","hash":"9d0230535642588cb33ddf09c3381ecedc66593f796089145fdb43ba6a44b022","size":1393,"type":"script"},{"path":"/assets/colorPresets-Br_v0nsV.js","hash":"706de2ee7ccf3996d27d7fb15f58f04b974f2f29cd21739cdc8eb6163f579288","size":24852,"type":"script"},{"path":"/assets/colors-NrGLxBm0.js","hash":"cc0afa3e3c035c21da2a0761fef8948320c12f5e82bf06ca6cc9f2ad392204af","size":518,"type":"script"},{"path":"/assets/compactLinkIconStyle-8P4uOc2l.js","hash":"cabffe9d2c04d7bcd8f20da38021acbfdecf800fca52deb78b1c01f340cbe2e4","size":3459,"type":"script"},{"path":"/assets/conductUtil-BZaeYwP5.js","hash":"610bf0bb7b612cbfc9a60596ccfde10cad59ff0fddf962288838c6ce2a821511","size":5649,"type":"script"},{"path":"/assets/console-DDC_YQ_D.js","hash":"649c430bc150ede252a541e9b0a17948d704a5c77e4dcac963e576d51ecb857e","size":22984,"type":"script"},{"path":"/assets/contentLayout-DL3I1nWe.js","hash":"126604e526e253f58968571ad362b52348f81f781bedf9447ad75c315104a080","size":757,"type":"script"},{"path":"/assets/ContextIsolator-BlTYwKbr.js","hash":"0b8f206b3778a77081d817367cfead932da4b30eec7855f7f615ee5fbc2b3a27","size":51544,"type":"script"},{"path":"/assets/convertToTooltipProps-CQtPX9Bo.js","hash":"8adda8c8d19c1e03ae0735f6d6ccef06953c5352cfc88d49c2f5fcce87bfa069","size":161,"type":"script"},{"path":"/assets/countDownDate-KUOKIq5V.js","hash":"290529495bb0fcb44deffb89f28b8790fcfc80342f99cc5318cdc0076b53832a","size":1582,"type":"script"},{"path":"/assets/countDownDaysContent-BkWfjQ7O.js","hash":"a9fc9fa732ee427f651caed6e59127084dd484426d37521eba8dfaad7b8ada96","size":6682,"type":"script"},{"path":"/assets/countDownDaySettings-CdWoLCF3.js","hash":"92bd40c16173eb720862d928e3b5aad330a948366c3ac220e0021594faf02cb9","size":8961,"type":"script"},{"path":"/assets/countDownDaysSettings-CD1ZE8VZ.js","hash":"68f00cc3009aea4e9910ffce9fa47b4a80606925ca3a3fe7ab5bec6faae6d8ac","size":4803,"type":"script"},{"path":"/assets/createForOfIteratorHelper-Ch1zJZ_Q.js","hash":"02992fa7b6eb3db920a5c1ab38c7bb2def59c0e968af9ac98ee75be305fbdca0","size":681,"type":"script"},{"path":"/assets/dashboard-Cs4sNbSe.js","hash":"5b579f5c4a40c2d29fe6e09774d58268ab186279eb38ce066f04ea90d9dc6c8a","size":6827,"type":"script"},{"path":"/assets/dataClean-BJof7eMy.js","hash":"2b584a4fb40d245ec14ecc6e91b67ef9ed09f7d2b1fb795b8f0fe5bd057df6d9","size":2865,"type":"script"},{"path":"/assets/dataUtils-B1xSq-PY.js","hash":"683f839907bc4e161f1c3b1402b6278e085188c68a70abd626a3d137b22535b6","size":16512,"type":"script"},{"path":"/assets/date-picker-B3BGJXi5.js","hash":"3483f6313645b35f3ddb15876e6c4e286b20df73c41f53d0f7ba929c30033395","size":104027,"type":"script"},{"path":"/assets/defaultDataManage-DA8pSrg2.js","hash":"4b3d33ee22c1d948f21f802579177157f6a1093ef1ffc0f2ba8cb7e434782f0e","size":5872,"type":"script"},{"path":"/assets/deleteCategories-D_1raENI.js","hash":"03dad05f0f5a22a80f3c7f6e183cda701edc684624a646b2050a6c35807f45d6","size":2796,"type":"script"},{"path":"/assets/deleteDockCardModal-DKkz-M5G.js","hash":"ba1bfd83d9da15682ac3a79e2394a49458a462598a816cf9a4b4b2842919ad74","size":3007,"type":"script"},{"path":"/assets/deleteFolderModal-CoAx_i69.js","hash":"9d7c696ae5fbc2358f830fabe4a3eb2701528649dc9e3762d06c39b6ff22d55c","size":1706,"type":"script"},{"path":"/assets/descriptions-3XMzJ3_f.js","hash":"b96db175218e59429801076267e38ed880a636a0e1ddcd53c933eebe25b82006","size":9799,"type":"script"},{"path":"/assets/DisconnectOutlined-CiAJUmy5.js","hash":"ecde7b5351926af72b4de6e9fbcf03310c36fc4c88e77784415fb521c364bdc0","size":1047,"type":"script"},{"path":"/assets/dist-CTTmNju_.js","hash":"de207e627c6ff2332ceaeee4de87bc0353fc56dfece73f032bdba4474917e77c","size":150707,"type":"script"},{"path":"/assets/dist-MHExlKem.js","hash":"815a87b919f2142ae93e704502c2c64ca915741bf1b46f4a0193fbf10253eedd","size":299401,"type":"script"},{"path":"/assets/dockSet-DEeHqSkc.js","hash":"89a101dbe32a81d9eab6243e96396966f6deb46cce592d1c726ecc256f788b35","size":7027,"type":"script"},{"path":"/assets/dockSlice-BgBqbNn6.js","hash":"1588a6d66ba97099285934fb9744197873696c0cde2eab6a76a3f28d5bb440d6","size":1843,"type":"script"},{"path":"/assets/donate-C3TyJO7e.js","hash":"9b382018db07b2ad4fb84d1d2c6325c301b622576717d2e08d55c0554e4d3f57","size":5168,"type":"script"},{"path":"/assets/donate-CxsrjkY6.js","hash":"71794bd6cf234a3511d8cd8c0fb632d438807958c001b525bd92f12509781c46","size":652,"type":"script"},{"path":"/assets/donate-DMJv-1a8-lazy-imports.js","hash":"51548ed60321fd027d8ee6c40ba4c4e99bb10745eb283207a0f61f7923f3fa61","size":1050,"type":"script"},{"path":"/assets/donate-DMJv-1a8.js","hash":"38cbe3bb0b9616c9ced4e528d5ca1bc99eab0ff4952d569183583de0fb69ecc5","size":2476,"type":"script"},{"path":"/assets/DownOutlined-DeIyfP6C.js","hash":"e1fc4a7c9c5dda913802d054e53ecc6cc083943a5f957506c043c4500cf0409e","size":559,"type":"script"},{"path":"/assets/drawer-CeEwJ2JE.js","hash":"1b4768c88cb9544fe232d4ec25d9e6e734b8c66b860fca80f57d8c512427851a","size":14612,"type":"script"},{"path":"/assets/drawerSlide-Z4XV8jIl.js","hash":"d9f5167935eadd13eece4f79e8fa93e0e82e701045346ead5578066beedc0664","size":1783,"type":"script"},{"path":"/assets/drawerTitle-BjbtHnPG.js","hash":"80d4fb3c5cc216c980de048496f5e78b9e0ded9971c0b9377e77e8cb5167bba7","size":3117,"type":"script"},{"path":"/assets/dropdown-D6h35PS6.js","hash":"ba6bd922db3ffd971c8edf24f546f3017cd620a5e944e83c8823fd0603acc3af","size":11097,"type":"script"},{"path":"/assets/editBlankForm-DQWaKqTh.js","hash":"09310ce1fd1b1eaf8eaabb5f6a444b42687aef4f16c3cb6090ce19fa7cadf35f","size":1787,"type":"script"},{"path":"/assets/editFolderForm-DzYlib9e.js","hash":"9bec9639fca6907122133fd4f25e387265ebabb9a396da6b4c0704fa4645d502","size":3890,"type":"script"},{"path":"/assets/EllipsisOutlined-CqrNlsoy.js","hash":"6258a4c5f533462ef4430e887ea03204d1ad1bbf349b3f0e453ea38536d4dff1","size":22521,"type":"script"},{"path":"/assets/emailSet-D-CW9v0i.js","hash":"981f46aa968e24b86ae77d7eac6066d42fb1dc34d5f28bf6b923d3979cb8d795","size":4210,"type":"script"},{"path":"/assets/es-NIs__GRG.js","hash":"0093c350655fc622094a8e6b131279d51ee80e25d75919de7ea76470d92c909d","size":10080,"type":"script"},{"path":"/assets/es-NrUaAjr-.js","hash":"9a7a3d86066d9edbd91a891fa38987f984dfe6ac53426b09b626b11c82a10a76","size":3440,"type":"script"},{"path":"/assets/esm-7pTSEMDs.js","hash":"33826449d91f6e3b72bfc77a53fd3baa54ce65573d09605a2b0d668e10209ea1","size":7394,"type":"script"},{"path":"/assets/exchangeRateModalContent-DS7wFkmN.js","hash":"0c70b81d780024db6d1032855378d0d5b89f664ffe772d7db3e6d2c5b19a2a74","size":3011,"type":"script"},{"path":"/assets/exchangeRateSettings-Dhjr_upY.js","hash":"a1aba82d609f37216792c2143221f4f0dbbdc293a0f0e3a366f3f9cbd1ecd441","size":5851,"type":"script"},{"path":"/assets/ExclamationCircleOutlined-D3dAIedp.js","hash":"6d8fc0c4c071697e0d26e81c2bf2c636697f65f047dc34fa8b567587c35e8cca","size":886,"type":"script"},{"path":"/assets/extensionHostPermissions-Bd76ClDX.js","hash":"3f211673a44b43289f638128b0809b8076783433f879ae75db53beacb0557d74","size":11080,"type":"script"},{"path":"/assets/EyeOutlined-Blj19FEx.js","hash":"457a9148cdbc0b5a8f9c6c6cee52354a04902a91fa802fef2f25d07daa1df231","size":1021,"type":"script"},{"path":"/assets/fakeAssistant-blh-YTtn.css","hash":"2da08accf384227565603fe9670e4547028020fe69a3a65814ce5f17e7e01ab6","size":4050,"type":"style"},{"path":"/assets/fakeSettings-BdXqtugZ.js","hash":"44dee2fc5a177941be95e397e068759e4876e3049cc9cf90e2b8a846ca10c373","size":3074,"type":"script"},{"path":"/assets/fakeUpdateShared-cYTInWYn.js","hash":"9e303188826715065e4425ca6dab22a1e6bfd6365cd2aa3bdf47fd1a19f3f0cf","size":962,"type":"script"},{"path":"/assets/FileImageOutlined-DjKaJPA2.js","hash":"ac9b1c8a30ae1434b1ae7c072510e84cb5bf5cd0f4a5e15230e2c3e42b6e0905","size":968,"type":"script"},{"path":"/assets/FileSaver.min-Cyu7RPL5.js","hash":"b66107923de444b0d7fcf5ded5d7f7a7a630e8438c3d2e384ed59e692c4e62df","size":2678,"type":"script"},{"path":"/assets/form-DNT1bosv.js","hash":"ed637a7451ddd006cccc53aca3d17e15d1d0460ce7ac039d53eca32941e2dc04","size":24175,"type":"script"},{"path":"/assets/freeDrag-C5spaw5i.js","hash":"bd201fd38cb1dbf1c9e6f7e4f3cbad47e78fb4a1ee208ab6b1427a2226dbeaaf","size":8614,"type":"script"},{"path":"/assets/fullClock-Dnmoo1ww.js","hash":"3b13ca57e89a78abccc4e3e5847b6a4b62b96c0556d270aa15b6b31b4ea80dfb","size":935,"type":"script"},{"path":"/assets/fullNumFlipClock-CqiVg_3Y.js","hash":"e08dcd254194c5d094575a9cd292ead6a969dc54f9d96f9ec357c67933db38ef","size":3243,"type":"script"},{"path":"/assets/fullNumFlipClock-DlmbvxGB.css","hash":"5d16d0c96a004d258eeff57b2b4a8ba623ad27226ac057b6e0c0b6b3e2a808d9","size":2776,"type":"style"},{"path":"/assets/FullscreenExitOutlined-DoENoFNX.js","hash":"e3c13f34623dafb0b14bbbb7b84a334f583e5558125fdb1dd7ea738fc9fdb459","size":17553,"type":"script"},{"path":"/assets/fullSpin-BZqN5d4R.js","hash":"07731bc7467ead550bb7d422607e914cf5020352945d7e969a84776bcdfc2f95","size":527,"type":"script"},{"path":"/assets/functionSwitch-BHBOE1EV.js","hash":"77e2b52849cfe0a6bc10885cf3b8077a813e37269042db57e821f2c00d131477","size":6646,"type":"script"},{"path":"/assets/gapSize-D72fcywO.js","hash":"e2369cfdabfd121651e46777e5a7ea6f0ae6a8ed9180d54c8d14b20dcc271e8d","size":144,"type":"script"},{"path":"/assets/globalSearchPanel-Jc1guoOF.js","hash":"8144a0b71d30456c687e7d349c1a986d93ff04320e344faa3c3ff842e9096a59","size":9527,"type":"script"},{"path":"/assets/handleButton-BVcLmrRv.js","hash":"067bfea4e0f9ec65dfccf83bb0640d3d9d9daa665f4d57bcc109a9f77954829a","size":533,"type":"script"},{"path":"/assets/harmonyOsUpdatePage-C9wFb9eG.js","hash":"18abc6b4e82f5e83bd2d0b0267bede99935f9687b1086a0e473721a6fb6fca8a","size":1370,"type":"script"},{"path":"/assets/hi-DWsHasB6.js","hash":"6de6239b7738736afdccc4827345bcea7aa6d69319278859b51703f085fe3db6","size":1079,"type":"script"},{"path":"/assets/historyLayout-C8rwraDN.js","hash":"5278746b46e0abbc3f067903a5ef2577ecc9de6c764e87c430214a3d7ea05507","size":6393,"type":"script"},{"path":"/assets/hotEventsSettings-DckCCvLb.js","hash":"1690fbfbf3ad3d154050a52d175f95c2ffaf55103566dca2bdf6df9b5feb7e39","size":3824,"type":"script"},{"path":"/assets/iconBase-DhoVFFbn.js","hash":"58d4648d51b29240a6f29625cdb5d654aa6dfbc941d3db7826ead003b6379596","size":2470,"type":"script"},{"path":"/assets/iconPadding-CvM1PPAp.js","hash":"4f5222cdd84a622c7f8a46834afeb0c3c1301498e5b50eabc96612f9cc43dbc3","size":253,"type":"script"},{"path":"/assets/iconUtil-Yft_W4gL.js","hash":"f6d1728fa0cc0365c46d9ffa6264937007925a7cba8f72d79db96557c8fb9910","size":40902,"type":"script"},{"path":"/assets/IdcardOutlined-DigvpJLv.js","hash":"207154e3c4b14f86e6d561f00fd58f23977c0021b219de26062f1f8a5d103b11","size":1278,"type":"script"},{"path":"/assets/iframeSettings-BSwNzllu.js","hash":"0110fe8584c56e2835eeb3d63da50b7076f046a762e7923a02eeb0d80cc98f3e","size":4227,"type":"script"},{"path":"/assets/image-DmGgRKve.js","hash":"1ffd4c5c47f500f3e3ea2767d51e1b13ccce8d367bc2da60f57c09d876bb1c64","size":30379,"type":"script"},{"path":"/assets/importBookmark-D62AYZaY.js","hash":"dcc3c81c81968c7d52839db94f28b06bc36e8cdf29830e734a1f9a32a9a5efa6","size":10525,"type":"script"},{"path":"/assets/index-lzQfp2NJ-lazy-imports.js","hash":"89886fcb854fde47df4f74d78c34b045c6bb03db816ba633726c8eda52375cb6","size":2363,"type":"script"},{"path":"/assets/index-lzQfp2NJ.js","hash":"d9d993456728abb03b39b632158a834e86bb5e1bc9c1cf87b7d018fb02c97cd0","size":383,"type":"script"},{"path":"/assets/InfoCircleOutlined-BOfUQ0GJ.js","hash":"a056705be7f639a42cf3ba6d877c1c38cdbf7f80086bc6e802f97a4fe71d0b63","size":879,"type":"script"},{"path":"/assets/input-number-Bi0kuDQI.js","hash":"88b304f92e3cd49e6f76ffaf9baa3b3472f5abccf0c1bc6c43a85a11c1554866","size":23886,"type":"script"},{"path":"/assets/input-SCJUH6Wd.js","hash":"5ce55a295e3bae32d3e1a2dfcfbedc031450607df59424de0626338594406d3c","size":10463,"type":"script"},{"path":"/assets/InternalLinkModeProvider-BT12w4PN.js","hash":"9a119a3d47e9c5950e5fb4ad5561295c8e48ff247b827f9d90819b4b5b466ec3","size":2637,"type":"script"},{"path":"/assets/isMobile-Cak13gvT.js","hash":"03097dbb7772b22eee93235c89c8d94fbd5a2378fee66fc338339dc893e739f0","size":2087,"type":"script"},{"path":"/assets/isVisible-LyTM44uT.js","hash":"e4ecb24ebe9d6496c1536f03523b6fd7e570108be31ba27803e7b79738532208","size":5117,"type":"script"},{"path":"/assets/jsonParseWorker-dNXOhuB6.js","hash":"a9ebb9ebfa18466d18fc619c98439a47dfe24ff994a298d4e6eda1448e0da655","size":175,"type":"script"},{"path":"/assets/Keyframes-BjQtLjKM.js","hash":"43f2e6b1971221583c65dc96ce6b062958983e62e79c0f08666d968d74da5e2a","size":364,"type":"script"},{"path":"/assets/KeyOutlined-CheR59NA.js","hash":"d759a8df4c28f7893db8082eb604a0ba182387ba00e720ec12d493c7fc88e8bf","size":1104,"type":"script"},{"path":"/assets/layout-BPc7QjIt.js","hash":"148271aa6e884ffb71427e30637c806fbb0a20674b27daf3d84d578b699a9232","size":18233,"type":"script"},{"path":"/assets/layout-Z86701XA.js","hash":"458d8ecc792451b7d46bdf406b1711d51098320ebef9fad7a607bc39ac74ce32","size":19162,"type":"script"},{"path":"/assets/lazyContentBoundary-CyzV0Q4h.js","hash":"68c81b50565b810fcfc379d1a09f051fc125c3ca5d323e65f3ad7302c9b26450","size":1854,"type":"script"},{"path":"/assets/leavePageContent-ss9Y9vEP.js","hash":"eb2f247ec3322dd7903faf06b52c008acf3d088fc623f975b086a5f0df945aac","size":1916,"type":"script"},{"path":"/assets/LeftOutlined-CmCWfwqv.js","hash":"c3a592c34ceb765ab48cd8901a63d2c32285a5ecfe1592cd6787849abbae8861","size":726,"type":"script"},{"path":"/assets/lib-BaGo5uv4.css","hash":"2ff9e609e6fbb2caaccd95f1984579875b41f5c556a09b7752d09c32f99b758b","size":24974,"type":"style"},{"path":"/assets/lib-Cv9FWSpN.js","hash":"802ce0b62ed70cfe7ccb4818d1888f29607af87cab536a5cbbc19a9849864ecd","size":38651,"type":"script"},{"path":"/assets/loadableComponent-CTMpUFP7-lazy-imports.js","hash":"0a3b8c2396c5b9dcfcb8e0c598b94b008575a74fac695036ed18c9a3f508163e","size":736,"type":"script"},{"path":"/assets/loadableComponent-CTMpUFP7.js","hash":"d67cfd34c28db3514cd7ea6742f2f9e8ae5a987383f3d9b17b5a5ad9bea6b321","size":4451,"type":"script"},{"path":"/assets/LoadingOutlined-DUZKOSJc.js","hash":"6e84b6bccafa76dc1a397f217c079922d38cd779b6a28ca8d57f1222aed60fcf","size":863,"type":"script"},{"path":"/assets/login-OXDCUuuC.js","hash":"835ff0c55716004f90cdaabb701a0679972106fb8b461f49d0dfcdbb715bb6f2","size":3868,"type":"script"},{"path":"/assets/lu-BTMFFLfj.js","hash":"1fa2aba435bd4b52aa27690517be5d8c23855db81945d6e14ff76e7eac68e21d","size":1832,"type":"script"},{"path":"/assets/macOsUpdatePage-abuQCAvs.js","hash":"619d925a3e45f94ec35d97df57765a3eb2c9c62a4727f919ff4f53587ae48024","size":1061,"type":"script"},{"path":"/assets/main-3NmRJ08G-lazy-imports.js","hash":"f39a4679feca799733285bc210a47e54536c45fea5970307b75d10e0cfa761e6","size":11928,"type":"script"},{"path":"/assets/main-3NmRJ08G.js","hash":"23b1d7ca81000970801097faa5546c81a5e884fc06dbd6c3c6b584485b2460ad","size":891410,"type":"script"},{"path":"/assets/main-Clq68o-y.css","hash":"707b8df4c8ba72023fc377942d0aea16ec4e3d07b3dfe9d017b746d203074dee","size":27988,"type":"style"},{"path":"/assets/mainLayout-DM8zPjAO.js","hash":"6497e041a2f5b04b929845bd1cf08b9363ff1493035cc9daf21d8e977f7e3e6d","size":2952,"type":"script"},{"path":"/assets/markdownContent-C3INj2oG.css","hash":"60512a96f968645ca8de527d32bbf2a010404e2fe6b5da5b61f825e8e161fc52","size":19084,"type":"style"},{"path":"/assets/markdownContent-sxLQ7i_i.js","hash":"e8bd2fd131292c70d21c7c2769c6b80cc5166804eb296117d4a10852862d88b8","size":644466,"type":"script"},{"path":"/assets/markdownPageEdit-Cu_IYbFr.js","hash":"c4bde7d437b2d68f92dd20ecf79d6824df325b5312a667e1b4a36b4e33589f7c","size":2887,"type":"script"},{"path":"/assets/menu-DXDsxNJl.js","hash":"66a0c449380b4f472ef74476b6245bb0456250830ff9afd31601327e8dddfa26","size":30360,"type":"script"},{"path":"/assets/MoneyCollectOutlined-5vTM1LYO.js","hash":"aacb1403fb5d4c4522e1eb297b8ff65c9430376bef7d82c38504fdd419cafd0b","size":1302,"type":"script"},{"path":"/assets/moreSet-BskwdBs-.js","hash":"979695409055851d5d21ebf4f9bf012c0a60211022d9eb9ca160cc04c5c6e05d","size":22776,"type":"script"},{"path":"/assets/myAlert-DrI12vRO.js","hash":"e4da2f1cfb004b511ec8d52ddedf3c6aa0811b1e697af59a2f3580c28bb59478","size":453,"type":"script"},{"path":"/assets/myDrawer2-DaBI_SP4.js","hash":"e4431742f12ec5e05429a70d459b99a3a60981860bdef420c93a93b149b46f6b","size":1738,"type":"script"},{"path":"/assets/myErrorPage-iuQGlv0d.js","hash":"2f21000ca273e5179b86c929f1633e67391f14f66d1cf0f9174e3bc9899f08cb","size":1389,"type":"script"},{"path":"/assets/myMessage-B1EfwmFn.js","hash":"cddadaabfc4a9bc56509661db931042eec065daab9ff8c5c3116efda8220578d","size":24458,"type":"script"},{"path":"/assets/myModal--M7Bz_m2.js","hash":"8a40e81c5c211e8b94ae0c54f429462cb62f05e8ec3bc5ddde7c3466caaa9ce9","size":1777,"type":"script"},{"path":"/assets/mySettingsGroup-BIdwk8YA.js","hash":"235f38aad52dfc86137dee0b6344c6a934d3b50a682deade8ca062a9f254d4bb","size":1716,"type":"script"},{"path":"/assets/mySlider-BEE7jwaf.js","hash":"8e5539dc716f00cee9c8c3354557f61f022d3e9e74262b061308d0d413480cca","size":822,"type":"script"},{"path":"/assets/myTable-B-sOLxAd.js","hash":"906058040a8bb993446b08d4919b0d6c5a5ddb59d7ea6bd2298e5d05ee4a2a29","size":131864,"type":"script"},{"path":"/assets/myTextAreaChangeWithEnd-QuJhp1dJ.js","hash":"89590f07a44ac228d9d927d67063c963b14e3c413f70a91afae3311cb299bcb6","size":1207,"type":"script"},{"path":"/assets/newtab-C_3TzKn4-lazy-imports.js","hash":"3f84fc426ce51695a60f3f2e486a7d5e7b9f99f7c44108c24e3ab57cdad3a7f3","size":2334,"type":"script"},{"path":"/assets/newtab-C_3TzKn4.js","hash":"735e8da72edd036d149f0d210129e6b233fbe6004b854ee6fbbfe6a86f3ab60a","size":445,"type":"script"},{"path":"/assets/noLogin-N0DawB2o.js","hash":"c4b74bfac4b6fb7ecdd3d29a246f9537b5665f56cf95ad30fd03b886266aead7","size":19431,"type":"script"},{"path":"/assets/noPermissions-BkGAoNxl.js","hash":"17487c512f40f4c0c759833b5caff10c0b89a1a0af916e57dffa01967f676558","size":1614,"type":"script"},{"path":"/assets/noteMainContent-rvKGwFGh.js","hash":"a6cef51a3c97a1b8e39aa0c816fcf00c7f838dff5d2a529debe29f0a5afca380","size":9954,"type":"script"},{"path":"/assets/notificationManage-OTFqCS70.js","hash":"5527361504bed0292cd70b9ba9ec85fd380481c6e278bdbfef729f7e7e7ac3fd","size":7001,"type":"script"},{"path":"/assets/openTypeSet-LWqLmCxH.js","hash":"84c2c866810ba8ec1ce04caf54adc48ecdd311fee45bc5eb80db7011d000a070","size":4218,"type":"script"},{"path":"/assets/openTypeSlice-Bfvq4A9c.js","hash":"b9a347f30fd60d2007be704fdf30ec267df817889e9c85124166319374ec8120","size":1210,"type":"script"},{"path":"/assets/options-b3qDjkhQ.js","hash":"919dc0dbd8966626f33850445ac3a445ebef6b86586b10af367adc9bfc2ef23b","size":552,"type":"script"},{"path":"/assets/pageUpdatePrompt-BpJgV-nH.js","hash":"64e5b2baa098264152d379665b501ba81ba3e47e70d474d68531b739e31b9435","size":1651,"type":"script"},{"path":"/assets/popconfirm-Dw7G-MTU.js","hash":"7987ce7dc32e8e4cc03c656decadd99adf67da86267305bba07f7ea8111e7cc4","size":4307,"type":"script"},{"path":"/assets/popover-BT5wzY_f.js","hash":"41a956509aac981bb9b9c05f9614d138fbb009923690a1ac7449efb18cd7d57d","size":5495,"type":"script"},{"path":"/assets/popup-Bzz_ZvrJ-lazy-imports.js","hash":"a322aefdc2ce59866dccf26d21365f69b628105554863af33631d2b844024438","size":1533,"type":"script"},{"path":"/assets/popup-Bzz_ZvrJ.js","hash":"0988d78d666c12f6dc448f03822c1bfa45c7a513ecacc262de8d62b5ed2f7283","size":11543,"type":"script"},{"path":"/assets/preload-helper-BLdHbfdN.js","hash":"8aec9ff75ffa86a03d51268b63126abadb3754aa5a6b6c5bb16e4e2446a63dee","size":1519,"type":"script"},{"path":"/assets/privacy-Da1aqjO6.js","hash":"fd946f60e5e80f6fd318d2c8b1d16be3be3a34a3f292affc3affadaed725a934","size":10046,"type":"script"},{"path":"/assets/progress-DNwQjsr6.js","hash":"1bc093a95c72a68caa4ef72cfd5bca8ed08b55a7722649d5a59e5430413f46ca","size":15941,"type":"script"},{"path":"/assets/qr-code-CX2IW7Fv.js","hash":"3e78d42752764a27bd0879762f99127910bc5b8aee91b465336b58e159254501","size":21679,"type":"script"},{"path":"/assets/QuestionCircleOutlined-B2kyvlSQ.js","hash":"64d2688d26ac96b1085b8a270964bd4aa227a69540bbcf9ca861306aba2b9711","size":1170,"type":"script"},{"path":"/assets/radio-CBORnQPO.js","hash":"e6764a095ea178361f6b7e9e2f728165a884532099b247e7b60b88b78fb79b80","size":10591,"type":"script"},{"path":"/assets/react-BqBvWGiZ.js","hash":"afbf849c575cba2c629dd05643c46bf9b2c0470eaa2b4469e1bf4ba07944384c","size":8714,"type":"script"},{"path":"/assets/reactNode-BbOiI-ky.js","hash":"cb814e62cd13dc39dc37720ab2cfa24e9581439b95be73801a0eda767cc7d9ed","size":33914,"type":"script"},{"path":"/assets/ReadOutlined-ClgwA3Uz.js","hash":"ba19ca5ff01db28e994705b1836f6cb8b428dbd82a70fc3ce935682f14ed0478","size":5865,"type":"script"},{"path":"/assets/recommendApp-CL9cjDuV.js","hash":"5aeea2877b450da798d0da9381da41f09d85217300c6800593269bdc1f54f693","size":4490,"type":"script"},{"path":"/assets/recommendApp-CVO-IHSk.js","hash":"218f9b2c58ca6f3218637704d49d868cd867d2789e44b495a5fe62ad5132df8f","size":5413,"type":"script"},{"path":"/assets/recommendAppManage-BtRO9ldR.js","hash":"66452d7fdc7370b4fed11e13d2ab058e828675332d33c30516dfa5a93c5a1a88","size":6470,"type":"script"},{"path":"/assets/recommendAppUtils-BMy0RCie.js","hash":"372a0613c44e0603961b6c7f9b00e5ec5d54aa508e979178b4a94851bf3d5d5c","size":145,"type":"script"},{"path":"/assets/RedoOutlined-DyxciSeX.js","hash":"99c131a3e0fe939eb328f99b30d0471dd7e52bc7647a8893821439718e25e703","size":1235,"type":"script"},{"path":"/assets/ReloadOutlined-DBpF9JIM.js","hash":"60746a6791b867066b7825d66535817ef9da6b099fe144ca038a18d9b504e89a","size":1235,"type":"script"},{"path":"/assets/reset-C1Zp2OgD.js","hash":"c37540985e69b244b67d4e753346cc79a9c9ca8dc58f7165f3260808bf7de00d","size":13935,"type":"script"},{"path":"/assets/rmbToBigWordContent-BpxWf-t-.js","hash":"81a4d0fdc8dff33adb133416470c1f3ae7a667e233023abe0628bd33277b77f9","size":3705,"type":"script"},{"path":"/assets/roundedArrow-BB-khK18.js","hash":"792e9eae2330d6920b0a963f03b2fe7bab58b80baf5937389764ea131b9aed50","size":20959,"type":"script"},{"path":"/assets/row-BNpxYZUt.js","hash":"fa8de47c3e0a3d0445588a62020f83cb08770c428ab4fba4bb764f76a42905b6","size":3535,"type":"script"},{"path":"/assets/runAfterContentReady-DNtdAeRt.js","hash":"e9938a00b68c76d447df565c00f86194dcb6641e81f3a3dadfd64980556a1c9c","size":1147,"type":"script"},{"path":"/assets/runtimeStore-WTxB3BFs.js","hash":"db8e5c1456d0e2e7b3a9a9b4b17b811b5010cb33182a6a317020ecbf02c6e334","size":912,"type":"script"},{"path":"/assets/scrollTo-CBNXi32N.js","hash":"1752716c83dcbf591cbd194df77826dc73483167677e63e37f6af47991162430","size":776,"type":"script"},{"path":"/assets/searchBar-zVGQOyFX.js","hash":"8c8e7eb441d35fcd4b4d5c8d1a3b6a04ac1d90d17224fe43ac5599c217048578","size":13882,"type":"script"},{"path":"/assets/searchBarDropdownRender-C0OBTB3-.js","hash":"2594187199ba62f92896c74de3e7f8f96540ac07320b1789d0f3bd4ad0c3fc29","size":10783,"type":"script"},{"path":"/assets/searchBarSlice-CXw23mbz.js","hash":"cb5c857345a5b11cbdf0aca93eb9433b9cbcb33edfd18a61ba833bff5d859d16","size":3889,"type":"script"},{"path":"/assets/searchEngines-Dkq_UVqL.js","hash":"69315d44e1577dfe5f0e73226c76181c5b7104bc0810e1bc8d5e0236ff51b3f1","size":11348,"type":"script"},{"path":"/assets/searchLocalData-Cu_SR11l.js","hash":"b9431bbfe982ed5f354fc650602b8e98854ed0ed6332e12a3dcf9fcbd98defce","size":3487,"type":"script"},{"path":"/assets/SearchOutlined-8MPXcURQ.js","hash":"4b3ca1fad0855c77e58373e92b4420fb1f6bd8ef31be4595f8e237af5b9fb6c0","size":1059,"type":"script"},{"path":"/assets/segmented-DGLQ3t1b.js","hash":"3cc264cbbae0b4ecd96fd7dc69df3766ea14d54a20b7afce9d7bce7e0f2b4b17","size":10418,"type":"script"},{"path":"/assets/select-BaRSWxYH.js","hash":"64681f4d057cae04c38a1bdb18c3903f683bc91394ac56be8b55eb16eaa537de","size":4106,"type":"script"},{"path":"/assets/serverSwitchService-i0B_GVAG.js","hash":"b35c845c6e74aae8d63d43561152c8a2c325546552433e57333e9d366245c33d","size":813,"type":"script"},{"path":"/assets/settingControls-C2bduXN9.js","hash":"34b38058a4ec995c9a32c841b738c1e77558674797b242ce7370130aed441247","size":1917,"type":"script"},{"path":"/assets/settingsLayout-DYVA44hO.css","hash":"5158c556125801d1861acf0e6762ca7c0df976e22aefbc3aeea10db9884bdaf6","size":1989,"type":"style"},{"path":"/assets/settingsLayout-Nc9GXyre-lazy-imports.js","hash":"be2a74aa2b775404af9be3adbfc60c5ef6d093237302c3ccdc8a37ad6a845777","size":3457,"type":"script"},{"path":"/assets/settingsLayout-Nc9GXyre.js","hash":"269b3bda97b5875e0cfcc8f568f6d71454bbe5ffedda103cfab2f54188bf6956","size":22171,"type":"script"},{"path":"/assets/settingsRegistry-CRUiq_cv-lazy-imports.js","hash":"31f28dc73257b9e055426c3507e3d5decb46761262efad7e9e83a748ba533dc7","size":6043,"type":"script"},{"path":"/assets/settingsRegistry-CRUiq_cv.js","hash":"64e522109ea30c5dae23f7298c1c0573ebe3d5d55b468d5ea17ddd24090ec147","size":26497,"type":"script"},{"path":"/assets/settingsSearch-140W7Fyu.js","hash":"5ce14163db384393eccf27f80f0c6e751330fbbf1979d513fb844c78250d784c","size":26346,"type":"script"},{"path":"/assets/share-DGiPU8WG.js","hash":"3c8fabe61674348a03d517aa86c608c956fb2271f01058d9319614146d41f152","size":13112,"type":"script"},{"path":"/assets/shareContentCache-1YAckbx2.js","hash":"835dbf2fb14fc08b9cbfc1fe18b39712a45ca38b80dc5857edd4144e69c8605c","size":4151,"type":"script"},{"path":"/assets/sharedTooltipScope-CTB45YLp.js","hash":"64cc1cdf677d3b3365f614ac6f37cbe243774f780e924496e34f2b234953dbf7","size":368,"type":"script"},{"path":"/assets/shareHome-DBuoXAHc.js","hash":"4f736b816c89db129b108ef6833a8d7c906078e782647f9238c9486a6b1efccc","size":3181,"type":"script"},{"path":"/assets/shareManage-DY55hMaN.js","hash":"80097374ccecd627eba03e7361e4382a0fc958c81f18b28c620b2ea4fdf25d62","size":6885,"type":"script"},{"path":"/assets/sharePage-WWB1Y8y2.js","hash":"b86bc76a4d948d6eb6a93f5eb61c4a7e8102784f698c6b105dcb887f06b3d556","size":4359,"type":"script"},{"path":"/assets/shareSay-BDieQAuR.js","hash":"892fcd5d9e147ef5fbaaff92ec61e6550b7aca1d2868541ff3b21cb10fdeface","size":333,"type":"script"},{"path":"/assets/simpleMode-NsmlC434.js","hash":"69804b8498a56bd3ecc90e9756de34e85425a16d0aec26fc3d3d36d24a6746a3","size":8835,"type":"script"},{"path":"/assets/simpleModeSlice-CUCJlejL.js","hash":"6892634e45eb866435e41a9570249409a20949b5d6731067a8f480f97294d953","size":2153,"type":"script"},{"path":"/assets/slider-BvnTJQxa.js","hash":"45eb35b9d282a0d9b5bb9e6c0bd4b14008f52ffa19f24ceb42eac76178510327","size":26778,"type":"script"},{"path":"/assets/sliderScrollScopeContext-DxICyhsv.js","hash":"8321b4d2654b4d83e7f1a090144dec5ece64d0d6d712439d22374faab629ef0e","size":146,"type":"script"},{"path":"/assets/SortAscendingOutlined-DQJuvrsX.js","hash":"bfb868048c067f3729229854f8dba93e147cfe2efc99e3ac82e169559b8c72ac","size":1269,"type":"script"},{"path":"/assets/space-CE6aQFg7.js","hash":"d67a4e15d4bad65cfbda73c6f2446f25b69eb27ad1743d70666053e4b22aaa7b","size":2060,"type":"script"},{"path":"/assets/startup-core-utils--FN3l7Jw.js","hash":"21be59e920167c4a1f73531fb5d0610afeb5bb7154455d2f9064623e89aae766","size":11340,"type":"script"},{"path":"/assets/startup-home-icons-zZkBr2oW.js","hash":"a594f7f700747d0fb4704ebdecd0f96ce48adeccef033abea5a1e44b22b229dd","size":14064,"type":"script"},{"path":"/assets/startup-home-utils-POQqYBnU.js","hash":"710a8fcbaba66ad54a67b49999d1a59502df8e7a4936ae5b59d67a3c558bdc37","size":3728,"type":"script"},{"path":"/assets/startup-react-runtime-C6Ah2pME.js","hash":"7c3206afad7a549d1a3548a70448e6664d6d573a00c02dc11bdf3e55f838ab5c","size":593,"type":"script"},{"path":"/assets/staticImage-BZYZOQfz.css","hash":"520957b9bab6187b71ab361b147d46aa0ad62079e1c8c584086daadb34a45fa0","size":140,"type":"style"},{"path":"/assets/staticImage-DIOb37JF.js","hash":"be2a2a486e5b0b619292bec2e297b6c33203035a9b705bd07e9758212db602b0","size":676,"type":"script"},{"path":"/assets/stockPanel-8oPuo0LL.js","hash":"71b8e4153c356b43dabcb9d8b8b98f044bbef908543b9da1a32073e2b056a13d","size":633648,"type":"script"},{"path":"/assets/stockSettings-_fCQTthT.js","hash":"d70bd6558c36ec2b06c4779b8f27c1a3e90fdbbd205481c3b0014397b93049db","size":5142,"type":"script"},{"path":"/assets/StopOutlined-DHgsdPWJ.js","hash":"88df24eb4ea0d5773f6ce40204b24983af350775d410896a478f8654bdbfeaf5","size":837,"type":"script"},{"path":"/assets/style-WhKjYJkY.js","hash":"b8ca65647e9ffa1bfa10c18cf2cf274ec96e9ba7dc359de7f0b6b6a5be519c0f","size":3555,"type":"script"},{"path":"/assets/styleChecker-Cu7CsZXd.js","hash":"8c7227f7833f0a7719b7b411b7f9a318454cd8b198948ad988607226fab86c7f","size":421,"type":"script"},{"path":"/assets/submitForInclusion-DEfAfw76.js","hash":"049735f872b60691f7078d51d3aa353106054b9d5d0f1475cdbf3fc875c260c3","size":6021,"type":"script"},{"path":"/assets/swiperSlice-B7xAEtot.js","hash":"453369c2bdd611f5ac33b7b512e199b5a0c1cf64d542b75bdcd48f3b0a6baf18","size":16880,"type":"script"},{"path":"/assets/switch-DABOS6Gl.js","hash":"849411b1bf1df9dd1c37133a098e925b5b846bdcd558f09432498da67d2c08a1","size":7952,"type":"script"},{"path":"/assets/Title-C3v9Hapc.js","hash":"3c63ebd6ec443717d4df22203423e502c89dfc890c252965205a982f529d9fcf","size":20697,"type":"script"},{"path":"/assets/tooltip-BzfflrRq.js","hash":"9f6c0d9bb305d9a2228eaee2083b2980d04d31da16e7678d4425422b67209839","size":14271,"type":"script"},{"path":"/assets/transformData-C0a8urqP.js","hash":"85f80ed203358df8e292224f13514dfdbbfe3b9199d4f0b3b8b60dbb8d82c509","size":752,"type":"script"},{"path":"/assets/tslib.es6-hGndM3U8.js","hash":"c232bce32ba55161524d02a24c1274d1eb7d5993480e36305b973a754541a3fd","size":2545,"type":"script"},{"path":"/assets/typography-CupzSC19.js","hash":"a9deeb4bee42c1c345653525ac9da34448825e1a3f8a70d5055747c042747683","size":1375,"type":"script"},{"path":"/assets/update-BbtllCUc.js","hash":"f9a879869f512c5dc7717640eedfaf2926f33d258e45e3ad17ae8ece8ea0ebb9","size":1385,"type":"script"},{"path":"/assets/upload-D_m4pypT.js","hash":"fcaf834dbb3b2614f734094a3098079b607567bc2baaa3c575c00e029df9cb72","size":35460,"type":"script"},{"path":"/assets/uploadSrc-BOK1wzGo.js","hash":"2bb34cd0758fa2d5976164c31bbfa97edcfc31678f30cb31571288e48cbccf3a","size":6685,"type":"script"},{"path":"/assets/useBubbleLock-CVsHZL95.js","hash":"1edb1be69e483c2aa84d4198f5711e7e2a98c7bf2d187d83d8ab6132ecf95aef","size":1531,"type":"script"},{"path":"/assets/useDestroyReactSortable-CFLxRY4S.js","hash":"3a8c655d040fc17d3ad476c04565eeaeb4d921cd9df040083634cab20a94be23","size":75761,"type":"script"},{"path":"/assets/useForm-CaCSZV0Q.js","hash":"d302f3784c3a5a24c6342ba46b16027dc63147c33e34060762d8aa38358efad8","size":5171,"type":"script"},{"path":"/assets/useIcons-BCkr6hNa.js","hash":"9505220805baef6dff83acd6174f1b64699dc36e952761d07b6f6d364d87c404","size":5304,"type":"script"},{"path":"/assets/useMeasure-CYuDCEqR.js","hash":"57322ec1c0f1904173a9c608a1f8f06d212fc8b6ad07cc0ca52a73e7524f6a00","size":1418,"type":"script"},{"path":"/assets/useModal-CQsxqdeq.js","hash":"74cb0be2f894df5dcfee2937cffae8a0afbc6d894291add40dab1a50cadd5987","size":39719,"type":"script"},{"path":"/assets/user-145qplht.js","hash":"175ebd49cbd81fba4cedf7b4bb5983195f470c1be7035df251c86f73ea911034","size":4241,"type":"script"},{"path":"/assets/userAppellation--xvgAFB-.js","hash":"12e0fc1381ef704776583741ef4913e453f7764f65224942cc7013778b6e63b1","size":4063,"type":"script"},{"path":"/assets/userInfo-vAS1f8tw.js","hash":"caf8ce9bfb58b35d35a5e0191f4b5380b40f8815a062ee75dae22667ac58ec1a","size":26460,"type":"script"},{"path":"/assets/userManage-DnPEF17I.js","hash":"f8a7dc30dc07a3753a2c90f81b2bf4c9811cd81f74e169a941dc1ef0f8ed94c2","size":9638,"type":"script"},{"path":"/assets/useSaveShortcut-CdC661v3.js","hash":"b6ad1b35225bdd00036bdc8099c182852eb4b69da9bd0700ecdb63f46ba2187b","size":574,"type":"script"},{"path":"/assets/useShowArrow-BWMz21Cj.js","hash":"9c1ecc9aca3860df7c342dde42cf9657f6942d3a06ac891f3be52885dceeface","size":64986,"type":"script"},{"path":"/assets/useSortableGridConfig-Bv7ZQyqw.js","hash":"d39e96cc4b41c54f332aa86dbe2b5cb48e7b7776c30d0c88bea872309ecc96c7","size":10511,"type":"script"},{"path":"/assets/useTimeTicker--W04kLqT.js","hash":"e6516833972f780b1a3a5cf30405a3c00568b583ee1a05cd36142086037c07ec","size":2548,"type":"script"},{"path":"/assets/useToken-BZfjjJbr.js","hash":"cbea7ce9ae932a189c03612e87cf2c6212aa650fa7078cb60f87334358de1359","size":48697,"type":"script"},{"path":"/assets/useUpdateEffect-BCKtQkYu.js","hash":"5b06e7561dbf0c8afb7e73f0776baf341a9b31fbad8906408960a9a00a08185f","size":230,"type":"script"},{"path":"/assets/useWindowSize-teCb6tbM.js","hash":"859b77270971cbd177ff33a3a8f0e44343cc6c00f712382bee9a90bfede5cc26","size":2885,"type":"script"},{"path":"/assets/util-BKSVJ2Zb.js","hash":"1bb8604173d4eef9de4995aae5c1d93c90c562c37ddda08c27532b7ae449703d","size":14216,"type":"script"},{"path":"/assets/wallpaper-BO2s_RCQ.js","hash":"2155eaaff8a502d338131a565e355783b2ddeca090d88be12d04ccf370dbff5a","size":75773,"type":"script"},{"path":"/assets/wallpaper-C8BujJa7.css","hash":"7675ebe418c0f2cc7ddb8ccf4572dd58fd5c79fbeb79f26129ecc04fe3e54737","size":22947,"type":"style"},{"path":"/assets/wallpaperDisplayWorker-DC7ed_CG.js","hash":"fbb491067b6583742ebc1a267b85ab4e3cb0e85305b10651889313cc2faf3ba7","size":1613,"type":"script"},{"path":"/assets/wallpaperManage-ofN7_sOr.js","hash":"a5c98c593f2a1fdee802f19a56a47cc9a0ac4f603087a7cf596cb0fd71b6024a","size":8464,"type":"script"},{"path":"/assets/wallpaperThemeSlice-B7jKPYep.js","hash":"f7ffd8ffbdf0b54736adadf898e9352099c564f166a39dd930b8a573795c6935","size":3661,"type":"script"},{"path":"/assets/wave-BjNEb829.js","hash":"a78927179e8082f91813298adf43edcf59523f10312ef13b96b43f54355760df","size":9499,"type":"script"},{"path":"/assets/weatherLayout-BQ1Lb8A9.js","hash":"5f73d0b1ded2cdb29a516b63e66545882c3817d8c6569e70c018d481b0e15aa9","size":9209,"type":"script"},{"path":"/assets/weatherSettings-BxBZ0Ue5.js","hash":"a783422aa56fa12804950c27078375270e6b49b6ac01942a3848b85476b83511","size":27860,"type":"script"},{"path":"/assets/webAssetCache-CoseN-Ub.js","hash":"d1f5b5fd95f5349d28ea294b87aaae0208bd86119f3eb559ab20c48a819e291b","size":6099,"type":"script"},{"path":"/assets/websiteCategoryManage-DlmeHKDv.js","hash":"8832d28c9eb49e5eafd775cc1d42d86c5f0b69e618a6b90023fb28f89d953ca3","size":6218,"type":"script"},{"path":"/assets/websiteSource-BgWw5fqh.js","hash":"6cf67a072a3f0ddb77a516d824dc1c28d1ab202610bd1f8bea4225d31fd184b0","size":7266,"type":"script"},{"path":"/assets/websiteSourceManage-CYaXFA-g.js","hash":"e22376d7efe10b3b86f683733ccf2cf8b6b1085b8bf411825218d4a7463c4602","size":7431,"type":"script"},{"path":"/assets/widgetAppearanceSettings-D5kl4s5I.js","hash":"0483b3b13dd86dee3720845e435d32c1086715da01a25ca9370047d6c9fd061f","size":2367,"type":"script"},{"path":"/assets/widgetStateCache-B65trNxg.js","hash":"7cfb08422d5308fc6f674702192a84a7f01a70a318878f7c92d6ccf90c43f00e","size":1630,"type":"script"},{"path":"/assets/win10UpdatePage-BR9w8QNA.js","hash":"b94089e73526c37b2d5aa9ac225d0724031034f708094c08a98b8e11782bc980","size":1671,"type":"script"},{"path":"/assets/win11UpdatePage-sitnauWD.js","hash":"92c399e1ea34764a567355ff6ee42c5dd45c1adf8623f310af64e3c95525af35","size":1378,"type":"script"},{"path":"/assets/zoom-BifWFt63.js","hash":"0c239b4078d930cf49bdaa6468fe9e0fdd0b18f6230d3f3896859ce7a4b5d367","size":2420,"type":"script"},{"path":"/startupTitle.js?v=4857dc31a625","hash":"4857dc31a6251e9a07e5210b20a134f3e7d5068ff1a77504210bdd7326f85298","size":6617,"type":"script"}]};
 const PREFIX = `gotab:assets:v1:${encodeURIComponent(BUILD.scope)}:`;
 const META_CACHE = `${PREFIX}metadata`;
 const CACHE_NAME = `${PREFIX}${BUILD.version}`;
+const PAGE_CACHE = `${PREFIX}navigation`;
+const CONFIG_CACHE = `${PREFIX}configuration`;
+const HOME_URL = new URL(BUILD.scope, self.location.origin).href;
+const HTML_VERSION = "x-gotab-html-version";
+const HTML_REVISION = "x-gotab-html-revision";
+const HTML_CONTENT_REVISION = "x-gotab-html-content-revision";
+const CONFIG_REVISION = "x-gotab-config-revision";
+const CONFIG_URL = "x-gotab-config-url";
+const CONFIG_SAVED_AT = "x-gotab-config-saved-at";
+const checkingPages = new Map();
+const detectedPages = new Map();
+const MAX_SHARE_PAGES = 16;
+const SHARE_PUBLIC_TTL = 24 * 60 * 60 * 1000;
+// Coordinate installing/active workers and simultaneous tabs, including cache eviction.
+function withBuildLock(callback) {
+	return self.navigator?.locks ? self.navigator.locks.request(`${PREFIX}update`, callback) : callback();
+}
 const META_ROOT = new URL(`${BUILD.scope}__gotab_asset_cache__/`, self.location.origin).href;
 const MAX_TOTAL_BYTES = 128 * 1024 * 1024;
 const MAX_BUILD_BYTES = 64 * 1024 * 1024;
 const MAX_ASSET_BYTES = 16 * 1024 * 1024;
+const MAX_CONFIG_BYTES = 1024 * 1024;
+const MAX_CONFIG_TOTAL_BYTES = 8 * 1024 * 1024;
 const FETCH_TIMEOUT = 30_000;
 const VERSION_PATTERN = /^[a-f0-9]{20}$/;
+const DIGEST_PATTERN = /^[a-f0-9]{64}$/;
 const currentAssets = new Map(BUILD.assets.map((asset) => [new URL(asset.path, self.location.origin).href, asset]));
 let previousBuilds = null;
 
+function configurationURL(value) {
+	try {
+		const url = new URL(value, HOME_URL);
+		if (url.origin !== self.location.origin || url.pathname !== `${BUILD.scope}siteConfig.js` || url.hash || url.username || url.password) return null;
+		const query = [...url.searchParams];
+		if (query.length && (query.length !== 1 || query[0][0] !== "v" || !/^(?:0|[1-9]\d{0,9})$/.test(query[0][1]) || Number(query[0][1]) > 0xffffffff)) return null;
+		return url.href;
+	} catch { return null; }
+}
+
+function pageKind(value) {
+	const url = new URL(value, HOME_URL);
+	if (url.origin !== self.location.origin) return "other";
+	if (!url.search && [BUILD.scope, `${BUILD.scope}index.html`].includes(url.pathname)) return "home";
+	const relative = url.pathname.slice(BUILD.scope.length);
+	if (!url.search && url.pathname.startsWith(BUILD.scope) && /^s\/[a-zA-Z0-9]+(?:\.html)?\/?$/.test(relative)) return "share";
+	return "other";
+}
+
+function pageURL(value) {
+	const url = new URL(value, HOME_URL);
+	const kind = pageKind(url.href);
+	return kind === "home" ? HOME_URL : kind === "share" ? `${url.origin}${url.pathname}` : null;
+}
+
+const publicShareKey = (url) => `${META_ROOT}share/${encodeURIComponent(url)}`;
+async function isPublicShare(url) {
+	try {
+		const entry = await (await (await caches.open(META_CACHE)).match(publicShareKey(url))).json();
+		return Number.isFinite(entry.savedAt) && Date.now() - entry.savedAt < SHARE_PUBLIC_TTL;
+	} catch { return false; }
+}
+
+async function digest(bytes) {
+	const hash = await crypto.subtle.digest("SHA-256", bytes);
+	return Array.from(new Uint8Array(hash), (byte) => byte.toString(16).padStart(2, "0")).join("");
+}
+
+let crcTable;
+function crc32(bytes) {
+	if (!crcTable) crcTable = Uint32Array.from({ length: 256 }, (_, index) => {
+		let value = index;
+		for (let bit = 0; bit < 8; bit++) value = (value >>> 1) ^ (value & 1 ? 0xedb88320 : 0);
+		return value;
+	});
+	let value = 0xffffffff;
+	for (const byte of bytes) value = crcTable[(value ^ byte) & 255] ^ (value >>> 8);
+	return (value ^ 0xffffffff) >>> 0;
+}
+
+const configKey = (revision) => `${META_ROOT}configuration/${revision}`;
+
+async function cachedConfiguration(revision) {
+	if (!DIGEST_PATTERN.test(revision)) return null;
+	const response = await (await caches.open(CONFIG_CACHE)).match(configKey(revision));
+	return response?.headers.get(CONFIG_REVISION) === revision ? response : null;
+}
+
+async function pruneConfigurations(reserveBytes = 0, reservedRevision) {
+	const cache = await caches.open(CONFIG_CACHE);
+	const entries = await Promise.all((await cache.keys()).map(async (key) => {
+		const response = await cache.match(key);
+		return { key, revision: response.headers.get(CONFIG_REVISION), size: Number(response.headers.get("content-length")) || MAX_CONFIG_BYTES, savedAt: Number(response.headers.get(CONFIG_SAVED_AT)) || 0 };
+	}));
+	entries.sort((left, right) => right.savedAt - left.savedAt);
+	const keep = new Set([reservedRevision, ...entries.slice(0, 2).map((entry) => entry.revision)]);
+	const pages = await caches.open(PAGE_CACHE);
+	for (const key of await pages.keys()) {
+		const page = await pages.match(key);
+		if (page) keep.add(page.headers.get(CONFIG_REVISION));
+	}
+	let unknown = false;
+	for (const client of await self.clients.matchAll({ type: "window", includeUncontrolled: true })) {
+		if (!new URL(client.url).pathname.startsWith(BUILD.scope)) continue;
+		const entry = await readClient(client.id);
+		if (DIGEST_PATTERN.test(entry.configRevision)) keep.add(entry.configRevision);
+		else unknown = true;
+	}
+	let total = entries.reduce((sum, entry) => sum + entry.size, reserveBytes);
+	for (const entry of [...entries].reverse()) {
+		// An unreported document may still be starting or frozen; never guess its pin.
+		if (unknown || keep.has(entry.revision)) continue;
+		await cache.delete(entry.key);
+		total -= entry.size;
+	}
+	if (total > MAX_CONFIG_TOTAL_BYTES) throw new Error("Active GoTab configurations fill the cache budget");
+}
+
+async function storeConfiguration(config) {
+	const cache = await caches.open(CONFIG_CACHE);
+	const existing = await cachedConfiguration(config.revision);
+	await pruneConfigurations(existing ? 0 : config.size, config.revision);
+	if (!existing) await cache.put(configKey(config.revision), config.response.clone());
+}
+
+// Legacy script paths only validate retained manifests for active older tabs.
+// New build manifests include startupTitle.js alone; no page snapshot runs here.
 function isAssetPath(path) {
 	return path.startsWith(`${BUILD.scope}assets/`) ||
 		["startupTitle.js", "startupShare.js", "startupBackground.js"].some((name) => path === `${BUILD.scope}${name}`);
@@ -48,6 +165,11 @@ async function pinnedBuilds() {
 	const ids = new Set(windows.filter((client) => new URL(client.url).pathname.startsWith(BUILD.scope)).map((client) => client.id));
 	const meta = await caches.open(META_CACHE);
 	const pinned = new Set();
+	const pages = await caches.open(PAGE_CACHE);
+	for (const key of await pages.keys()) {
+		const page = await pages.match(key);
+		if (page && VERSION_PATTERN.test(page.headers.get(HTML_VERSION))) pinned.add(page.headers.get(HTML_VERSION));
+	}
 	const reported = new Set();
 	for (const key of await meta.keys()) {
 		if (!key.url.startsWith(`${META_ROOT}client/`)) continue;
@@ -70,6 +192,7 @@ async function pinnedBuilds() {
 }
 
 async function pruneCaches(reserveBytes = 0) {
+	await pruneSharePages();
 	const builds = await listBuilds();
 	const pinned = await pinnedBuilds();
 	pinned.add(BUILD.version);
@@ -150,19 +273,26 @@ async function fetchAsset(url, asset) {
 	} finally { clearTimeout(timeout); }
 }
 
-async function installBuild() {
-	const requiredBytes = BUILD.assets.reduce((sum, asset) => sum + asset.size, 0);
-	if (!isManifest({ ...BUILD, savedAt: Date.now() }) || requiredBytes > MAX_BUILD_BYTES) throw new Error("GoTab build exceeds the asset cache budget");
+async function prepareBuild(build) {
+	if (!isManifest({ ...build, savedAt: Date.now() })) throw new Error("Invalid GoTab build manifest");
+	const requiredBytes = build.assets.reduce((sum, asset) => sum + asset.size, 0);
+	if (!isManifest({ ...build, savedAt: Date.now() }) || requiredBytes > MAX_BUILD_BYTES) throw new Error("GoTab build exceeds the asset cache budget");
 	const builds = await listBuilds();
-	const alreadyInstalled = builds.some((build) => build.version === BUILD.version);
+	const alreadyInstalled = builds.some((entry) => entry.version === build.version);
+	const cache = await caches.open(`${PREFIX}${build.version}`);
+	if (alreadyInstalled) {
+		// Every put was digest-verified before the manifest commit. Avoid reading
+		// and hashing the entire unchanged build on every navigation/config check.
+		const stored = new Set((await cache.keys()).map((key) => key.url));
+		if (build.assets.every((asset) => stored.has(new URL(asset.path, self.location.origin).href))) return;
+	}
 	await pruneCaches(alreadyInstalled ? 0 : requiredBytes);
-	const cache = await caches.open(CACHE_NAME);
-	const olderCaches = (await listBuilds()).filter((build) => build.version !== BUILD.version).map((build) => `${PREFIX}${build.version}`);
+	const olderCaches = (await listBuilds()).filter((entry) => entry.version !== build.version).map((entry) => `${PREFIX}${entry.version}`);
 	let index = 0;
 	let failed = false;
 	const populate = async () => {
-		while (!failed && index < BUILD.assets.length) {
-			const asset = BUILD.assets[index++];
+		while (!failed && index < build.assets.length) {
+			const asset = build.assets[index++];
 			const url = new URL(asset.path, self.location.origin).href;
 			try {
 				let response = await cache.match(url);
@@ -181,36 +311,436 @@ async function installBuild() {
 	};
 	const results = await Promise.allSettled(Array.from({ length: 4 }, populate));
 	if (results.some((result) => result.status === "rejected")) {
-		if (!alreadyInstalled) await caches.delete(CACHE_NAME);
+		if (!alreadyInstalled) await caches.delete(`${PREFIX}${build.version}`);
 		throw new Error("GoTab asset cache installation was incomplete");
 	}
 	const meta = await caches.open(META_CACHE);
-	await meta.put(`${META_ROOT}manifest/${BUILD.version}`, new Response(JSON.stringify({ ...BUILD, savedAt: Date.now() }), { headers: { "content-type": "application/json" } }));
-	// Safe to activate immediately: HTML/configuration always stay on the network,
-	// and complete caches for live older documents remain available.
-	await self.skipWaiting();
+	await meta.put(`${META_ROOT}manifest/${build.version}`, new Response(JSON.stringify({ ...build, savedAt: Date.now() }), { headers: { "content-type": "application/json" } }));
+	previousBuilds = null;
 }
 
-self.addEventListener("install", (event) => event.waitUntil(installBuild()));
+self.addEventListener("install", (event) => event.waitUntil(withBuildLock(async () => { await prepareBuild(BUILD); await self.skipWaiting(); })));
 self.addEventListener("activate", (event) => {
 	event.waitUntil((async () => {
 		await self.clients.claim();
 		for (const client of await self.clients.matchAll({ type: "window" })) client.postMessage({ type: "gotab-assets:request-version" });
+		await checkHomePage().catch(() => undefined);
 		// Installation already pruned against persisted client ownership. Defer
 		// further pruning until the next install so a navigation can report its version.
 	})());
 });
 
+async function readClient(id) {
+	try { return await (await (await caches.open(META_CACHE)).match(`${META_ROOT}client/${encodeURIComponent(id)}`)).json(); }
+	catch { return {}; }
+}
+
+async function writeClient(id, entry) {
+	if (!id) return;
+	await (await caches.open(META_CACHE)).put(`${META_ROOT}client/${encodeURIComponent(id)}`, new Response(JSON.stringify(entry)));
+}
+
+const detectedPageKey = (url) => `${META_ROOT}detected/${encodeURIComponent(url)}`;
+
+async function rememberDetectedPage(url, detected) {
+	detectedPages.set(url, detected);
+	try {
+		await (await caches.open(META_CACHE)).put(detectedPageKey(url), new Response(JSON.stringify(detected)));
+	} catch { /* Storage restrictions must not suppress a live update notice. */ }
+}
+
+async function clearDetectedPage(url) {
+	detectedPages.delete(url);
+	try { await (await caches.open(META_CACHE)).delete(detectedPageKey(url)); }
+	catch { /* A stale marker is also compared with the committed page below. */ }
+}
+
+async function readDetectedPage(url) {
+	let detected = detectedPages.get(url);
+	try {
+		if (!detected) detected = await (await (await caches.open(META_CACHE)).match(detectedPageKey(url)))?.json();
+		if (!detected || !VERSION_PATTERN.test(detected.version) || !DIGEST_PATTERN.test(detected.htmlRevision) ||
+			!DIGEST_PATTERN.test(detected.revision) || !configurationURL(detected.configURL) ||
+			(detected.configRevision !== undefined && !DIGEST_PATTERN.test(detected.configRevision))) return null;
+		const committed = await (await caches.open(PAGE_CACHE)).match(url);
+		if (committed?.headers.get(HTML_CONTENT_REVISION) === detected.htmlRevision &&
+			(!detected.configRevision || committed.headers.get(CONFIG_REVISION) === detected.configRevision)) return null;
+		return detected;
+	} catch { return detected || null; }
+}
+
+async function reportPage(client, detected) {
+	const url = pageURL(client.url);
+	if (!url) return;
+	const page = detected || await readDetectedPage(url) || await (await caches.open(PAGE_CACHE)).match(url);
+	if (!page) return;
+	const served = await readClient(client.id);
+	const pending = !(page instanceof Response);
+	client.postMessage({
+		type: pending ? "gotab-pages:detected" : "gotab-pages:ready",
+		version: pending ? page.version : page.headers.get(HTML_VERSION),
+		revision: pending ? page.revision : page.headers.get(HTML_REVISION),
+		htmlRevision: pending ? page.htmlRevision : page.headers.get(HTML_CONTENT_REVISION),
+		configRevision: pending ? page.configRevision : page.headers.get(CONFIG_REVISION),
+		configURL: pending ? page.configURL : page.headers.get(CONFIG_URL),
+		servedRevision: served.pageRevision, servedHtmlRevision: served.htmlContentRevision,
+		servedConfigRevision: served.configRevision, servedConfigURL: served.configURL,
+		pageKind: pageKind(url), pageURL: url,
+	});
+}
+
+async function broadcastPage(url, detected) {
+	for (const client of await self.clients.matchAll({ type: "window" })) {
+		if (pageURL(client.url) === url) await reportPage(client, detected);
+	}
+}
+
 self.addEventListener("message", (event) => {
-	if (event.data?.type !== "gotab-assets:client-version" || !VERSION_PATTERN.test(event.data.version) || !event.source?.id) return;
+	if (!["gotab-assets:client-version", "gotab-pages:check", "gotab-pages:refresh", "gotab-pages:share-public", "gotab-pages:share-revoke"].includes(event.data?.type) || !event.source?.id) return;
 	let source;
 	try { source = new URL(event.source.url); } catch { return; }
 	if (source.origin !== self.location.origin || !source.pathname.startsWith(BUILD.scope)) return;
 	event.waitUntil((async () => {
-		const meta = await caches.open(META_CACHE);
-		await meta.put(`${META_ROOT}client/${encodeURIComponent(event.source.id)}`, new Response(JSON.stringify({ version: event.data.version })));
-	})().catch(() => undefined));
+		const url = pageURL(source.href);
+		if (event.data.type === "gotab-pages:refresh") {
+			if (!url) { event.ports?.[0]?.postMessage({ ok: true }); return; }
+			// Deliberate refresh must not wait behind the background build lock.
+			// The navigation consumes this exact client's one-use network preference.
+			await (await caches.open(META_CACHE)).put(`${META_ROOT}refresh/${encodeURIComponent(event.source.id)}`, new Response(JSON.stringify({ url, savedAt: Date.now() })));
+			event.ports?.[0]?.postMessage({ ok: true });
+			return;
+		}
+		if (event.data.type.startsWith("gotab-pages:share-")) {
+			if (!url || pageKind(url) !== "share" || event.data.path !== source.pathname) return;
+			if (event.data.type === "gotab-pages:share-revoke") {
+				await (await caches.open(META_CACHE)).delete(publicShareKey(url));
+				await (await caches.open(PAGE_CACHE)).delete(url);
+				await clearDetectedPage(url);
+			} else {
+				// Only the application's fresh successful public payload authorizes a
+				// share shell. Its API remains outside the worker's fetch handler.
+				await (await caches.open(META_CACHE)).put(publicShareKey(url), new Response(JSON.stringify({ savedAt: Date.now() })));
+				await checkPage(url);
+			}
+			return;
+		}
+		if (event.data.type === "gotab-pages:check") {
+			if (url) {
+				// A cached navigation can discover an update before its page listener
+				// exists. Replay it without waiting for that update's resource download.
+				await reportPage(event.source);
+				await checkPage(url);
+				await reportPage(event.source);
+			}
+			return;
+		}
+		if (!VERSION_PATTERN.test(event.data.version)) return;
+		// Navigation already pinned the served HTML. The build lock may still be
+		// preparing its replacement, so do not put the pending notice behind it.
+		await reportPage(event.source);
+		await withBuildLock(async () => {
+			const entry = await readClient(event.source.id);
+			const reportedURL = typeof event.data.configURL === "string" ? configurationURL(event.data.configURL) : null;
+			await writeClient(event.source.id, { ...entry, version: event.data.version, ...(!entry.configURL && reportedURL ? { configURL: reportedURL } : {}) });
+		});
+		await reportPage(event.source);
+	})().catch(() => { event.ports?.[0]?.postMessage({ ok: false }); }));
 });
+
+async function readLimited(response, maximum) {
+	if (!response.body || Number(response.headers.get("content-length")) > maximum) throw new Error("GoTab update response is too large");
+	const reader = response.body.getReader();
+	let timeout;
+	try {
+		return await Promise.race([(async () => {
+			const chunks = []; let size = 0;
+			while (true) {
+				const { done, value } = await reader.read();
+				if (done) break;
+				size += value.byteLength;
+				if (size > maximum) throw new Error("GoTab update response is too large");
+				chunks.push(value);
+			}
+			const bytes = new Uint8Array(size); let offset = 0;
+			for (const chunk of chunks) { bytes.set(chunk, offset); offset += chunk.byteLength; }
+			return bytes;
+		})(), new Promise((_, reject) => { timeout = setTimeout(() => reject(new Error("GoTab update body timed out")), FETCH_TIMEOUT); })]);
+	} finally { clearTimeout(timeout); void reader.cancel().catch(() => undefined); }
+}
+
+async function inspectHTML(response) {
+	if (!response || response.status !== 200 || response.redirected || response.type === "opaque" || !/^text\/html(?:;|$)/i.test(response.headers.get("content-type") || "")) return null;
+	const bytes = await readLimited(response, 1024 * 1024);
+	const html = new TextDecoder().decode(bytes);
+	const tags = html.match(/<meta\s[^>]*>/gi) || [];
+	let version = null;
+	for (const tag of tags) {
+		const attributes = Object.fromEntries(Array.from(tag.matchAll(/([\w-]+)\s*=\s*(["'])(.*?)\2/g), (match) => [match[1].toLowerCase(), match[3].replace(/&quot;/g, '"').replace(/&lt;/g, "<").replace(/&amp;/g, "&")]));
+		if (attributes.name === "gotab-asset-cache" && attributes["data-scope"] === BUILD.scope) version = attributes.content;
+	}
+	if (!VERSION_PATTERN.test(version)) return null;
+	const scripts = html.replace(/<!--[\s\S]*?-->/g, "").match(/<script\s[^>]*>/gi) || [];
+	const configurations = scripts.flatMap((tag) => {
+		const match = tag.match(/\bsrc\s*=\s*(["'])(.*?)\1/i);
+		if (!match) return [];
+		const url = configurationURL(match[2].replace(/&amp;/g, "&"));
+		return url ? [url] : [];
+	});
+	const configURL = configurations.length === 1 ? configurations[0] : null;
+	const revision = await digest(bytes);
+	const headers = new Headers(response.headers);
+	headers.delete("content-encoding");
+	headers.set("content-length", String(bytes.byteLength));
+	headers.set(HTML_VERSION, version);
+	headers.set(HTML_CONTENT_REVISION, revision);
+	return { version, revision, configURL, response: new Response(bytes, { status: 200, headers }) };
+}
+
+async function inspectConfiguration(response, url) {
+	if (!configurationURL(url) || !response || response.status !== 200 || response.redirected || response.type === "opaque" || !validContentType(response, "script")) return null;
+	const bytes = await readLimited(response, MAX_CONFIG_BYTES);
+	if (!bytes.byteLength) return null;
+	const version = new URL(url).searchParams.get("v");
+	// GoTab Server serves the current file even for an old ?v=. Never accept that
+	// response as the historical configuration referenced by an older document.
+	if (version !== null && crc32(bytes) !== Number(version)) return null;
+	const revision = await digest(bytes);
+	const headers = new Headers(response.headers);
+	headers.delete("content-encoding");
+	headers.set("content-length", String(bytes.byteLength));
+	headers.set(CONFIG_REVISION, revision);
+	headers.set(CONFIG_SAVED_AT, String(Date.now()));
+	return { revision, size: bytes.byteLength, response: new Response(bytes, { status: 200, headers }) };
+}
+
+async function fetchUpdate(url) {
+	const controller = new AbortController();
+	const timer = setTimeout(() => controller.abort(), FETCH_TIMEOUT);
+	try {
+		const response = await fetch(url, { credentials: "omit", cache: "no-store", redirect: "error", signal: controller.signal });
+		if (response.status !== 200) throw new Error("GoTab update is unavailable");
+		return response;
+	} finally { clearTimeout(timer); }
+}
+
+async function preparePage(next, url) {
+	const config = await inspectConfiguration(await fetchUpdate(next.configURL), next.configURL);
+	if (!config) throw new Error("GoTab configuration does not match its document");
+	if (!new URL(next.configURL).searchParams.has("v")) {
+		const confirmed = await inspectHTML(await fetchUpdate(url));
+		if (!confirmed || confirmed.revision !== next.revision || confirmed.configURL !== next.configURL) throw new Error("GoTab document changed while preparing its configuration");
+	}
+	const revision = await digest(new TextEncoder().encode(`${next.revision}\n${config.revision}`));
+	const cache = await caches.open(PAGE_CACHE);
+	const previous = await cache.match(url);
+	if (previous?.headers.get(HTML_REVISION) === revision && await cachedConfiguration(config.revision)) {
+		await clearDetectedPage(url);
+		await broadcastPage(url);
+		return;
+	}
+	const detected = { version: next.version, revision, htmlRevision: next.revision, configRevision: config.revision, configURL: next.configURL };
+	await rememberDetectedPage(url, detected);
+	await broadcastPage(url, detected);
+	await withBuildLock(async () => {
+		if (next.version === BUILD.version) await prepareBuild(BUILD);
+		else {
+			const response = await fetchUpdate(new URL(`gotab-asset-manifest.json?v=${next.version}`, HOME_URL).href);
+			if (!/^application\/json(?:;|$)/i.test(response.headers.get("content-type") || "")) throw new Error("GoTab manifest MIME type mismatch");
+			const manifest = JSON.parse(new TextDecoder().decode(await readLimited(response, 2 * 1024 * 1024)));
+			if (manifest.version !== next.version || !isManifest({ ...manifest, savedAt: Date.now() })) throw new Error("GoTab manifest version mismatch");
+			await prepareBuild(manifest);
+		}
+		// A revocation may arrive while resources are downloading.
+		if (pageKind(url) === "share" && !(await isPublicShare(url))) return;
+		await storeConfiguration(config);
+		const headers = new Headers(next.response.headers);
+		headers.set(HTML_REVISION, revision);
+		headers.set(CONFIG_REVISION, config.revision);
+		headers.set(CONFIG_URL, next.configURL);
+		headers.set("x-gotab-page-saved-at", String(Date.now()));
+		// Atomic navigation switch: the exact config and verified build are ready.
+		await cache.put(url, new Response(next.response.body, { status: 200, headers }));
+		if (pageKind(url) === "share") {
+			if (!(await isPublicShare(url))) await cache.delete(url);
+			await pruneSharePages(url);
+		}
+	});
+	await clearDetectedPage(url);
+	await broadcastPage(url);
+}
+
+async function pruneSharePages(reservedURL) {
+	const cache = await caches.open(PAGE_CACHE);
+	const entries = await Promise.all((await cache.keys()).filter((key) => pageKind(key.url) === "share").map(async (key) => ({
+		key, savedAt: Number((await cache.match(key)).headers.get("x-gotab-page-saved-at")) || 0,
+		valid: await isPublicShare(key.url),
+	})));
+	entries.sort((a, b) => b.savedAt - a.savedAt);
+	let kept = 0;
+	for (const entry of entries) {
+		if (entry.valid && (entry.key.url === reservedURL || kept < MAX_SHARE_PAGES)) { kept += 1; continue; }
+		await cache.delete(entry.key);
+		await (await caches.open(META_CACHE)).delete(publicShareKey(entry.key.url));
+		await clearDetectedPage(entry.key.url);
+	}
+}
+
+function checkPage(url = HOME_URL) {
+	if (!checkingPages.has(url)) {
+		checkingPages.set(url, (async () => {
+			if (pageKind(url) === "share" && !(await isPublicShare(url))) return;
+			const next = await inspectHTML(await fetchUpdate(url));
+			if (!next?.configURL) return;
+			const previous = await (await caches.open(PAGE_CACHE)).match(url);
+			if (previous?.headers.get(HTML_CONTENT_REVISION) !== next.revision) {
+				const detected = { version: next.version, revision: next.revision, htmlRevision: next.revision, configURL: next.configURL };
+				await rememberDetectedPage(url, detected);
+				// Notify before fetching config or waiting for any build asset.
+				await broadcastPage(url, detected);
+			}
+			await preparePage(next, url);
+		})().finally(() => { checkingPages.delete(url); }));
+	}
+	return checkingPages.get(url);
+}
+const checkHomePage = () => checkPage(HOME_URL);
+
+async function consumeRefresh(event, url) {
+	const cache = await caches.open(META_CACHE);
+	for (const id of [event.clientId, event.replacesClientId].filter(Boolean)) {
+		const key = `${META_ROOT}refresh/${encodeURIComponent(id)}`;
+		const response = await cache.match(key);
+		if (!response) continue;
+		await cache.delete(key);
+		try {
+			const token = await response.json();
+			if (token.url === url && Date.now() - token.savedAt < 30_000) return true;
+		} catch { /* Ignore corrupt/expired one-use tokens. */ }
+	}
+	return false;
+}
+
+async function isReloadNavigation(request, event, url) {
+	// Cache modes alone also occur on ordinary navigation with cache disabled.
+	// Prefer the explicit Fetch signal, including an authoritative false value.
+	if (typeof request.isReloadNavigation === "boolean") return request.isReloadNavigation;
+	if (request.isHistoryNavigation || !["no-cache", "reload"].includes(request.cache)) return false;
+	// Older browsers: require revalidation AND replacement of this exact page.
+	// New tabs and unrelated same-tab navigations do not inherit update intent.
+	for (const id of [event.replacesClientId, event.clientId].filter(Boolean)) {
+		if ((await readClient(id)).pageURL === url) return true;
+	}
+	return false;
+}
+
+async function serveCachedNavigation(url, kind, event) {
+	try {
+		if (kind !== "home" && !(await isPublicShare(url))) return null;
+		const response = await (await caches.open(PAGE_CACHE)).match(url);
+		if (!response || !event.resultingClientId || !(await cachedConfiguration(response.headers.get(CONFIG_REVISION)))) return null;
+		await writeClient(event.resultingClientId, {
+			version: response.headers.get(HTML_VERSION), pageRevision: response.headers.get(HTML_REVISION),
+			htmlContentRevision: response.headers.get(HTML_CONTENT_REVISION), configRevision: response.headers.get(CONFIG_REVISION),
+			configURL: response.headers.get(CONFIG_URL), pageKind: kind, pageURL: url,
+		});
+		event.waitUntil(checkPage(url).catch(() => undefined));
+		return response;
+	} catch { return null; }
+}
+
+async function serveNavigation(request, event) {
+	const url = pageURL(request.url);
+	const kind = pageKind(url);
+	let refresh = false;
+	try {
+		refresh = await consumeRefresh(event, url) ||
+			(await isReloadNavigation(request, event, url) && Boolean(await readDetectedPage(url)));
+	} catch { /* Storage may be unavailable. */ }
+	if (!refresh) {
+		const cached = await serveCachedNavigation(url, kind, event);
+		if (cached) return cached;
+	}
+	let failedResponse;
+	let networkError;
+	try {
+		const network = await serveNetworkNavigation(request, event, kind, refresh);
+		if (!refresh || network.status < 500) {
+			event.waitUntil(checkPage(url).catch(() => undefined));
+			return network;
+		}
+		failedResponse = network;
+	} catch (error) { networkError = error; }
+	// A deliberate update during an outage can retain the last complete pair.
+	// Do not hide permission errors, removals or redirects behind an old page.
+	if (refresh) {
+		const cached = await serveCachedNavigation(url, kind, event);
+		if (cached) return cached;
+	}
+	if (failedResponse) return failedResponse;
+	throw networkError;
+}
+
+async function serveNetworkNavigation(request, event, kind, refresh = false) {
+	const response = await fetch(refresh ? new Request(request, { cache: "no-store" }) : request);
+	if (event.resultingClientId) {
+		try {
+			const document = await inspectHTML(response.clone());
+			if (document?.configURL) {
+				const url = pageURL(request.url);
+				const record = { version: document.version, htmlContentRevision: document.revision, configURL: document.configURL, pageKind: kind, pageURL: url, refreshConfiguration: refresh };
+				const page = await (await caches.open(PAGE_CACHE)).match(url);
+				// A user-confirmed refresh must not pair fresh unversioned HTML with
+				// the old config even when its build/script URL happens to be unchanged.
+				if (!refresh && page?.headers.get(HTML_VERSION) === document.version && page.headers.get(CONFIG_URL) === document.configURL &&
+					page.headers.get(HTML_CONTENT_REVISION) === document.revision && await cachedConfiguration(page.headers.get(CONFIG_REVISION))) {
+					record.configRevision = page.headers.get(CONFIG_REVISION);
+					record.pageRevision = page.headers.get(HTML_REVISION);
+				}
+				await writeClient(event.resultingClientId, record);
+			}
+		} catch { /* Network navigation and its initial data flow remain usable. */ }
+	}
+	return response;
+}
+
+async function serveConfiguration(request, event) {
+	const url = configurationURL(request.url);
+	let entry;
+	try {
+		entry = await readClient(event.clientId);
+		if (entry.configURL === url && DIGEST_PATTERN.test(entry.configRevision)) {
+			const cached = await cachedConfiguration(entry.configRevision);
+			if (cached) { event.waitUntil(checkPage(entry.pageURL || HOME_URL).catch(() => undefined)); return cached; }
+		}
+	} catch { /* Revoked storage falls through to the ordinary network request. */ }
+	const response = await fetch(entry?.refreshConfiguration ? new Request(request, { cache: "no-store" }) : request);
+	let inspected;
+	if (entry?.configURL === url && DIGEST_PATTERN.test(entry.configRevision)) {
+		try { inspected = await inspectConfiguration(response.clone(), url); } catch { /* A missing pin must never switch versions. */ }
+		if (!inspected || inspected.revision !== entry.configRevision) return Response.error();
+	}
+	// Only an intercepted public document may seed a configuration pin. Requests
+	// from arbitrary clients/URLs cannot populate this cache or borrow a newer pin.
+	if (entry?.configURL === url && ["home", "share"].includes(entry.pageKind)) {
+		event.waitUntil((async () => {
+			const config = inspected || await inspectConfiguration(response.clone(), url);
+			if (!config) return;
+			// If an old pinned entry was evicted, accepting today's different config
+			// would silently switch this document's version. Do not record that pair.
+			if (entry.configRevision && entry.configRevision !== config.revision) return;
+			await withBuildLock(async () => {
+				await storeConfiguration(config);
+				const current = await readClient(event.clientId);
+				if (current.configURL !== url || current.version !== entry.version) return;
+				const pageRevision = await digest(new TextEncoder().encode(`${entry.htmlContentRevision}\n${config.revision}`));
+				await writeClient(event.clientId, { ...current, configRevision: config.revision, pageRevision, refreshConfiguration: false });
+			});
+			const client = await self.clients.get(event.clientId);
+			if (client) await reportPage(client);
+		})().catch(() => undefined));
+	}
+	return response;
+}
 
 async function matchAsset(url) {
 	const current = currentAssets.get(url);
@@ -244,8 +774,15 @@ async function serveAsset(request, event) {
 
 self.addEventListener("fetch", (event) => {
 	const request = event.request;
-	if (request.method !== "GET" || request.mode === "navigate" || request.headers.has("range")) return;
+	if (request.method !== "GET" || request.headers.has("range")) return;
+	const navigationURL = new URL(request.url);
+	if (request.mode === "navigate") {
+		const kind = pageKind(navigationURL.href);
+		if (kind === "home" || kind === "share") event.respondWith(serveNavigation(request, event));
+		return;
+	}
 	const url = new URL(request.url);
+	if (configurationURL(url.href)) { event.respondWith(serveConfiguration(request, event)); return; }
 	if (url.origin !== self.location.origin || !isAssetPath(url.pathname)) return;
 	// Unknown URLs pass through untouched and cannot populate the cache, including
 	// new builds seen by an old worker, query variants and server fallback pages.
