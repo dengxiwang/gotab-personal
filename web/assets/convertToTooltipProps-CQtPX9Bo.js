@@ -1,1 +1,0 @@
-import{o as e,t}from"./react-BqBvWGiZ.js";var n=e(t());function r(e){return e==null?null:typeof e==`object`&&!(0,n.isValidElement)(e)?e:{title:e}}export{r as t};

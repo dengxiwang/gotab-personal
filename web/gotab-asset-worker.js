@@ -1,7 +1,7 @@
 /* Generated at build time. Cache public home HTML, its configuration and verified build assets. */
 "use strict";
 
-const BUILD = {"version":"f3d1cad43e08b5499fc5","scope":"/","assets":[{"path":"/assets/aboutUs-Cg3W-Pvk.js","hash":"435918a32f2e1eb2e964c2ed33cbfcde1b12328304aebda8c50549e597ff3bdf","size":6241,"type":"script"},{"path":"/assets/addComponent-D8aQ_2c2.js","hash":"e406821b5d3ab7330e17324c62be20afee6cec6b587fa2a746a030cbfa1896b5","size":4233,"type":"script"},{"path":"/assets/addorEditCardForm-BAFslAmf.js","hash":"52aa8fe8e8a7bd6711ea2cb8afbe3cea597ff4962d2338f13c6fc3286eb4444d","size":16654,"type":"script"},{"path":"/assets/addOrEditCategories-Dx8F5NkB.js","hash":"355650038decf6c04536751d54775249a2e435a4fc37385e74bd2fea58949e92","size":1457,"type":"script"},{"path":"/assets/addOrEditCountDownDaysForm-BwuMMybE.js","hash":"9e10d53588b7f257528cc16e7d43f18fc55220154cc104a0ef2edc1f0b2e6932","size":8194,"type":"script"},{"path":"/assets/addRecommendAppForm-DvEFP9Zd.js","hash":"1793efc753a5d5c7ce6d1f86959806db3269a87250c5efb118240f74cc1824f4","size":7260,"type":"script"},{"path":"/assets/AlipayOutlined-DucsJwH3.js","hash":"0568612cd88ffcaf9c3c42e702ac9896cdc7eb4ada605053359d1d1ad078ef70","size":1624,"type":"script"},{"path":"/assets/antd-img-crop.esm-3D8veeFl.js","hash":"7a686a84c9aaaf1f9dedd012d100be04fe6b350b2da02a75fd0b69162f3d2046","size":30542,"type":"script"},{"path":"/assets/antd-startup-5216f110df1b.css","hash":"5216f110df1ba0cd79a3f14f959110e29fb222ce576cee238cf3caff1370581c","size":201938,"type":"style"},{"path":"/assets/appDataSlice-Cw2UgEzZ.js","hash":"0840d7d9e51538ef9f31e977489cfe1dfb9806d9be2e4e5dfca0dc3b05290156","size":2506,"type":"script"},{"path":"/assets/assets-C6ZrQSMK-lazy-imports.js","hash":"da552ee851c62ae4645320557c4c8c3df99ba3f9dc7ffe81e653a9975765b04c","size":1259,"type":"script"},{"path":"/assets/assets-C6ZrQSMK.js","hash":"5810d5a26d3d64de81a6dc14febef6e54e9e6ab6ea034f7eb4a23a396cb31e6c","size":483292,"type":"script"},{"path":"/assets/assets-Ckxjl18f.css","hash":"5281ba95d2905f8561d2c20b83afb8faf459b9396f7d3d2490e8a3d6d4242897","size":59222,"type":"style"},{"path":"/assets/backup-CCuuy_l5.js","hash":"3abfa68dbd3ace0f7e7ce216593912b76c40e45bbd0f4c649f0600be8efa92ac","size":21405,"type":"script"},{"path":"/assets/backupDataUtils-C-OYx08u.js","hash":"f12b79cecf330852e6ddf1d2b443eccdc1523f3f16c11fbed2dee78369dfa5c1","size":131778,"type":"script"},{"path":"/assets/basicInfoSet-DiIeeE6k.js","hash":"62fb0969a1db7c5700db3d6a98914556df2063000496da87527d9cfe57bd14ed","size":4094,"type":"script"},{"path":"/assets/batchSet-CRxtG8-9.js","hash":"caf1b6c9e84165c8d4be33734b23160eb24783f8134126ddb21b4d5d2ff16f12","size":26804,"type":"script"},{"path":"/assets/bookmarkController-BUdA9eJ4-lazy-imports.js","hash":"e41b5f00e9f32aaa64a63586a10ca847846e2b788d1c2090bdbbf2e57672eee2","size":3333,"type":"script"},{"path":"/assets/bookmarkController-BUdA9eJ4.js","hash":"235c2d3e88bbf66800aba5509dec4ed175a4ebec84a8adc2230978405e580e02","size":43620,"type":"script"},{"path":"/assets/bookmarkIcon-BJUUvRQ3.js","hash":"7d120c3be432dabb2ebf9bb9edfc9d73d273b993c79d34258086e05d04887f3d","size":1088,"type":"script"},{"path":"/assets/bottomLinks-BT606i3v.js","hash":"2b261ccf4318a2a8063abb5011c990f70103881f04d679297ef739112c9a707e","size":3352,"type":"script"},{"path":"/assets/brightnessAndBlurSet-BV9PDsi2.js","hash":"7607ae266673f0bf151aa8ce3279f1ffe9dc871ed24dea511559a7e3db2be9b2","size":1727,"type":"script"},{"path":"/assets/browserNavigation-C9cJ-yP7.js","hash":"ebe1d9d241b635447f920fccd2539e9f828ccd0d11250950234e30e5445d7d83","size":1704,"type":"script"},{"path":"/assets/calendar-BjvKTekK.js","hash":"803c36aa22c794f3a6873b525c9a79cb791a1e1492ad88e9d29f902212251aab","size":12121,"type":"script"},{"path":"/assets/card-CJL5fq8D.js","hash":"f1c0d486fc47cb627dfeb04fa9e112a188b44cb3e7912792f9620f981d10703a","size":23055,"type":"script"},{"path":"/assets/cardBackdrop-CM56t_vd.js","hash":"8f44b86ee38b0e4a03bb432a9864585ea8ef47c1b9c317aa876e2b10a37ece98","size":714,"type":"script"},{"path":"/assets/cardPreview-D2Bro1Ck.js","hash":"61347f02d4abdff5121c8373726bae2817ff2d220096ad47d938f4f842d69a92","size":2734,"type":"script"},{"path":"/assets/cardRuntimeSettingsContext-dFgh1VHS.js","hash":"c0afc3ca60ec11f7131a23a5a1992b9e569098b56147ce490b3cc42c1716b2fd","size":3639,"type":"script"},{"path":"/assets/CaretRightOutlined-Bp3ZUCm2.js","hash":"32f83bcedb88702ab170e2b71980ba634068f6ffcbf67f098a8c4bc71090b5a1","size":668,"type":"script"},{"path":"/assets/categories-Bv8VLGxq.js","hash":"53f35baca6c20e648186cf91026d33629bb4e0c5bac5a04a64400f49111bc7f9","size":6524,"type":"script"},{"path":"/assets/categoriesIcons-BeBwcCfc.js","hash":"ef94e8d2d0cf11f2465871082bc57b72c7a165e13ef89109420f311fefebb17b","size":63733,"type":"script"},{"path":"/assets/categoriesManage-CtelLUpD.js","hash":"dd195d1259177cce29f2ff73839cc61959f9099ae4318c3b95e185d0f8898a7b","size":735,"type":"script"},{"path":"/assets/categoriesSettingsForm-B7kU9y6E.js","hash":"617319543ea861b88815f42e284b07de1953cc66591632748750b79a77d5a2cf","size":3467,"type":"script"},{"path":"/assets/categoryIconUtils-Dwmeship.js","hash":"7e5d7170b6e486c4442533744f19a111a5e16ed54dfe5fc51ffa898264994497","size":19832,"type":"script"},{"path":"/assets/checkbox-BxtmD3UY.js","hash":"381ad6f907d0d44fda404821c5ba01ec1ecd492dd817323a8175246a0b368162","size":4230,"type":"script"},{"path":"/assets/CheckCircleOutlined-DtW8Cpuy.js","hash":"aafa873dd1cf533134c3a500f7bde7e930b096f879b82d6533dc12af9ae6394a","size":938,"type":"script"},{"path":"/assets/CheckOutlined-CGynvagC.js","hash":"cb028eed1b2936966b18fdbb290a6dd64003bdee377ecbefba5d4ba0e1685e6b","size":559,"type":"script"},{"path":"/assets/chunk-OB3PAWPO-D28dxKPo.js","hash":"b2e33f591e98be0f5b410d1357b763580d2b728f19900157c1f24a58fdc812f0","size":37962,"type":"script"},{"path":"/assets/clockAndDate-uv-8kH7k.js","hash":"3082ae48439c7fc2cb758efaa1add394a3c13efe51da9c5f364e5c17e7446d9d","size":16429,"type":"script"},{"path":"/assets/clockAppSettingsForm-BiEgyg8h.js","hash":"4bbba1e4c268f374cf2fe3c004477aed242baff5299508f63a1422c55df39a3d","size":3753,"type":"script"},{"path":"/assets/ClockCircleOutlined-BUqrKmZq.js","hash":"c058579f0f88d32d2e908bf5f6f9bb16de9daf4371251d09baeb047d34866824","size":914,"type":"script"},{"path":"/assets/closeIcon-BB8okLK9.js","hash":"a9d270c14b452b2d35b15cdf29ebbdad748046cd0f1dd5ed530b31495f323454","size":3619,"type":"script"},{"path":"/assets/closeIcon-BvMkTQke.css","hash":"183e1dea91b94ff1f633b304a18779c28a6b6f0f172a7178a239c89597b7e83f","size":324,"type":"style"},{"path":"/assets/CloudUploadOutlined-B5MFt972.js","hash":"9d0230535642588cb33ddf09c3381ecedc66593f796089145fdb43ba6a44b022","size":1393,"type":"script"},{"path":"/assets/colorPresets-Br_v0nsV.js","hash":"706de2ee7ccf3996d27d7fb15f58f04b974f2f29cd21739cdc8eb6163f579288","size":24852,"type":"script"},{"path":"/assets/colors-NrGLxBm0.js","hash":"cc0afa3e3c035c21da2a0761fef8948320c12f5e82bf06ca6cc9f2ad392204af","size":518,"type":"script"},{"path":"/assets/compactLinkIconStyle-8P4uOc2l.js","hash":"cabffe9d2c04d7bcd8f20da38021acbfdecf800fca52deb78b1c01f340cbe2e4","size":3459,"type":"script"},{"path":"/assets/conductUtil-BZaeYwP5.js","hash":"610bf0bb7b612cbfc9a60596ccfde10cad59ff0fddf962288838c6ce2a821511","size":5649,"type":"script"},{"path":"/assets/console-DDC_YQ_D.js","hash":"649c430bc150ede252a541e9b0a17948d704a5c77e4dcac963e576d51ecb857e","size":22984,"type":"script"},{"path":"/assets/contentLayout-DL3I1nWe.js","hash":"126604e526e253f58968571ad362b52348f81f781bedf9447ad75c315104a080","size":757,"type":"script"},{"path":"/assets/ContextIsolator-BlTYwKbr.js","hash":"0b8f206b3778a77081d817367cfead932da4b30eec7855f7f615ee5fbc2b3a27","size":51544,"type":"script"},{"path":"/assets/convertToTooltipProps-CQtPX9Bo.js","hash":"8adda8c8d19c1e03ae0735f6d6ccef06953c5352cfc88d49c2f5fcce87bfa069","size":161,"type":"script"},{"path":"/assets/countDownDate-KUOKIq5V.js","hash":"290529495bb0fcb44deffb89f28b8790fcfc80342f99cc5318cdc0076b53832a","size":1582,"type":"script"},{"path":"/assets/countDownDaysContent-BkWfjQ7O.js","hash":"a9fc9fa732ee427f651caed6e59127084dd484426d37521eba8dfaad7b8ada96","size":6682,"type":"script"},{"path":"/assets/countDownDaySettings-CdWoLCF3.js","hash":"92bd40c16173eb720862d928e3b5aad330a948366c3ac220e0021594faf02cb9","size":8961,"type":"script"},{"path":"/assets/countDownDaysSettings-CD1ZE8VZ.js","hash":"68f00cc3009aea4e9910ffce9fa47b4a80606925ca3a3fe7ab5bec6faae6d8ac","size":4803,"type":"script"},{"path":"/assets/createForOfIteratorHelper-Ch1zJZ_Q.js","hash":"02992fa7b6eb3db920a5c1ab38c7bb2def59c0e968af9ac98ee75be305fbdca0","size":681,"type":"script"},{"path":"/assets/dashboard-Cs4sNbSe.js","hash":"5b579f5c4a40c2d29fe6e09774d58268ab186279eb38ce066f04ea90d9dc6c8a","size":6827,"type":"script"},{"path":"/assets/dataClean-BJof7eMy.js","hash":"2b584a4fb40d245ec14ecc6e91b67ef9ed09f7d2b1fb795b8f0fe5bd057df6d9","size":2865,"type":"script"},{"path":"/assets/dataUtils-B1xSq-PY.js","hash":"683f839907bc4e161f1c3b1402b6278e085188c68a70abd626a3d137b22535b6","size":16512,"type":"script"},{"path":"/assets/date-picker-B3BGJXi5.js","hash":"3483f6313645b35f3ddb15876e6c4e286b20df73c41f53d0f7ba929c30033395","size":104027,"type":"script"},{"path":"/assets/defaultDataManage-DA8pSrg2.js","hash":"4b3d33ee22c1d948f21f802579177157f6a1093ef1ffc0f2ba8cb7e434782f0e","size":5872,"type":"script"},{"path":"/assets/deleteCategories-D_1raENI.js","hash":"03dad05f0f5a22a80f3c7f6e183cda701edc684624a646b2050a6c35807f45d6","size":2796,"type":"script"},{"path":"/assets/deleteDockCardModal-DKkz-M5G.js","hash":"ba1bfd83d9da15682ac3a79e2394a49458a462598a816cf9a4b4b2842919ad74","size":3007,"type":"script"},{"path":"/assets/deleteFolderModal-CoAx_i69.js","hash":"9d7c696ae5fbc2358f830fabe4a3eb2701528649dc9e3762d06c39b6ff22d55c","size":1706,"type":"script"},{"path":"/assets/descriptions-3XMzJ3_f.js","hash":"b96db175218e59429801076267e38ed880a636a0e1ddcd53c933eebe25b82006","size":9799,"type":"script"},{"path":"/assets/DisconnectOutlined-CiAJUmy5.js","hash":"ecde7b5351926af72b4de6e9fbcf03310c36fc4c88e77784415fb521c364bdc0","size":1047,"type":"script"},{"path":"/assets/dist-CTTmNju_.js","hash":"de207e627c6ff2332ceaeee4de87bc0353fc56dfece73f032bdba4474917e77c","size":150707,"type":"script"},{"path":"/assets/dist-MHExlKem.js","hash":"815a87b919f2142ae93e704502c2c64ca915741bf1b46f4a0193fbf10253eedd","size":299401,"type":"script"},{"path":"/assets/dockSet-DEeHqSkc.js","hash":"89a101dbe32a81d9eab6243e96396966f6deb46cce592d1c726ecc256f788b35","size":7027,"type":"script"},{"path":"/assets/dockSlice-BgBqbNn6.js","hash":"1588a6d66ba97099285934fb9744197873696c0cde2eab6a76a3f28d5bb440d6","size":1843,"type":"script"},{"path":"/assets/donate-C3TyJO7e.js","hash":"9b382018db07b2ad4fb84d1d2c6325c301b622576717d2e08d55c0554e4d3f57","size":5168,"type":"script"},{"path":"/assets/donate-CxsrjkY6.js","hash":"71794bd6cf234a3511d8cd8c0fb632d438807958c001b525bd92f12509781c46","size":652,"type":"script"},{"path":"/assets/donate-DMJv-1a8-lazy-imports.js","hash":"51548ed60321fd027d8ee6c40ba4c4e99bb10745eb283207a0f61f7923f3fa61","size":1050,"type":"script"},{"path":"/assets/donate-DMJv-1a8.js","hash":"38cbe3bb0b9616c9ced4e528d5ca1bc99eab0ff4952d569183583de0fb69ecc5","size":2476,"type":"script"},{"path":"/assets/DownOutlined-DeIyfP6C.js","hash":"e1fc4a7c9c5dda913802d054e53ecc6cc083943a5f957506c043c4500cf0409e","size":559,"type":"script"},{"path":"/assets/drawer-CeEwJ2JE.js","hash":"1b4768c88cb9544fe232d4ec25d9e6e734b8c66b860fca80f57d8c512427851a","size":14612,"type":"script"},{"path":"/assets/drawerSlide-Z4XV8jIl.js","hash":"d9f5167935eadd13eece4f79e8fa93e0e82e701045346ead5578066beedc0664","size":1783,"type":"script"},{"path":"/assets/drawerTitle-BjbtHnPG.js","hash":"80d4fb3c5cc216c980de048496f5e78b9e0ded9971c0b9377e77e8cb5167bba7","size":3117,"type":"script"},{"path":"/assets/dropdown-D6h35PS6.js","hash":"ba6bd922db3ffd971c8edf24f546f3017cd620a5e944e83c8823fd0603acc3af","size":11097,"type":"script"},{"path":"/assets/editBlankForm-DQWaKqTh.js","hash":"09310ce1fd1b1eaf8eaabb5f6a444b42687aef4f16c3cb6090ce19fa7cadf35f","size":1787,"type":"script"},{"path":"/assets/editFolderForm-DzYlib9e.js","hash":"9bec9639fca6907122133fd4f25e387265ebabb9a396da6b4c0704fa4645d502","size":3890,"type":"script"},{"path":"/assets/EllipsisOutlined-CqrNlsoy.js","hash":"6258a4c5f533462ef4430e887ea03204d1ad1bbf349b3f0e453ea38536d4dff1","size":22521,"type":"script"},{"path":"/assets/emailSet-D-CW9v0i.js","hash":"981f46aa968e24b86ae77d7eac6066d42fb1dc34d5f28bf6b923d3979cb8d795","size":4210,"type":"script"},{"path":"/assets/es-NIs__GRG.js","hash":"0093c350655fc622094a8e6b131279d51ee80e25d75919de7ea76470d92c909d","size":10080,"type":"script"},{"path":"/assets/es-NrUaAjr-.js","hash":"9a7a3d86066d9edbd91a891fa38987f984dfe6ac53426b09b626b11c82a10a76","size":3440,"type":"script"},{"path":"/assets/esm-7pTSEMDs.js","hash":"33826449d91f6e3b72bfc77a53fd3baa54ce65573d09605a2b0d668e10209ea1","size":7394,"type":"script"},{"path":"/assets/exchangeRateModalContent-DS7wFkmN.js","hash":"0c70b81d780024db6d1032855378d0d5b89f664ffe772d7db3e6d2c5b19a2a74","size":3011,"type":"script"},{"path":"/assets/exchangeRateSettings-Dhjr_upY.js","hash":"a1aba82d609f37216792c2143221f4f0dbbdc293a0f0e3a366f3f9cbd1ecd441","size":5851,"type":"script"},{"path":"/assets/ExclamationCircleOutlined-D3dAIedp.js","hash":"6d8fc0c4c071697e0d26e81c2bf2c636697f65f047dc34fa8b567587c35e8cca","size":886,"type":"script"},{"path":"/assets/extensionHostPermissions-Bd76ClDX.js","hash":"3f211673a44b43289f638128b0809b8076783433f879ae75db53beacb0557d74","size":11080,"type":"script"},{"path":"/assets/EyeOutlined-Blj19FEx.js","hash":"457a9148cdbc0b5a8f9c6c6cee52354a04902a91fa802fef2f25d07daa1df231","size":1021,"type":"script"},{"path":"/assets/fakeAssistant-blh-YTtn.css","hash":"2da08accf384227565603fe9670e4547028020fe69a3a65814ce5f17e7e01ab6","size":4050,"type":"style"},{"path":"/assets/fakeSettings-BdXqtugZ.js","hash":"44dee2fc5a177941be95e397e068759e4876e3049cc9cf90e2b8a846ca10c373","size":3074,"type":"script"},{"path":"/assets/fakeUpdateShared-cYTInWYn.js","hash":"9e303188826715065e4425ca6dab22a1e6bfd6365cd2aa3bdf47fd1a19f3f0cf","size":962,"type":"script"},{"path":"/assets/FileImageOutlined-DjKaJPA2.js","hash":"ac9b1c8a30ae1434b1ae7c072510e84cb5bf5cd0f4a5e15230e2c3e42b6e0905","size":968,"type":"script"},{"path":"/assets/FileSaver.min-Cyu7RPL5.js","hash":"b66107923de444b0d7fcf5ded5d7f7a7a630e8438c3d2e384ed59e692c4e62df","size":2678,"type":"script"},{"path":"/assets/form-DNT1bosv.js","hash":"ed637a7451ddd006cccc53aca3d17e15d1d0460ce7ac039d53eca32941e2dc04","size":24175,"type":"script"},{"path":"/assets/freeDrag-C5spaw5i.js","hash":"bd201fd38cb1dbf1c9e6f7e4f3cbad47e78fb4a1ee208ab6b1427a2226dbeaaf","size":8614,"type":"script"},{"path":"/assets/fullClock-Dnmoo1ww.js","hash":"3b13ca57e89a78abccc4e3e5847b6a4b62b96c0556d270aa15b6b31b4ea80dfb","size":935,"type":"script"},{"path":"/assets/fullNumFlipClock-CqiVg_3Y.js","hash":"e08dcd254194c5d094575a9cd292ead6a969dc54f9d96f9ec357c67933db38ef","size":3243,"type":"script"},{"path":"/assets/fullNumFlipClock-DlmbvxGB.css","hash":"5d16d0c96a004d258eeff57b2b4a8ba623ad27226ac057b6e0c0b6b3e2a808d9","size":2776,"type":"style"},{"path":"/assets/FullscreenExitOutlined-DoENoFNX.js","hash":"e3c13f34623dafb0b14bbbb7b84a334f583e5558125fdb1dd7ea738fc9fdb459","size":17553,"type":"script"},{"path":"/assets/fullSpin-BZqN5d4R.js","hash":"07731bc7467ead550bb7d422607e914cf5020352945d7e969a84776bcdfc2f95","size":527,"type":"script"},{"path":"/assets/functionSwitch-BHBOE1EV.js","hash":"77e2b52849cfe0a6bc10885cf3b8077a813e37269042db57e821f2c00d131477","size":6646,"type":"script"},{"path":"/assets/gapSize-D72fcywO.js","hash":"e2369cfdabfd121651e46777e5a7ea6f0ae6a8ed9180d54c8d14b20dcc271e8d","size":144,"type":"script"},{"path":"/assets/globalSearchPanel-Jc1guoOF.js","hash":"8144a0b71d30456c687e7d349c1a986d93ff04320e344faa3c3ff842e9096a59","size":9527,"type":"script"},{"path":"/assets/handleButton-BVcLmrRv.js","hash":"067bfea4e0f9ec65dfccf83bb0640d3d9d9daa665f4d57bcc109a9f77954829a","size":533,"type":"script"},{"path":"/assets/harmonyOsUpdatePage-C9wFb9eG.js","hash":"18abc6b4e82f5e83bd2d0b0267bede99935f9687b1086a0e473721a6fb6fca8a","size":1370,"type":"script"},{"path":"/assets/hi-DWsHasB6.js","hash":"6de6239b7738736afdccc4827345bcea7aa6d69319278859b51703f085fe3db6","size":1079,"type":"script"},{"path":"/assets/historyLayout-C8rwraDN.js","hash":"5278746b46e0abbc3f067903a5ef2577ecc9de6c764e87c430214a3d7ea05507","size":6393,"type":"script"},{"path":"/assets/hotEventsSettings-DckCCvLb.js","hash":"1690fbfbf3ad3d154050a52d175f95c2ffaf55103566dca2bdf6df9b5feb7e39","size":3824,"type":"script"},{"path":"/assets/iconBase-DhoVFFbn.js","hash":"58d4648d51b29240a6f29625cdb5d654aa6dfbc941d3db7826ead003b6379596","size":2470,"type":"script"},{"path":"/assets/iconPadding-CvM1PPAp.js","hash":"4f5222cdd84a622c7f8a46834afeb0c3c1301498e5b50eabc96612f9cc43dbc3","size":253,"type":"script"},{"path":"/assets/iconUtil-Yft_W4gL.js","hash":"f6d1728fa0cc0365c46d9ffa6264937007925a7cba8f72d79db96557c8fb9910","size":40902,"type":"script"},{"path":"/assets/IdcardOutlined-DigvpJLv.js","hash":"207154e3c4b14f86e6d561f00fd58f23977c0021b219de26062f1f8a5d103b11","size":1278,"type":"script"},{"path":"/assets/iframeSettings-BSwNzllu.js","hash":"0110fe8584c56e2835eeb3d63da50b7076f046a762e7923a02eeb0d80cc98f3e","size":4227,"type":"script"},{"path":"/assets/image-DmGgRKve.js","hash":"1ffd4c5c47f500f3e3ea2767d51e1b13ccce8d367bc2da60f57c09d876bb1c64","size":30379,"type":"script"},{"path":"/assets/importBookmark-D62AYZaY.js","hash":"dcc3c81c81968c7d52839db94f28b06bc36e8cdf29830e734a1f9a32a9a5efa6","size":10525,"type":"script"},{"path":"/assets/index-lzQfp2NJ-lazy-imports.js","hash":"89886fcb854fde47df4f74d78c34b045c6bb03db816ba633726c8eda52375cb6","size":2363,"type":"script"},{"path":"/assets/index-lzQfp2NJ.js","hash":"d9d993456728abb03b39b632158a834e86bb5e1bc9c1cf87b7d018fb02c97cd0","size":383,"type":"script"},{"path":"/assets/InfoCircleOutlined-BOfUQ0GJ.js","hash":"a056705be7f639a42cf3ba6d877c1c38cdbf7f80086bc6e802f97a4fe71d0b63","size":879,"type":"script"},{"path":"/assets/input-number-Bi0kuDQI.js","hash":"88b304f92e3cd49e6f76ffaf9baa3b3472f5abccf0c1bc6c43a85a11c1554866","size":23886,"type":"script"},{"path":"/assets/input-SCJUH6Wd.js","hash":"5ce55a295e3bae32d3e1a2dfcfbedc031450607df59424de0626338594406d3c","size":10463,"type":"script"},{"path":"/assets/InternalLinkModeProvider-BT12w4PN.js","hash":"9a119a3d47e9c5950e5fb4ad5561295c8e48ff247b827f9d90819b4b5b466ec3","size":2637,"type":"script"},{"path":"/assets/isMobile-Cak13gvT.js","hash":"03097dbb7772b22eee93235c89c8d94fbd5a2378fee66fc338339dc893e739f0","size":2087,"type":"script"},{"path":"/assets/isVisible-LyTM44uT.js","hash":"e4ecb24ebe9d6496c1536f03523b6fd7e570108be31ba27803e7b79738532208","size":5117,"type":"script"},{"path":"/assets/jsonParseWorker-dNXOhuB6.js","hash":"a9ebb9ebfa18466d18fc619c98439a47dfe24ff994a298d4e6eda1448e0da655","size":175,"type":"script"},{"path":"/assets/Keyframes-BjQtLjKM.js","hash":"43f2e6b1971221583c65dc96ce6b062958983e62e79c0f08666d968d74da5e2a","size":364,"type":"script"},{"path":"/assets/KeyOutlined-CheR59NA.js","hash":"d759a8df4c28f7893db8082eb604a0ba182387ba00e720ec12d493c7fc88e8bf","size":1104,"type":"script"},{"path":"/assets/layout-BPc7QjIt.js","hash":"148271aa6e884ffb71427e30637c806fbb0a20674b27daf3d84d578b699a9232","size":18233,"type":"script"},{"path":"/assets/layout-Z86701XA.js","hash":"458d8ecc792451b7d46bdf406b1711d51098320ebef9fad7a607bc39ac74ce32","size":19162,"type":"script"},{"path":"/assets/lazyContentBoundary-CyzV0Q4h.js","hash":"68c81b50565b810fcfc379d1a09f051fc125c3ca5d323e65f3ad7302c9b26450","size":1854,"type":"script"},{"path":"/assets/leavePageContent-ss9Y9vEP.js","hash":"eb2f247ec3322dd7903faf06b52c008acf3d088fc623f975b086a5f0df945aac","size":1916,"type":"script"},{"path":"/assets/LeftOutlined-CmCWfwqv.js","hash":"c3a592c34ceb765ab48cd8901a63d2c32285a5ecfe1592cd6787849abbae8861","size":726,"type":"script"},{"path":"/assets/lib-BaGo5uv4.css","hash":"2ff9e609e6fbb2caaccd95f1984579875b41f5c556a09b7752d09c32f99b758b","size":24974,"type":"style"},{"path":"/assets/lib-Cv9FWSpN.js","hash":"802ce0b62ed70cfe7ccb4818d1888f29607af87cab536a5cbbc19a9849864ecd","size":38651,"type":"script"},{"path":"/assets/loadableComponent-CTMpUFP7-lazy-imports.js","hash":"0a3b8c2396c5b9dcfcb8e0c598b94b008575a74fac695036ed18c9a3f508163e","size":736,"type":"script"},{"path":"/assets/loadableComponent-CTMpUFP7.js","hash":"d67cfd34c28db3514cd7ea6742f2f9e8ae5a987383f3d9b17b5a5ad9bea6b321","size":4451,"type":"script"},{"path":"/assets/LoadingOutlined-DUZKOSJc.js","hash":"6e84b6bccafa76dc1a397f217c079922d38cd779b6a28ca8d57f1222aed60fcf","size":863,"type":"script"},{"path":"/assets/login-OXDCUuuC.js","hash":"835ff0c55716004f90cdaabb701a0679972106fb8b461f49d0dfcdbb715bb6f2","size":3868,"type":"script"},{"path":"/assets/lu-BTMFFLfj.js","hash":"1fa2aba435bd4b52aa27690517be5d8c23855db81945d6e14ff76e7eac68e21d","size":1832,"type":"script"},{"path":"/assets/macOsUpdatePage-abuQCAvs.js","hash":"619d925a3e45f94ec35d97df57765a3eb2c9c62a4727f919ff4f53587ae48024","size":1061,"type":"script"},{"path":"/assets/main-3NmRJ08G-lazy-imports.js","hash":"f39a4679feca799733285bc210a47e54536c45fea5970307b75d10e0cfa761e6","size":11928,"type":"script"},{"path":"/assets/main-3NmRJ08G.js","hash":"23b1d7ca81000970801097faa5546c81a5e884fc06dbd6c3c6b584485b2460ad","size":891410,"type":"script"},{"path":"/assets/main-Clq68o-y.css","hash":"707b8df4c8ba72023fc377942d0aea16ec4e3d07b3dfe9d017b746d203074dee","size":27988,"type":"style"},{"path":"/assets/mainLayout-DM8zPjAO.js","hash":"6497e041a2f5b04b929845bd1cf08b9363ff1493035cc9daf21d8e977f7e3e6d","size":2952,"type":"script"},{"path":"/assets/markdownContent-C3INj2oG.css","hash":"60512a96f968645ca8de527d32bbf2a010404e2fe6b5da5b61f825e8e161fc52","size":19084,"type":"style"},{"path":"/assets/markdownContent-sxLQ7i_i.js","hash":"e8bd2fd131292c70d21c7c2769c6b80cc5166804eb296117d4a10852862d88b8","size":644466,"type":"script"},{"path":"/assets/markdownPageEdit-Cu_IYbFr.js","hash":"c4bde7d437b2d68f92dd20ecf79d6824df325b5312a667e1b4a36b4e33589f7c","size":2887,"type":"script"},{"path":"/assets/menu-DXDsxNJl.js","hash":"66a0c449380b4f472ef74476b6245bb0456250830ff9afd31601327e8dddfa26","size":30360,"type":"script"},{"path":"/assets/MoneyCollectOutlined-5vTM1LYO.js","hash":"aacb1403fb5d4c4522e1eb297b8ff65c9430376bef7d82c38504fdd419cafd0b","size":1302,"type":"script"},{"path":"/assets/moreSet-BskwdBs-.js","hash":"979695409055851d5d21ebf4f9bf012c0a60211022d9eb9ca160cc04c5c6e05d","size":22776,"type":"script"},{"path":"/assets/myAlert-DrI12vRO.js","hash":"e4da2f1cfb004b511ec8d52ddedf3c6aa0811b1e697af59a2f3580c28bb59478","size":453,"type":"script"},{"path":"/assets/myDrawer2-DaBI_SP4.js","hash":"e4431742f12ec5e05429a70d459b99a3a60981860bdef420c93a93b149b46f6b","size":1738,"type":"script"},{"path":"/assets/myErrorPage-iuQGlv0d.js","hash":"2f21000ca273e5179b86c929f1633e67391f14f66d1cf0f9174e3bc9899f08cb","size":1389,"type":"script"},{"path":"/assets/myMessage-B1EfwmFn.js","hash":"cddadaabfc4a9bc56509661db931042eec065daab9ff8c5c3116efda8220578d","size":24458,"type":"script"},{"path":"/assets/myModal--M7Bz_m2.js","hash":"8a40e81c5c211e8b94ae0c54f429462cb62f05e8ec3bc5ddde7c3466caaa9ce9","size":1777,"type":"script"},{"path":"/assets/mySettingsGroup-BIdwk8YA.js","hash":"235f38aad52dfc86137dee0b6344c6a934d3b50a682deade8ca062a9f254d4bb","size":1716,"type":"script"},{"path":"/assets/mySlider-BEE7jwaf.js","hash":"8e5539dc716f00cee9c8c3354557f61f022d3e9e74262b061308d0d413480cca","size":822,"type":"script"},{"path":"/assets/myTable-B-sOLxAd.js","hash":"906058040a8bb993446b08d4919b0d6c5a5ddb59d7ea6bd2298e5d05ee4a2a29","size":131864,"type":"script"},{"path":"/assets/myTextAreaChangeWithEnd-QuJhp1dJ.js","hash":"89590f07a44ac228d9d927d67063c963b14e3c413f70a91afae3311cb299bcb6","size":1207,"type":"script"},{"path":"/assets/newtab-C_3TzKn4-lazy-imports.js","hash":"3f84fc426ce51695a60f3f2e486a7d5e7b9f99f7c44108c24e3ab57cdad3a7f3","size":2334,"type":"script"},{"path":"/assets/newtab-C_3TzKn4.js","hash":"735e8da72edd036d149f0d210129e6b233fbe6004b854ee6fbbfe6a86f3ab60a","size":445,"type":"script"},{"path":"/assets/noLogin-N0DawB2o.js","hash":"c4b74bfac4b6fb7ecdd3d29a246f9537b5665f56cf95ad30fd03b886266aead7","size":19431,"type":"script"},{"path":"/assets/noPermissions-BkGAoNxl.js","hash":"17487c512f40f4c0c759833b5caff10c0b89a1a0af916e57dffa01967f676558","size":1614,"type":"script"},{"path":"/assets/noteMainContent-rvKGwFGh.js","hash":"a6cef51a3c97a1b8e39aa0c816fcf00c7f838dff5d2a529debe29f0a5afca380","size":9954,"type":"script"},{"path":"/assets/notificationManage-OTFqCS70.js","hash":"5527361504bed0292cd70b9ba9ec85fd380481c6e278bdbfef729f7e7e7ac3fd","size":7001,"type":"script"},{"path":"/assets/openTypeSet-LWqLmCxH.js","hash":"84c2c866810ba8ec1ce04caf54adc48ecdd311fee45bc5eb80db7011d000a070","size":4218,"type":"script"},{"path":"/assets/openTypeSlice-Bfvq4A9c.js","hash":"b9a347f30fd60d2007be704fdf30ec267df817889e9c85124166319374ec8120","size":1210,"type":"script"},{"path":"/assets/options-b3qDjkhQ.js","hash":"919dc0dbd8966626f33850445ac3a445ebef6b86586b10af367adc9bfc2ef23b","size":552,"type":"script"},{"path":"/assets/pageUpdatePrompt-BpJgV-nH.js","hash":"64e5b2baa098264152d379665b501ba81ba3e47e70d474d68531b739e31b9435","size":1651,"type":"script"},{"path":"/assets/popconfirm-Dw7G-MTU.js","hash":"7987ce7dc32e8e4cc03c656decadd99adf67da86267305bba07f7ea8111e7cc4","size":4307,"type":"script"},{"path":"/assets/popover-BT5wzY_f.js","hash":"41a956509aac981bb9b9c05f9614d138fbb009923690a1ac7449efb18cd7d57d","size":5495,"type":"script"},{"path":"/assets/popup-Bzz_ZvrJ-lazy-imports.js","hash":"a322aefdc2ce59866dccf26d21365f69b628105554863af33631d2b844024438","size":1533,"type":"script"},{"path":"/assets/popup-Bzz_ZvrJ.js","hash":"0988d78d666c12f6dc448f03822c1bfa45c7a513ecacc262de8d62b5ed2f7283","size":11543,"type":"script"},{"path":"/assets/preload-helper-BLdHbfdN.js","hash":"8aec9ff75ffa86a03d51268b63126abadb3754aa5a6b6c5bb16e4e2446a63dee","size":1519,"type":"script"},{"path":"/assets/privacy-Da1aqjO6.js","hash":"fd946f60e5e80f6fd318d2c8b1d16be3be3a34a3f292affc3affadaed725a934","size":10046,"type":"script"},{"path":"/assets/progress-DNwQjsr6.js","hash":"1bc093a95c72a68caa4ef72cfd5bca8ed08b55a7722649d5a59e5430413f46ca","size":15941,"type":"script"},{"path":"/assets/qr-code-CX2IW7Fv.js","hash":"3e78d42752764a27bd0879762f99127910bc5b8aee91b465336b58e159254501","size":21679,"type":"script"},{"path":"/assets/QuestionCircleOutlined-B2kyvlSQ.js","hash":"64d2688d26ac96b1085b8a270964bd4aa227a69540bbcf9ca861306aba2b9711","size":1170,"type":"script"},{"path":"/assets/radio-CBORnQPO.js","hash":"e6764a095ea178361f6b7e9e2f728165a884532099b247e7b60b88b78fb79b80","size":10591,"type":"script"},{"path":"/assets/react-BqBvWGiZ.js","hash":"afbf849c575cba2c629dd05643c46bf9b2c0470eaa2b4469e1bf4ba07944384c","size":8714,"type":"script"},{"path":"/assets/reactNode-BbOiI-ky.js","hash":"cb814e62cd13dc39dc37720ab2cfa24e9581439b95be73801a0eda767cc7d9ed","size":33914,"type":"script"},{"path":"/assets/ReadOutlined-ClgwA3Uz.js","hash":"ba19ca5ff01db28e994705b1836f6cb8b428dbd82a70fc3ce935682f14ed0478","size":5865,"type":"script"},{"path":"/assets/recommendApp-CL9cjDuV.js","hash":"5aeea2877b450da798d0da9381da41f09d85217300c6800593269bdc1f54f693","size":4490,"type":"script"},{"path":"/assets/recommendApp-CVO-IHSk.js","hash":"218f9b2c58ca6f3218637704d49d868cd867d2789e44b495a5fe62ad5132df8f","size":5413,"type":"script"},{"path":"/assets/recommendAppManage-BtRO9ldR.js","hash":"66452d7fdc7370b4fed11e13d2ab058e828675332d33c30516dfa5a93c5a1a88","size":6470,"type":"script"},{"path":"/assets/recommendAppUtils-BMy0RCie.js","hash":"372a0613c44e0603961b6c7f9b00e5ec5d54aa508e979178b4a94851bf3d5d5c","size":145,"type":"script"},{"path":"/assets/RedoOutlined-DyxciSeX.js","hash":"99c131a3e0fe939eb328f99b30d0471dd7e52bc7647a8893821439718e25e703","size":1235,"type":"script"},{"path":"/assets/ReloadOutlined-DBpF9JIM.js","hash":"60746a6791b867066b7825d66535817ef9da6b099fe144ca038a18d9b504e89a","size":1235,"type":"script"},{"path":"/assets/reset-C1Zp2OgD.js","hash":"c37540985e69b244b67d4e753346cc79a9c9ca8dc58f7165f3260808bf7de00d","size":13935,"type":"script"},{"path":"/assets/rmbToBigWordContent-BpxWf-t-.js","hash":"81a4d0fdc8dff33adb133416470c1f3ae7a667e233023abe0628bd33277b77f9","size":3705,"type":"script"},{"path":"/assets/roundedArrow-BB-khK18.js","hash":"792e9eae2330d6920b0a963f03b2fe7bab58b80baf5937389764ea131b9aed50","size":20959,"type":"script"},{"path":"/assets/row-BNpxYZUt.js","hash":"fa8de47c3e0a3d0445588a62020f83cb08770c428ab4fba4bb764f76a42905b6","size":3535,"type":"script"},{"path":"/assets/runAfterContentReady-DNtdAeRt.js","hash":"e9938a00b68c76d447df565c00f86194dcb6641e81f3a3dadfd64980556a1c9c","size":1147,"type":"script"},{"path":"/assets/runtimeStore-WTxB3BFs.js","hash":"db8e5c1456d0e2e7b3a9a9b4b17b811b5010cb33182a6a317020ecbf02c6e334","size":912,"type":"script"},{"path":"/assets/scrollTo-CBNXi32N.js","hash":"1752716c83dcbf591cbd194df77826dc73483167677e63e37f6af47991162430","size":776,"type":"script"},{"path":"/assets/searchBar-zVGQOyFX.js","hash":"8c8e7eb441d35fcd4b4d5c8d1a3b6a04ac1d90d17224fe43ac5599c217048578","size":13882,"type":"script"},{"path":"/assets/searchBarDropdownRender-C0OBTB3-.js","hash":"2594187199ba62f92896c74de3e7f8f96540ac07320b1789d0f3bd4ad0c3fc29","size":10783,"type":"script"},{"path":"/assets/searchBarSlice-CXw23mbz.js","hash":"cb5c857345a5b11cbdf0aca93eb9433b9cbcb33edfd18a61ba833bff5d859d16","size":3889,"type":"script"},{"path":"/assets/searchEngines-Dkq_UVqL.js","hash":"69315d44e1577dfe5f0e73226c76181c5b7104bc0810e1bc8d5e0236ff51b3f1","size":11348,"type":"script"},{"path":"/assets/searchLocalData-Cu_SR11l.js","hash":"b9431bbfe982ed5f354fc650602b8e98854ed0ed6332e12a3dcf9fcbd98defce","size":3487,"type":"script"},{"path":"/assets/SearchOutlined-8MPXcURQ.js","hash":"4b3ca1fad0855c77e58373e92b4420fb1f6bd8ef31be4595f8e237af5b9fb6c0","size":1059,"type":"script"},{"path":"/assets/segmented-DGLQ3t1b.js","hash":"3cc264cbbae0b4ecd96fd7dc69df3766ea14d54a20b7afce9d7bce7e0f2b4b17","size":10418,"type":"script"},{"path":"/assets/select-BaRSWxYH.js","hash":"64681f4d057cae04c38a1bdb18c3903f683bc91394ac56be8b55eb16eaa537de","size":4106,"type":"script"},{"path":"/assets/serverSwitchService-i0B_GVAG.js","hash":"b35c845c6e74aae8d63d43561152c8a2c325546552433e57333e9d366245c33d","size":813,"type":"script"},{"path":"/assets/settingControls-C2bduXN9.js","hash":"34b38058a4ec995c9a32c841b738c1e77558674797b242ce7370130aed441247","size":1917,"type":"script"},{"path":"/assets/settingsLayout-DYVA44hO.css","hash":"5158c556125801d1861acf0e6762ca7c0df976e22aefbc3aeea10db9884bdaf6","size":1989,"type":"style"},{"path":"/assets/settingsLayout-Nc9GXyre-lazy-imports.js","hash":"be2a74aa2b775404af9be3adbfc60c5ef6d093237302c3ccdc8a37ad6a845777","size":3457,"type":"script"},{"path":"/assets/settingsLayout-Nc9GXyre.js","hash":"269b3bda97b5875e0cfcc8f568f6d71454bbe5ffedda103cfab2f54188bf6956","size":22171,"type":"script"},{"path":"/assets/settingsRegistry-CRUiq_cv-lazy-imports.js","hash":"31f28dc73257b9e055426c3507e3d5decb46761262efad7e9e83a748ba533dc7","size":6043,"type":"script"},{"path":"/assets/settingsRegistry-CRUiq_cv.js","hash":"64e522109ea30c5dae23f7298c1c0573ebe3d5d55b468d5ea17ddd24090ec147","size":26497,"type":"script"},{"path":"/assets/settingsSearch-140W7Fyu.js","hash":"5ce14163db384393eccf27f80f0c6e751330fbbf1979d513fb844c78250d784c","size":26346,"type":"script"},{"path":"/assets/share-DGiPU8WG.js","hash":"3c8fabe61674348a03d517aa86c608c956fb2271f01058d9319614146d41f152","size":13112,"type":"script"},{"path":"/assets/shareContentCache-1YAckbx2.js","hash":"835dbf2fb14fc08b9cbfc1fe18b39712a45ca38b80dc5857edd4144e69c8605c","size":4151,"type":"script"},{"path":"/assets/sharedTooltipScope-CTB45YLp.js","hash":"64cc1cdf677d3b3365f614ac6f37cbe243774f780e924496e34f2b234953dbf7","size":368,"type":"script"},{"path":"/assets/shareHome-DBuoXAHc.js","hash":"4f736b816c89db129b108ef6833a8d7c906078e782647f9238c9486a6b1efccc","size":3181,"type":"script"},{"path":"/assets/shareManage-DY55hMaN.js","hash":"80097374ccecd627eba03e7361e4382a0fc958c81f18b28c620b2ea4fdf25d62","size":6885,"type":"script"},{"path":"/assets/sharePage-WWB1Y8y2.js","hash":"b86bc76a4d948d6eb6a93f5eb61c4a7e8102784f698c6b105dcb887f06b3d556","size":4359,"type":"script"},{"path":"/assets/shareSay-BDieQAuR.js","hash":"892fcd5d9e147ef5fbaaff92ec61e6550b7aca1d2868541ff3b21cb10fdeface","size":333,"type":"script"},{"path":"/assets/simpleMode-NsmlC434.js","hash":"69804b8498a56bd3ecc90e9756de34e85425a16d0aec26fc3d3d36d24a6746a3","size":8835,"type":"script"},{"path":"/assets/simpleModeSlice-CUCJlejL.js","hash":"6892634e45eb866435e41a9570249409a20949b5d6731067a8f480f97294d953","size":2153,"type":"script"},{"path":"/assets/slider-BvnTJQxa.js","hash":"45eb35b9d282a0d9b5bb9e6c0bd4b14008f52ffa19f24ceb42eac76178510327","size":26778,"type":"script"},{"path":"/assets/sliderScrollScopeContext-DxICyhsv.js","hash":"8321b4d2654b4d83e7f1a090144dec5ece64d0d6d712439d22374faab629ef0e","size":146,"type":"script"},{"path":"/assets/SortAscendingOutlined-DQJuvrsX.js","hash":"bfb868048c067f3729229854f8dba93e147cfe2efc99e3ac82e169559b8c72ac","size":1269,"type":"script"},{"path":"/assets/space-CE6aQFg7.js","hash":"d67a4e15d4bad65cfbda73c6f2446f25b69eb27ad1743d70666053e4b22aaa7b","size":2060,"type":"script"},{"path":"/assets/startup-core-utils--FN3l7Jw.js","hash":"21be59e920167c4a1f73531fb5d0610afeb5bb7154455d2f9064623e89aae766","size":11340,"type":"script"},{"path":"/assets/startup-home-icons-zZkBr2oW.js","hash":"a594f7f700747d0fb4704ebdecd0f96ce48adeccef033abea5a1e44b22b229dd","size":14064,"type":"script"},{"path":"/assets/startup-home-utils-POQqYBnU.js","hash":"710a8fcbaba66ad54a67b49999d1a59502df8e7a4936ae5b59d67a3c558bdc37","size":3728,"type":"script"},{"path":"/assets/startup-react-runtime-C6Ah2pME.js","hash":"7c3206afad7a549d1a3548a70448e6664d6d573a00c02dc11bdf3e55f838ab5c","size":593,"type":"script"},{"path":"/assets/staticImage-BZYZOQfz.css","hash":"520957b9bab6187b71ab361b147d46aa0ad62079e1c8c584086daadb34a45fa0","size":140,"type":"style"},{"path":"/assets/staticImage-DIOb37JF.js","hash":"be2a2a486e5b0b619292bec2e297b6c33203035a9b705bd07e9758212db602b0","size":676,"type":"script"},{"path":"/assets/stockPanel-8oPuo0LL.js","hash":"71b8e4153c356b43dabcb9d8b8b98f044bbef908543b9da1a32073e2b056a13d","size":633648,"type":"script"},{"path":"/assets/stockSettings-_fCQTthT.js","hash":"d70bd6558c36ec2b06c4779b8f27c1a3e90fdbbd205481c3b0014397b93049db","size":5142,"type":"script"},{"path":"/assets/StopOutlined-DHgsdPWJ.js","hash":"88df24eb4ea0d5773f6ce40204b24983af350775d410896a478f8654bdbfeaf5","size":837,"type":"script"},{"path":"/assets/style-WhKjYJkY.js","hash":"b8ca65647e9ffa1bfa10c18cf2cf274ec96e9ba7dc359de7f0b6b6a5be519c0f","size":3555,"type":"script"},{"path":"/assets/styleChecker-Cu7CsZXd.js","hash":"8c7227f7833f0a7719b7b411b7f9a318454cd8b198948ad988607226fab86c7f","size":421,"type":"script"},{"path":"/assets/submitForInclusion-DEfAfw76.js","hash":"049735f872b60691f7078d51d3aa353106054b9d5d0f1475cdbf3fc875c260c3","size":6021,"type":"script"},{"path":"/assets/swiperSlice-B7xAEtot.js","hash":"453369c2bdd611f5ac33b7b512e199b5a0c1cf64d542b75bdcd48f3b0a6baf18","size":16880,"type":"script"},{"path":"/assets/switch-DABOS6Gl.js","hash":"849411b1bf1df9dd1c37133a098e925b5b846bdcd558f09432498da67d2c08a1","size":7952,"type":"script"},{"path":"/assets/Title-C3v9Hapc.js","hash":"3c63ebd6ec443717d4df22203423e502c89dfc890c252965205a982f529d9fcf","size":20697,"type":"script"},{"path":"/assets/tooltip-BzfflrRq.js","hash":"9f6c0d9bb305d9a2228eaee2083b2980d04d31da16e7678d4425422b67209839","size":14271,"type":"script"},{"path":"/assets/transformData-C0a8urqP.js","hash":"85f80ed203358df8e292224f13514dfdbbfe3b9199d4f0b3b8b60dbb8d82c509","size":752,"type":"script"},{"path":"/assets/tslib.es6-hGndM3U8.js","hash":"c232bce32ba55161524d02a24c1274d1eb7d5993480e36305b973a754541a3fd","size":2545,"type":"script"},{"path":"/assets/typography-CupzSC19.js","hash":"a9deeb4bee42c1c345653525ac9da34448825e1a3f8a70d5055747c042747683","size":1375,"type":"script"},{"path":"/assets/update-BbtllCUc.js","hash":"f9a879869f512c5dc7717640eedfaf2926f33d258e45e3ad17ae8ece8ea0ebb9","size":1385,"type":"script"},{"path":"/assets/upload-D_m4pypT.js","hash":"fcaf834dbb3b2614f734094a3098079b607567bc2baaa3c575c00e029df9cb72","size":35460,"type":"script"},{"path":"/assets/uploadSrc-BOK1wzGo.js","hash":"2bb34cd0758fa2d5976164c31bbfa97edcfc31678f30cb31571288e48cbccf3a","size":6685,"type":"script"},{"path":"/assets/useBubbleLock-CVsHZL95.js","hash":"1edb1be69e483c2aa84d4198f5711e7e2a98c7bf2d187d83d8ab6132ecf95aef","size":1531,"type":"script"},{"path":"/assets/useDestroyReactSortable-CFLxRY4S.js","hash":"3a8c655d040fc17d3ad476c04565eeaeb4d921cd9df040083634cab20a94be23","size":75761,"type":"script"},{"path":"/assets/useForm-CaCSZV0Q.js","hash":"d302f3784c3a5a24c6342ba46b16027dc63147c33e34060762d8aa38358efad8","size":5171,"type":"script"},{"path":"/assets/useIcons-BCkr6hNa.js","hash":"9505220805baef6dff83acd6174f1b64699dc36e952761d07b6f6d364d87c404","size":5304,"type":"script"},{"path":"/assets/useMeasure-CYuDCEqR.js","hash":"57322ec1c0f1904173a9c608a1f8f06d212fc8b6ad07cc0ca52a73e7524f6a00","size":1418,"type":"script"},{"path":"/assets/useModal-CQsxqdeq.js","hash":"74cb0be2f894df5dcfee2937cffae8a0afbc6d894291add40dab1a50cadd5987","size":39719,"type":"script"},{"path":"/assets/user-145qplht.js","hash":"175ebd49cbd81fba4cedf7b4bb5983195f470c1be7035df251c86f73ea911034","size":4241,"type":"script"},{"path":"/assets/userAppellation--xvgAFB-.js","hash":"12e0fc1381ef704776583741ef4913e453f7764f65224942cc7013778b6e63b1","size":4063,"type":"script"},{"path":"/assets/userInfo-vAS1f8tw.js","hash":"caf8ce9bfb58b35d35a5e0191f4b5380b40f8815a062ee75dae22667ac58ec1a","size":26460,"type":"script"},{"path":"/assets/userManage-DnPEF17I.js","hash":"f8a7dc30dc07a3753a2c90f81b2bf4c9811cd81f74e169a941dc1ef0f8ed94c2","size":9638,"type":"script"},{"path":"/assets/useSaveShortcut-CdC661v3.js","hash":"b6ad1b35225bdd00036bdc8099c182852eb4b69da9bd0700ecdb63f46ba2187b","size":574,"type":"script"},{"path":"/assets/useShowArrow-BWMz21Cj.js","hash":"9c1ecc9aca3860df7c342dde42cf9657f6942d3a06ac891f3be52885dceeface","size":64986,"type":"script"},{"path":"/assets/useSortableGridConfig-Bv7ZQyqw.js","hash":"d39e96cc4b41c54f332aa86dbe2b5cb48e7b7776c30d0c88bea872309ecc96c7","size":10511,"type":"script"},{"path":"/assets/useTimeTicker--W04kLqT.js","hash":"e6516833972f780b1a3a5cf30405a3c00568b583ee1a05cd36142086037c07ec","size":2548,"type":"script"},{"path":"/assets/useToken-BZfjjJbr.js","hash":"cbea7ce9ae932a189c03612e87cf2c6212aa650fa7078cb60f87334358de1359","size":48697,"type":"script"},{"path":"/assets/useUpdateEffect-BCKtQkYu.js","hash":"5b06e7561dbf0c8afb7e73f0776baf341a9b31fbad8906408960a9a00a08185f","size":230,"type":"script"},{"path":"/assets/useWindowSize-teCb6tbM.js","hash":"859b77270971cbd177ff33a3a8f0e44343cc6c00f712382bee9a90bfede5cc26","size":2885,"type":"script"},{"path":"/assets/util-BKSVJ2Zb.js","hash":"1bb8604173d4eef9de4995aae5c1d93c90c562c37ddda08c27532b7ae449703d","size":14216,"type":"script"},{"path":"/assets/wallpaper-BO2s_RCQ.js","hash":"2155eaaff8a502d338131a565e355783b2ddeca090d88be12d04ccf370dbff5a","size":75773,"type":"script"},{"path":"/assets/wallpaper-C8BujJa7.css","hash":"7675ebe418c0f2cc7ddb8ccf4572dd58fd5c79fbeb79f26129ecc04fe3e54737","size":22947,"type":"style"},{"path":"/assets/wallpaperDisplayWorker-DC7ed_CG.js","hash":"fbb491067b6583742ebc1a267b85ab4e3cb0e85305b10651889313cc2faf3ba7","size":1613,"type":"script"},{"path":"/assets/wallpaperManage-ofN7_sOr.js","hash":"a5c98c593f2a1fdee802f19a56a47cc9a0ac4f603087a7cf596cb0fd71b6024a","size":8464,"type":"script"},{"path":"/assets/wallpaperThemeSlice-B7jKPYep.js","hash":"f7ffd8ffbdf0b54736adadf898e9352099c564f166a39dd930b8a573795c6935","size":3661,"type":"script"},{"path":"/assets/wave-BjNEb829.js","hash":"a78927179e8082f91813298adf43edcf59523f10312ef13b96b43f54355760df","size":9499,"type":"script"},{"path":"/assets/weatherLayout-BQ1Lb8A9.js","hash":"5f73d0b1ded2cdb29a516b63e66545882c3817d8c6569e70c018d481b0e15aa9","size":9209,"type":"script"},{"path":"/assets/weatherSettings-BxBZ0Ue5.js","hash":"a783422aa56fa12804950c27078375270e6b49b6ac01942a3848b85476b83511","size":27860,"type":"script"},{"path":"/assets/webAssetCache-CoseN-Ub.js","hash":"d1f5b5fd95f5349d28ea294b87aaae0208bd86119f3eb559ab20c48a819e291b","size":6099,"type":"script"},{"path":"/assets/websiteCategoryManage-DlmeHKDv.js","hash":"8832d28c9eb49e5eafd775cc1d42d86c5f0b69e618a6b90023fb28f89d953ca3","size":6218,"type":"script"},{"path":"/assets/websiteSource-BgWw5fqh.js","hash":"6cf67a072a3f0ddb77a516d824dc1c28d1ab202610bd1f8bea4225d31fd184b0","size":7266,"type":"script"},{"path":"/assets/websiteSourceManage-CYaXFA-g.js","hash":"e22376d7efe10b3b86f683733ccf2cf8b6b1085b8bf411825218d4a7463c4602","size":7431,"type":"script"},{"path":"/assets/widgetAppearanceSettings-D5kl4s5I.js","hash":"0483b3b13dd86dee3720845e435d32c1086715da01a25ca9370047d6c9fd061f","size":2367,"type":"script"},{"path":"/assets/widgetStateCache-B65trNxg.js","hash":"7cfb08422d5308fc6f674702192a84a7f01a70a318878f7c92d6ccf90c43f00e","size":1630,"type":"script"},{"path":"/assets/win10UpdatePage-BR9w8QNA.js","hash":"b94089e73526c37b2d5aa9ac225d0724031034f708094c08a98b8e11782bc980","size":1671,"type":"script"},{"path":"/assets/win11UpdatePage-sitnauWD.js","hash":"92c399e1ea34764a567355ff6ee42c5dd45c1adf8623f310af64e3c95525af35","size":1378,"type":"script"},{"path":"/assets/zoom-BifWFt63.js","hash":"0c239b4078d930cf49bdaa6468fe9e0fdd0b18f6230d3f3896859ce7a4b5d367","size":2420,"type":"script"},{"path":"/startupTitle.js?v=4857dc31a625","hash":"4857dc31a6251e9a07e5210b20a134f3e7d5068ff1a77504210bdd7326f85298","size":6617,"type":"script"}]};
+const BUILD = {"version":"75f952adb862c4013f5e","scope":"/","assets":[{"path":"/assets/aboutUs-o8ZRX7KZ.js","hash":"9b8a0a9211cc5540b63fe118adb627e777ba6446007577b957b104193faf5158","size":6241,"type":"script"},{"path":"/assets/addComponent-DKJv_AIn.js","hash":"07486512420ecce1287d8eca8abbbf27cf2db686e950ccc9607c9e6b872d3a78","size":4233,"type":"script"},{"path":"/assets/addorEditCardForm-Cxqh3ZwH.js","hash":"83bc0d9e8275a153e5dd8a9ff7dfc805653904fc637c4204abeb9e4afdc4b1d8","size":16627,"type":"script"},{"path":"/assets/addOrEditCategories-CRN23jz9.js","hash":"ffef4811c4a54cca2876d6f98bc1b9fbc09ee98905cb47a4adc0708e5c93aafa","size":1457,"type":"script"},{"path":"/assets/addOrEditCountDownDaysForm-V2oywzMq.js","hash":"4bb73791c9e15855fcc059a79c53451479fef4c2b9bc4b9ec59baeb6c1218f34","size":8194,"type":"script"},{"path":"/assets/addRecommendAppForm-DfNIQl8A.js","hash":"d1fcd0ac8899244f80b114c94148f7fd14c41f10cb582c8787939b23f9fdae45","size":7260,"type":"script"},{"path":"/assets/AlipayOutlined-DYNdTqHm.js","hash":"e907cdf4b8a55848ab67f12fe92fe5092904cfd09b8511ca77b8fd381075e16d","size":1624,"type":"script"},{"path":"/assets/antd-img-crop.esm-Ch3_TQ2h.js","hash":"7913f50bc3859f5a45636daffe6b4fb60b46af8fb4191e453c8bc126485fa3a0","size":30542,"type":"script"},{"path":"/assets/antd-startup-5216f110df1b.css","hash":"5216f110df1ba0cd79a3f14f959110e29fb222ce576cee238cf3caff1370581c","size":201938,"type":"style"},{"path":"/assets/appDataSlice-CuDFgdkP.js","hash":"092b14afc664a8789457ee1536b8ee46287aeec5b4238ec46a7df848383bffe3","size":2506,"type":"script"},{"path":"/assets/assets-7fhiOsUz-lazy-imports.js","hash":"2e07f4d297ea474443e515ab2fbb7ad5b44e6612769163e101abc8e4ae8dae83","size":1259,"type":"script"},{"path":"/assets/assets-7fhiOsUz.js","hash":"fb77e287e1f52a622d0cfefe2b6662e7975f953527ae23d98065cd6452376ed5","size":483998,"type":"script"},{"path":"/assets/assets-Ckxjl18f.css","hash":"5281ba95d2905f8561d2c20b83afb8faf459b9396f7d3d2490e8a3d6d4242897","size":59222,"type":"style"},{"path":"/assets/backup-Amb9TsCU.js","hash":"e78e935067ac403246b4352a2da374b875873aef8674e27baa2d23c4cf6f5a30","size":21405,"type":"script"},{"path":"/assets/backupDataUtils-BBdcSnSW.js","hash":"a6287eb598f3290f6b770a835d2823ecdf62120ab63f3bcbfd5ab1c029c1dc26","size":131814,"type":"script"},{"path":"/assets/basicInfoSet-JEGmqNdr.js","hash":"dd96cd5e02db0453ed3e860ed6a3aff2bcc1670757371757571c058a8ec14378","size":4094,"type":"script"},{"path":"/assets/batchSet-BLtZjpdb.js","hash":"f44314074b7734b0e44349a83ae29c321d8113ee203bce599911794b2ccb603c","size":26804,"type":"script"},{"path":"/assets/bookmarkController-DkTyyGrL-lazy-imports.js","hash":"d3411bda3afe00ef32260218bbd62797bd8ccd3b05b531022c8191e9884fe3b0","size":3372,"type":"script"},{"path":"/assets/bookmarkController-DkTyyGrL.js","hash":"58c96ad2abd9b4c20d5541d640d176be62f91b49d12890d1c9b5d1eb9c69c6e9","size":43151,"type":"script"},{"path":"/assets/bookmarkIcon-DA_Ll1p2.js","hash":"fffccc71b8f590dd70e8ea5bd71b66dc9336299a9d8250c4e7fcf8e72a9a76f0","size":1088,"type":"script"},{"path":"/assets/bottomLinks-fmhfTCuA.js","hash":"b8c3bd18440181868361e6195efe04d8706c2ad9cb4ec6eb8d9de62551f5ea73","size":3352,"type":"script"},{"path":"/assets/brightnessAndBlurSet-D-wjeYq8.js","hash":"c2c1cd6b8e9e8913bf8d1dcf04559a04c69f0bae9d93a143dda7b0fe7bb6d6d0","size":1727,"type":"script"},{"path":"/assets/browserNavigation-BeuIjgGA.js","hash":"8137433821c411da2dfb643b8dc0c0ab5e3dd0c382195b87857d716cbbad3210","size":1704,"type":"script"},{"path":"/assets/calendar-PDGBXA47.js","hash":"ed989782ed7c90b25a9e648dfbf57264ecd989d1939a7b1b56f9595208dddf16","size":12121,"type":"script"},{"path":"/assets/card-CmWULkLv.js","hash":"eec583c31276d4b21fd2f7e6b0fbbc9466f288e27016f5337e3a3d682ee19f6d","size":23055,"type":"script"},{"path":"/assets/cardBackdrop-CJ9fpNGv.js","hash":"ceb02fd07bf9d8f7909f609bcf616138cbaa2c411daeae5e1ef851ca1cf0051a","size":714,"type":"script"},{"path":"/assets/cardPreview-M4_1r9xM.js","hash":"ff1df3d6a3b29cfabc3f8569a41a644f6c9d610771b8dab9c43d15539bf3b5ff","size":2734,"type":"script"},{"path":"/assets/cardRuntimeSettingsContext-C4mbDEvp.js","hash":"4c42c0e1047aa5cf78c1a93d109f5b7de60c63329f669301b658e6a18e6343a2","size":3639,"type":"script"},{"path":"/assets/CaretRightOutlined-Dnds1qLf.js","hash":"0d40401b11433ce03450ff201a296e166c0dfaa456f15f63ff01bfae907966f7","size":668,"type":"script"},{"path":"/assets/categories-BC-QBdPR.js","hash":"701691e0341c1f7353058b8872ebed2f718e505f2f6654ba1723d27df645399e","size":6524,"type":"script"},{"path":"/assets/categoriesIcons-Cf9fmTyz.js","hash":"2d8f7b3d44e2d668e18a85cf2565450e5bb5370dac6d99d7975ccdbf1b609151","size":63733,"type":"script"},{"path":"/assets/categoriesManage-Cs9OzYkZ.js","hash":"b39757466cebd5cad47789bf2aea2bf27928d97f8b0b4a58bdd9bfb3fe65172e","size":735,"type":"script"},{"path":"/assets/categoriesSettingsForm--FFuic2g.js","hash":"14f780b08f37378a54c2771f5f50b392ced4112e4093e29d5e5640be7657984d","size":3467,"type":"script"},{"path":"/assets/categoryIconUtils-D_fjIjDg.js","hash":"37169bb6284ffa749ae4ea192d4b42182ae38ea900db4db7d8b31f347f44cea5","size":19832,"type":"script"},{"path":"/assets/checkbox-CAUswAdH.js","hash":"a0d406613bfee559b4e824008d7e843769910a8b0b2219882e263d2f8b4db93f","size":4230,"type":"script"},{"path":"/assets/CheckCircleOutlined-BGZsrChd.js","hash":"b8c680327235710b815bbb67d25d7bb6bc8d0b2d68e50d3fc8c5a5961384acdf","size":938,"type":"script"},{"path":"/assets/CheckOutlined-6rvF7N09.js","hash":"9c8898a12be88863fd0bcf7ef0bb953a0916be71d74090d09cefb85d89d2c0d0","size":559,"type":"script"},{"path":"/assets/chunk-OB3PAWPO-DPWGfmlQ.js","hash":"ff9af101e2dd923f316957e9323d3fc592f9b3783847a5566c3752bdcfc762c6","size":37962,"type":"script"},{"path":"/assets/clockAndDate-CYM75Zek.js","hash":"4129c117725622890692cacdec2de40680863a64b189664edef1ccaa31b647ed","size":16430,"type":"script"},{"path":"/assets/clockAppSettingsForm-BgyWaERf.js","hash":"c85492998755704102068bd1d6b8121adfc1a2ba3bdd8c4143fbcffecda2e042","size":3753,"type":"script"},{"path":"/assets/ClockCircleOutlined-C4mj9-1a.js","hash":"3aa1bb0d41e40429509bbdc6e01831f65445d244071f197bacf8c63db561ae30","size":914,"type":"script"},{"path":"/assets/closeIcon-Bq6DRk6w.js","hash":"d0d066be80dc751ad40127f18764e48b7553c3a4895770c684d4b61d65137714","size":3617,"type":"script"},{"path":"/assets/closeIcon-BvMkTQke.css","hash":"183e1dea91b94ff1f633b304a18779c28a6b6f0f172a7178a239c89597b7e83f","size":324,"type":"style"},{"path":"/assets/CloudUploadOutlined-D9W1CUf2.js","hash":"42aebb7c6af72ce773ac801937d80573d395f815479a4906fe00a192bceb01c3","size":1393,"type":"script"},{"path":"/assets/colorPresets-B7WHbUXX.js","hash":"b4f51654670322caeb4aaa7cdf9861c9679b1da8971484eaf4657c384f301e28","size":24852,"type":"script"},{"path":"/assets/colors-DGGKDjBg.js","hash":"cb788e9c1ef294d3273fb6506f3b1c84b53a19f734b7fa21bf2602fa01bea72d","size":518,"type":"script"},{"path":"/assets/compactLinkIconStyle-CWNaEKB2.js","hash":"c8c618d73538e3d76d3762f0bf1cef85cc4a9bdfc94881cd63872af7aa33e8cb","size":3459,"type":"script"},{"path":"/assets/conductUtil-DFoJS2ji.js","hash":"fab7d47ec394b4e9aa2831f95a3395fb352508fc72a7b1b98291591d6e75de05","size":5649,"type":"script"},{"path":"/assets/console-BcHWVjCx.js","hash":"98e2fcb36ae6f169ec8daa322b662ecee9ca1f9259e115b2fe19a6bd0bdabe34","size":22983,"type":"script"},{"path":"/assets/contentLayout-COOMnZUR.js","hash":"e18e3e29b5cec26d35b938c8c20d02479443da79e748e2b6d9af981c057bd64c","size":757,"type":"script"},{"path":"/assets/ContextIsolator-wDThS2g_.js","hash":"e54093bd3e1018a9545ca9011e6a453a34c500a5bef23e377c9cdf107b2f4df7","size":51544,"type":"script"},{"path":"/assets/convertToTooltipProps-Dmxfl4ik.js","hash":"2f2ad319d5f8f5806bcf46040dd57857db43e64890b92d388192c1324aba8027","size":161,"type":"script"},{"path":"/assets/countDownDate-CNKegAPw.js","hash":"b78f6d12c2cefda42478c350e1104f8fc50bb62082db6b71aa49b91eb06937e4","size":1582,"type":"script"},{"path":"/assets/countDownDaysContent-DFJU9P3k.js","hash":"1bd13012087a346964cd3b059ee5b518fe4ef6958406386c49713a505adb5161","size":6682,"type":"script"},{"path":"/assets/countDownDaySettings-CqHCuN2Y.js","hash":"16119a8ead33a1bd2f51c39c77ef4eca25402f3489dd1cdb618d15a05892062c","size":8961,"type":"script"},{"path":"/assets/countDownDaysSettings-Bv4z1_Fz.js","hash":"92a7e80367f40e9d24cc9a1c391e297f65d90ffb516b159ed7d97b31defd5736","size":4803,"type":"script"},{"path":"/assets/createForOfIteratorHelper-C6ZJ35lc.js","hash":"e72faa357e3d0b173199681a79375a4d88320aa19a0dd5ae1082f094dd0e1925","size":681,"type":"script"},{"path":"/assets/dashboard-D4QJLFNl.js","hash":"4d8af11390f8602cbd1237c5147f13b5b36ec431bb656f956e56426939ec6b5b","size":6827,"type":"script"},{"path":"/assets/dataClean-eEW1y9j-.js","hash":"89b617d49f7b5ffcea0a1cb3074d4b78dc8e9dd45cf7a5feb773e5f4238f008d","size":2865,"type":"script"},{"path":"/assets/dataUtils-B3QvM3vE.js","hash":"fc5d02aae473a3dbdf690432adeac854bc14b8986c2480612c066834efdec735","size":16512,"type":"script"},{"path":"/assets/date-picker-Bgk12GCA.js","hash":"ff700b4c51c87efd61d7658f02455166a9989b33c05ae5ef5e4d22b05d1a2681","size":104027,"type":"script"},{"path":"/assets/defaultDataManage-A_9xK9eo.js","hash":"35d595103cf05d13f5fe0195c51f9a9b757a54a356a84b8040eab9e664dc382e","size":5872,"type":"script"},{"path":"/assets/deleteCategories-BK6TgoXM.js","hash":"0867c407d72f5a77b8182f3fdd3b3768462468e8c1bb06b5621bbcb43c4805e5","size":2796,"type":"script"},{"path":"/assets/deleteDockCardModal-CrnU_sdq.js","hash":"67b298008e1f374e1dd935ec75662b405b53f5db0ebd8725dfb54e1a6dc2ae00","size":3007,"type":"script"},{"path":"/assets/deleteFolderModal-BsWOi9cF.js","hash":"178f5d76e252d1c3375d3f0fe52c6725644f55dd8f53964bb0b34518a536fbea","size":1706,"type":"script"},{"path":"/assets/descriptions-ChMj9luM.js","hash":"421e4dbfdd71c9b7699217e3c1eb8689b3bf50714a6847273a43e3a8565848b5","size":9799,"type":"script"},{"path":"/assets/DisconnectOutlined-CY-B5Kn1.js","hash":"d1e8366738be8c3318507cb71b4f43d5b609e98229082a3c8191c834f7db00fc","size":1047,"type":"script"},{"path":"/assets/dist-D3A8kXLG.js","hash":"c6b56b50ab543cabb2908a4977934775bd647a55455d1e8c677af85a03259f81","size":150707,"type":"script"},{"path":"/assets/dist-MHExlKem.js","hash":"815a87b919f2142ae93e704502c2c64ca915741bf1b46f4a0193fbf10253eedd","size":299401,"type":"script"},{"path":"/assets/dockSet-DgFK4AZ-.js","hash":"a7b620d9478ea67c7a0cfb7acdb7b7de4c4acbe9729fd050485cda06d0f413a1","size":7027,"type":"script"},{"path":"/assets/dockSlice-CgCVc-va.js","hash":"6a27292af195fd6f97584577b32b7537fe3c82239bf1de35599c7aae35364ab9","size":1843,"type":"script"},{"path":"/assets/donate-BgB-jCKP.js","hash":"cb630af584cbc28b103183f94a4b9c6dc4ebd923b1673cd72bf80f9c7425c0d7","size":652,"type":"script"},{"path":"/assets/donate-BMY8v8r2-lazy-imports.js","hash":"9e1c2694d001bfde425fece27f9a0be0d984622b91ca0ede4675086e1118fc31","size":1050,"type":"script"},{"path":"/assets/donate-BMY8v8r2.js","hash":"f79b2f8d921393967952e283986b6cc3480a60a36e229e93413a5ebab2766f18","size":2476,"type":"script"},{"path":"/assets/donate-D0EDY8KL.js","hash":"5d87dc708faf2af3cbf27f31af9202c6b547e2db643ac0b2ab02ee2847362f79","size":5168,"type":"script"},{"path":"/assets/DownOutlined-62u3ZQfe.js","hash":"d055b4ae08887aec0474cc70a9d5b54015e5ccf491bba9cffdddc9ea3b674715","size":559,"type":"script"},{"path":"/assets/drawer-AsHJuPG8.js","hash":"7c18d4441ce253c3c1880785893f34458d817e174b5f907580043bc6edc70128","size":14612,"type":"script"},{"path":"/assets/drawerSlide-BLaZvEWG.js","hash":"67557768d451378bfd79a84e9a8dbb3d7f57750276c6de7cceb70fab2c4ccb3a","size":1783,"type":"script"},{"path":"/assets/drawerTitle-C5uwe2ep.js","hash":"9c67b87b37f50cde4fff4e1a8e5b11c368d51fe3c9d242b429bf72bad3a443b7","size":3117,"type":"script"},{"path":"/assets/dropdown-CuVYdJTF.js","hash":"edd2e31b03e291feb77a847e36ea976055029072d1c5e712d2d3a0ee2b294691","size":11097,"type":"script"},{"path":"/assets/editBlankForm-Da5Ts56h.js","hash":"1a6601214b5829a4ec4bdcb004d6b0a2b024ae517465dfc3935dbdc384f2ee00","size":1787,"type":"script"},{"path":"/assets/editFolderForm-BPIKkhw_.js","hash":"5bfc6da4fe00583430a00665ec2f6227d7bebce9df2fdddb9078a8ddf1b11f3d","size":3890,"type":"script"},{"path":"/assets/EllipsisOutlined-BEaU-7X2.js","hash":"98534b4e473e5737b814dc7e95beab77a01a8ce943bf1b5c9e852e6d192521f2","size":22521,"type":"script"},{"path":"/assets/emailSet-C1ypXtx7.js","hash":"d3ac84e3d4b7fd251250b5b18d574fd6b7fee4071a01b2c58ff0b05d651e031e","size":4210,"type":"script"},{"path":"/assets/es-C8_AIjTe.js","hash":"203df05890b6ef85e9415d6831cbc6cec9b3b07022c3ea8a1f3b1fc6ff08c00c","size":3440,"type":"script"},{"path":"/assets/es-C9WMRCQE.js","hash":"0828a84eed3438452b0fb1a95f1ec20dccf008c36acdc2105e829784a4cdfa1a","size":10080,"type":"script"},{"path":"/assets/esm-C5pPa52z.js","hash":"eed1d4f19399373d740e36d7776d5cf859c7856310df044e30dc11f6e8573869","size":7394,"type":"script"},{"path":"/assets/exchangeRateModalContent-oO-Bzj3t.js","hash":"2a6382bb33169bb94a8bcf4f68034648cb7a3b9b5118e17d11bca59b6999b4a7","size":3013,"type":"script"},{"path":"/assets/exchangeRateSettings-RTW9-xZy.js","hash":"dd456a6a71b94c5fd683a5c84ba501c3e413b1108c4c50b36d4fe1df668234bd","size":5851,"type":"script"},{"path":"/assets/ExclamationCircleOutlined-CcHIT3uU.js","hash":"1ab68dd4b5da520949a77d704cc5dfcf49250304e8fdba9238d48e2cc12ea9c3","size":886,"type":"script"},{"path":"/assets/extensionHostPermissions-Bd76ClDX.js","hash":"3f211673a44b43289f638128b0809b8076783433f879ae75db53beacb0557d74","size":11080,"type":"script"},{"path":"/assets/EyeOutlined-DCwMwbrk.js","hash":"17b7e8d20af03d2b67acb4bb23314e4982ed383ded57d982d8534bf0fa8ac1d8","size":1021,"type":"script"},{"path":"/assets/fakeAssistant-blh-YTtn.css","hash":"2da08accf384227565603fe9670e4547028020fe69a3a65814ce5f17e7e01ab6","size":4050,"type":"style"},{"path":"/assets/fakeSettings-CuayAkQj.js","hash":"1dae594de3d22a987520e1afaebeaa3928a5869403f8fbbf1e5f28381071afcd","size":3074,"type":"script"},{"path":"/assets/fakeUpdateShared-mNzwVRZv.js","hash":"9f94170511710c39a39cc3b253be8fd4b1b7fe75e67396f23a853654e6ed233b","size":962,"type":"script"},{"path":"/assets/FileImageOutlined-Kf6-NADK.js","hash":"aff697554b67fac18d51fadb077bb17098fe6e2a4ce6ae4f54b15aa955fbbddd","size":968,"type":"script"},{"path":"/assets/FileSaver.min-BylZoAQ7.js","hash":"f1c6c9bc18551dc462b943e74d768ea28b69e642517b6a3d512c335166ce51c1","size":2678,"type":"script"},{"path":"/assets/form-CGbFi7P9.js","hash":"c862c9432a09bf02b4c334d5c96350b38ff6a3c60848c0b8b80b5a39c0548d77","size":24175,"type":"script"},{"path":"/assets/freeDrag-3Vr1ntA9.js","hash":"3761fe5b7d50729584f3965809b4a41c631c7f4cd35b92e3ffbf7bb4e5a8ec93","size":8614,"type":"script"},{"path":"/assets/fullClock-CZ4i7g33.js","hash":"fc4dfc07bbe9db54542b63d4bd9a0f47f0bf49ce5de79508e6a77b7e83332605","size":935,"type":"script"},{"path":"/assets/fullNumFlipClock-D44H-p_a.js","hash":"b13a4c3414066281f91138d020ffe0d402b8f572a762a1413dcb0944ee9e3cab","size":3243,"type":"script"},{"path":"/assets/fullNumFlipClock-DlmbvxGB.css","hash":"5d16d0c96a004d258eeff57b2b4a8ba623ad27226ac057b6e0c0b6b3e2a808d9","size":2776,"type":"style"},{"path":"/assets/FullscreenExitOutlined-CYayVunR.js","hash":"4c1622bbf94e30ba9ebcab7bf67879f9530a2a4f292dbefd527ad3c7ec1f26d4","size":17553,"type":"script"},{"path":"/assets/fullSpin-b8Qbuyw3.js","hash":"cd0fcb1e7b3c41a373117bb162c2b7e8dc80ffbb115999ebdb4b4687088c0f2b","size":527,"type":"script"},{"path":"/assets/functionSwitch-17DzPUL3.js","hash":"bf78adaebe5714b32a328a9696b72d600dd635d8159b414c0b1fb88629b027b4","size":6646,"type":"script"},{"path":"/assets/gapSize-D72fcywO.js","hash":"e2369cfdabfd121651e46777e5a7ea6f0ae6a8ed9180d54c8d14b20dcc271e8d","size":144,"type":"script"},{"path":"/assets/globalSearchPanel-eZdB9ixj.js","hash":"3cdfe5bc0e6ae755905aae40e44742d9265782344736dd4c10e42076cf39f2be","size":9527,"type":"script"},{"path":"/assets/handleButton-DzsKksgD.js","hash":"6d9652a449910b6902fcf8b863bac7987610574c7b55007740db81b2dc4eda44","size":533,"type":"script"},{"path":"/assets/harmonyOsUpdatePage-BSHx36Ap.js","hash":"f82ff03dc4ebe922a8f9366379f3abfe535513ef4fee9f1448dd837bd3fa7c3c","size":1370,"type":"script"},{"path":"/assets/hi-B5DZ73r0.js","hash":"fbe9c34cf07422819c1a48d83acd8bee39869642eae7d641bf17917d44a5ef80","size":1079,"type":"script"},{"path":"/assets/historyLayout-B9AaLvrQ.js","hash":"4ed650026ba1e4b75153b119a943d1c3878bf23b838ef4b64c59927d7e6c8b80","size":6393,"type":"script"},{"path":"/assets/hotEventsSettings-D8myqcMF.js","hash":"0760026725b7fd5d677252d5937a1d489d6ce19ed3459115509ade70e5a2f112","size":3824,"type":"script"},{"path":"/assets/iconBase-DFmfGS2m.js","hash":"85b8dec9e8865dbae45c66f846aabecf97d02b4c412afd19e5844742167aecdf","size":2470,"type":"script"},{"path":"/assets/iconPadding-CvM1PPAp.js","hash":"4f5222cdd84a622c7f8a46834afeb0c3c1301498e5b50eabc96612f9cc43dbc3","size":253,"type":"script"},{"path":"/assets/iconUtil-DxCwOC6C.js","hash":"c4109d46cf5ea3cb77c4c8c8e20e7df2c08121dc67125bb603a85ff873e9c7d9","size":40902,"type":"script"},{"path":"/assets/IdcardOutlined-1DuEFwnU.js","hash":"302a21435737571307a85df5270da08b184d59160862fe9a1fb1787319f2fc9f","size":1278,"type":"script"},{"path":"/assets/iframeSettings-DQUG1y1W.js","hash":"c718ce6928002476c724f400f5063387733d939f40a27bf00c3bca6326eed465","size":4227,"type":"script"},{"path":"/assets/image-CgEdq18q.js","hash":"d5732fa8de4dd1fb298a6a11ac23e882fc39dcdef8da4bf0faa472e49572c90b","size":30379,"type":"script"},{"path":"/assets/importBookmark-8mLLd7aE.js","hash":"f86dddbce60910f0d28da79b5a83684fa7043a6db2e0588ebebdca19beec44df","size":10525,"type":"script"},{"path":"/assets/index-CI0dGiQt-lazy-imports.js","hash":"74960cd97d30d54b1ea05e891c1224b3f4c33dac1c60c167a5f168cb3a03e539","size":2363,"type":"script"},{"path":"/assets/index-CI0dGiQt.js","hash":"66f149c10efca319fb1a5422091a73f9422f194149904949959b84096dd57333","size":383,"type":"script"},{"path":"/assets/InfoCircleOutlined-B_ok5drj.js","hash":"031f0ca45803a61a5196b9a3f00c61284ddad6aa0dcd050a60d2cbc86151afb6","size":879,"type":"script"},{"path":"/assets/input-Dw0SXtNt.js","hash":"defbfb3c193852fffc93a36a53910af33f557037263087bca3f87c1abc5d1dcf","size":10463,"type":"script"},{"path":"/assets/input-number-D4gUNmYn.js","hash":"36df5d8f475afee04b110e4dec41a2225461d573b3ad2fc6f53946958322b0ce","size":23886,"type":"script"},{"path":"/assets/InternalLinkModeProvider-CBAskftK.js","hash":"f5ea968f85a15fa7721e6f34733885e5d9dde65db5d20f75315fcb181d2be954","size":2637,"type":"script"},{"path":"/assets/isMobile-Cak13gvT.js","hash":"03097dbb7772b22eee93235c89c8d94fbd5a2378fee66fc338339dc893e739f0","size":2087,"type":"script"},{"path":"/assets/isVisible-zexa_IYa.js","hash":"902250eb659fd14080acb375e926762d6ec3165361b82d4732254294ae05a0ac","size":5117,"type":"script"},{"path":"/assets/jsonParseWorker-dNXOhuB6.js","hash":"a9ebb9ebfa18466d18fc619c98439a47dfe24ff994a298d4e6eda1448e0da655","size":175,"type":"script"},{"path":"/assets/Keyframes-3amiLDE3.js","hash":"c18434dfdc5f0145350953367aa686ff86258d7b5d8af5ebc4500edb513ee944","size":364,"type":"script"},{"path":"/assets/KeyOutlined-CM_zZ2Wy.js","hash":"fd25ceb06ed2c1d9cbe5abe8e082273a2f0c1e1c0127c3fdb52b1c83464b4e1a","size":1104,"type":"script"},{"path":"/assets/layout-BHuSbMu-.js","hash":"e932c059dbac360314e4b94423fd876ab32d7115b1e326030c08bfbf9f86d02e","size":19162,"type":"script"},{"path":"/assets/layout-DaNZFg9d.js","hash":"95d95f071742c4531ebcde51d2df86b566e95a1a22efb79855ab4ca9857e64c9","size":18228,"type":"script"},{"path":"/assets/lazyContentBoundary-ZG0i8otP.js","hash":"c9ac71de0986e85b4f6a06698009f49acdc7a98908bafc92182983e83b00ec84","size":1854,"type":"script"},{"path":"/assets/leavePageContent-Cyuf-F6h.js","hash":"feddf17954fa33f046c373282454a79da512d03e7e865f4e6b6017b043edc2f2","size":1916,"type":"script"},{"path":"/assets/LeftOutlined-CdOmXCxv.js","hash":"61889d2e6820dca7e302a0f501955794dd078eec186843b226670765a7be122b","size":726,"type":"script"},{"path":"/assets/lib-BaGo5uv4.css","hash":"2ff9e609e6fbb2caaccd95f1984579875b41f5c556a09b7752d09c32f99b758b","size":24974,"type":"style"},{"path":"/assets/lib-BZ0QCzyd.js","hash":"a3f8c6dae18dface705daf8f4bdce769778ad5d11d6c0d3c264a084aff1bfe12","size":38651,"type":"script"},{"path":"/assets/loadableComponent-5_ckt2Nx-lazy-imports.js","hash":"34cec1c9835d5361e9a276f6374adf59ceb6eebc9fcfac14bfd27a1570586c89","size":736,"type":"script"},{"path":"/assets/loadableComponent-5_ckt2Nx.js","hash":"52941510d6fa2258a204d76141daa9d30a148154558c3ce98df77f5463a0ad9d","size":4451,"type":"script"},{"path":"/assets/LoadingOutlined-guYp25kk.js","hash":"52a4f43caa7eb3a365e709b7a78c2e4087734918ae48a73ea3565e19079e7714","size":863,"type":"script"},{"path":"/assets/login-CMqnHnag.js","hash":"25bb6347099e104173854ce74ec0d320c91c667915faad465c3b95fc49042b4b","size":3868,"type":"script"},{"path":"/assets/lu-DUcOC524.js","hash":"af1633b36683de6e0d2e8a36917e9e83a5f02960505d1020c53d2b723c4466bc","size":1832,"type":"script"},{"path":"/assets/macOsUpdatePage-CBQcw6Rb.js","hash":"799f3ef22a155a74ec01ec3cc93c3641f0c13d29e5888d9db60219a6f494e36e","size":1061,"type":"script"},{"path":"/assets/main-Clq68o-y.css","hash":"707b8df4c8ba72023fc377942d0aea16ec4e3d07b3dfe9d017b746d203074dee","size":27988,"type":"style"},{"path":"/assets/main-Crq_cOLM-lazy-imports.js","hash":"89451792bb15edfdc782f6619f01dd46d110e96996f6f4259fd96461a908165f","size":11975,"type":"script"},{"path":"/assets/main-Crq_cOLM.js","hash":"3c34569ded5906437c97b82cfc2360074638ba5448e071e19146854444b53ab3","size":897049,"type":"script"},{"path":"/assets/mainLayout-CDwxIp77.js","hash":"61aaa644ec2cb77f13a71618ba0bd0a0331f3b258fea21e81e92b0129f9a3f52","size":2952,"type":"script"},{"path":"/assets/markdownContent-BkC_vDZa.js","hash":"0ae3ab71f7e85ebdd731c9434d9f483e47746d6b55a6da6ccb7b6376604d96c7","size":644466,"type":"script"},{"path":"/assets/markdownContent-C3INj2oG.css","hash":"60512a96f968645ca8de527d32bbf2a010404e2fe6b5da5b61f825e8e161fc52","size":19084,"type":"style"},{"path":"/assets/markdownPageEdit-BsbUTrs7.js","hash":"4788f9c9c929cbcea1877dcf22257188dc8930ecc19945618f480726d34442c0","size":2887,"type":"script"},{"path":"/assets/menu-7dEt0mkp.js","hash":"4476aad40918389998be24ca33d90a2dff7d1db4364365f28dd274a61f1be014","size":30360,"type":"script"},{"path":"/assets/MoneyCollectOutlined-CoroIZhN.js","hash":"84cb972db9f1de37d70d8970ce16198c5e0512f3986094b31345bdb2adf7ff57","size":1302,"type":"script"},{"path":"/assets/moreSet-Cia9IKgy.js","hash":"b7e83570640d8f6d6926686a1d0678a42543db605ff18158670f3ee481db485b","size":22777,"type":"script"},{"path":"/assets/myAlert-C_4te0Z7.js","hash":"523c5d15a9ab31ee706923b8adb1af9fc4fca57410602d82d5e69299231acca6","size":453,"type":"script"},{"path":"/assets/myDrawer2-FDnQrDAq.js","hash":"cfe1d65ce92abc174d731f46c91af39c1228dfcca3b61893e171e1231a61204e","size":1738,"type":"script"},{"path":"/assets/myErrorPage-D0An1d-O.js","hash":"e92576966f7500dd41a81e3e0284a2b8b4fe767753cb8e87b91149095944ce2b","size":1389,"type":"script"},{"path":"/assets/myMessage-kSSld-0f.js","hash":"0ea0e3def6b28df13fae40f24e45ff83317eba3ca0210d05aa4afcec898b14a5","size":24458,"type":"script"},{"path":"/assets/myModal-BbMFakgO.js","hash":"8cce9d54886f06cfac51b1d6421a7358b58244931eb99c7856fa89606424a568","size":1777,"type":"script"},{"path":"/assets/mySettingsGroup-o-xHAWw4.js","hash":"dfbd0910f822a47171c8e0e622d9c9102f86884d8310d5ad6e0c7d860979a76c","size":1716,"type":"script"},{"path":"/assets/mySlider-DPkuS9fa.js","hash":"e5de472d5e31313828645aeb629dc2a3ce8874898301cea151c1cebc22acdfb4","size":822,"type":"script"},{"path":"/assets/myTable-CudMBa3_.js","hash":"d766778ae05ff26d92766536d3c8e6c92fb8c0a999b14094769ba740fd98c17c","size":131864,"type":"script"},{"path":"/assets/myTextAreaChangeWithEnd-7x0SkSA_.js","hash":"e9c135970c60053bdbafefb799da5285887d140d9ac49c43b5fc4ef93d0821e7","size":1207,"type":"script"},{"path":"/assets/newtab-BkRar66E-lazy-imports.js","hash":"ade0d22150c730cb4a7bfa4bc043f0485bce24d1545e312ff0785e6797762e80","size":2334,"type":"script"},{"path":"/assets/newtab-BkRar66E.js","hash":"f1d13847d9bf14fbd3a48634a5e9868f09cab92416f9388916fa5c85d9ec81eb","size":445,"type":"script"},{"path":"/assets/noLogin-Bd5qX0Z2.js","hash":"f399fdd6d53cc71c22fec86a99f938184f5a2a356d234861f2be9ef5a03a79cf","size":19431,"type":"script"},{"path":"/assets/noPermissions-DpsRRaNO.js","hash":"fcb875ade65758768a7e4031d981217d2dc286e706ac4c926bcd8b0aea8986ef","size":1614,"type":"script"},{"path":"/assets/noteMainContent-DE8xvaqd.js","hash":"1d3d0a77b7fc6649779c566cb9598f559894f418ed53dee8b1b7b3d4e44c67fb","size":9954,"type":"script"},{"path":"/assets/notificationManage-DQy68_D-.js","hash":"184d92604881e620e5c148451c92a4236669a3387fe7f81579c3115370a75435","size":7001,"type":"script"},{"path":"/assets/openTypeSet-C2bVAxlj.js","hash":"0f2e86399d0547ddbbe88890a86f68159f187d2548b062606810ac854c50b532","size":4218,"type":"script"},{"path":"/assets/openTypeSlice-Cn-KJnKf.js","hash":"534a04e573c1efad2f5f9794b00a7e1739f85c73b279df63ff84ba3908a69023","size":1210,"type":"script"},{"path":"/assets/options-b3qDjkhQ.js","hash":"919dc0dbd8966626f33850445ac3a445ebef6b86586b10af367adc9bfc2ef23b","size":552,"type":"script"},{"path":"/assets/pageUpdatePrompt-dM_VOaiZ.js","hash":"28576df1c368ac377e2ec5cc56bef3b4f307fa1561df5d6974fbe22cfab6c390","size":1651,"type":"script"},{"path":"/assets/popconfirm-BS4QPP9M.js","hash":"e05e1d560e9cef24db60fb1336c078b2386ea7e959c8439516da3d7c0daadec7","size":4307,"type":"script"},{"path":"/assets/popover-TBtDiXrN.js","hash":"8539d2d9eb0abc8a5427ed4c0e1c1a8714b37ff93e673fa1e4aeea120c84fe8b","size":5495,"type":"script"},{"path":"/assets/popup-CmcXbf1F-lazy-imports.js","hash":"023e57da2226d975f132d6014ef438614c9d3f2b42b5b418a6cb159811748748","size":1533,"type":"script"},{"path":"/assets/popup-CmcXbf1F.js","hash":"dc97f494f9721c8d08a32fda533913332c47fc3e5dc3d2d36604f5a340c387af","size":11543,"type":"script"},{"path":"/assets/preload-helper-BLdHbfdN.js","hash":"8aec9ff75ffa86a03d51268b63126abadb3754aa5a6b6c5bb16e4e2446a63dee","size":1519,"type":"script"},{"path":"/assets/privacy-DxKra4Fb.js","hash":"94c85d66f9f8345e1a0659a548f62d42c41a74b7961db654d217860418b9e7e6","size":10046,"type":"script"},{"path":"/assets/progress-DtKVU5FB.js","hash":"e88f1b6cf956941cb877fdf7eb339ffd6b0e5dc8051c638bb39df86517ba0b43","size":15941,"type":"script"},{"path":"/assets/qr-code-fsrSroxY.js","hash":"d3d975c114017e949a3ebe60b34128bf473d5e6de907b129ac056275e1fbd04e","size":21679,"type":"script"},{"path":"/assets/QuestionCircleOutlined-BabO2gmI.js","hash":"a77f644e1d6b9548bf35166fdfb63b2c863d4b2a3528021db077c9932c0f8e84","size":1170,"type":"script"},{"path":"/assets/radio-DALdYuLG.js","hash":"6692ad4d1a7016642a5527cb5975eee7cee08eabd4f4541ad07768e842d7eb59","size":10591,"type":"script"},{"path":"/assets/react-CaHqTYKJ.js","hash":"f2c74be8d2c89223db0eacfa7171dd3574d78407ac675b808ef81364be07f056","size":8714,"type":"script"},{"path":"/assets/reactNode-vq-YR-WJ.js","hash":"8bf88c4c842e36fa628803f4ae8432b801748d4a1f0d411d89253b81d473aa79","size":33914,"type":"script"},{"path":"/assets/ReadOutlined-Blkq4VZJ.js","hash":"506f81eb4417a2c9cd898ced60a643e70c81e3d865b7ff7ac810924ee7823f8c","size":5865,"type":"script"},{"path":"/assets/recommendApp-CNV9OHqS.js","hash":"0096afd4fc552e0181e22e3521aa102b5990f8588848fff59a38c09c4ecab5f5","size":5413,"type":"script"},{"path":"/assets/recommendApp-qaVc3o5H.js","hash":"e5f8051c63faf0a25aa0a00922aec3e98dc30f92620b15900ae55d2a8898ee92","size":4490,"type":"script"},{"path":"/assets/recommendAppManage-BIT4xfj_.js","hash":"06464be56baa685588b67b0ba241a6f0ae645b3f414abf8d1c60151696e2cf07","size":6470,"type":"script"},{"path":"/assets/recommendAppUtils-LQ53pPHA.js","hash":"8e099956f9843eeb05bb2a79a074c40fad3f0bfdfe6e6276f54780ee4a4ec007","size":145,"type":"script"},{"path":"/assets/RedoOutlined-B9Wl1ID_.js","hash":"fa53e4098ea895764da796454886b8e8b74e118f3091b3256ed465fcd2e01d73","size":1235,"type":"script"},{"path":"/assets/ReloadOutlined-CrF3fxit.js","hash":"18bc7e29a6030fc6085b4026365cd8abfa7aff8c5735f91c470c7d817f396f8b","size":1235,"type":"script"},{"path":"/assets/reset-0pBnwhSX.js","hash":"24c7395b57edcbe29c7676340bbda29a2537d179e553b716ddfa6bfceebc0d42","size":13935,"type":"script"},{"path":"/assets/rmbToBigWordContent-C8Y1mXLx.js","hash":"57e4132df16952f3b23235c74206bc7bd4f8d1abaad69e91d40af731c70b6d82","size":3705,"type":"script"},{"path":"/assets/roundedArrow-Bm691-jQ.js","hash":"cf4131bbde7de22224f5a45bd56ddd847e569bea461f873758abb45351d1c07a","size":20959,"type":"script"},{"path":"/assets/row-BxG68YVo.js","hash":"32604000e6cd8c665e481a49df90f583a3ca6926d4d3e9d04e04d309c41cb4c1","size":3535,"type":"script"},{"path":"/assets/runAfterContentReady-CFYmNR-O.js","hash":"abad7060de0a15a327672f1a06893499b33334394f03369dddc3a4b35c927a1b","size":1147,"type":"script"},{"path":"/assets/runtimeStore-Dv41g_LM.js","hash":"f6ecd2788b30174f6a79defcce667a6bc38d3170199121e4b8f59a146838b602","size":912,"type":"script"},{"path":"/assets/scrollTo-whP4HhOf.js","hash":"ca23465f593b60a15f3c95c893770085d910178949e2f8734a5061d9fe2e644d","size":776,"type":"script"},{"path":"/assets/searchBar-BayckNpk.js","hash":"b062f82ef9ec942527e1e95d5ee0cc489fbe802712b58ee0765c191a6900735d","size":13882,"type":"script"},{"path":"/assets/searchBarDropdownRender-Cofmjqb5.js","hash":"2251c7403e842503dafe1a015df054dec808486f1733b7c0af335f8cb0959a5d","size":10778,"type":"script"},{"path":"/assets/searchBarSlice-BeH74O91.js","hash":"2ea4f2b520754da74892c4a19af0ad73bd7fcecc9b182c056705bc5208f8a263","size":3889,"type":"script"},{"path":"/assets/searchEngines-BQhz0Fep.js","hash":"83a45ebb3bfaab33179b99c379dc1c960736282f1d502121a9313eca576b0df0","size":11348,"type":"script"},{"path":"/assets/searchLocalData-K9gbtF6W.js","hash":"8f8c4e07b1fc9e043571fe980ff43c28c88ae7708a84bbacd5d30c141cecdd6e","size":3487,"type":"script"},{"path":"/assets/SearchOutlined-CPKm4EnO.js","hash":"f9d2ab275eaf8380a53fd40880efd7a5b473be8f934d05e433e387a1580330cf","size":1059,"type":"script"},{"path":"/assets/segmented-BtS3fVFh.js","hash":"a9a6d2a4b21d6dc1566021fb9acdb6739beb1a4e39b17d1fafd15bc55cf4b31b","size":10418,"type":"script"},{"path":"/assets/select-bURQRbY-.js","hash":"1e9a0a459da8ef006ecfebce1827e8c2d11147675bf33fcb82825d034a3dd927","size":4106,"type":"script"},{"path":"/assets/serverSwitchService-BHIifIvZ.js","hash":"8bcbf2b0c572ec74ca1deee92c6285759ced4925a3ef413514d856b3386bdba0","size":813,"type":"script"},{"path":"/assets/settingControls-DI6H6VP9.js","hash":"11dc47fa6cff8549b2e715460c39084c9babfe5c8a9d45f58ad2e41a0b2351fe","size":1917,"type":"script"},{"path":"/assets/settingsLayout-C-h8AqVz-lazy-imports.js","hash":"103913604e028797ea45f628ee6a2d4514a29c44a2d1bc01f42cef7dcc668c15","size":3457,"type":"script"},{"path":"/assets/settingsLayout-C-h8AqVz.js","hash":"feff44ea0af4191bfbda4c14a637312bd85babb9bc7dac94cdf6deaeac03d1e0","size":22171,"type":"script"},{"path":"/assets/settingsLayout-DYVA44hO.css","hash":"5158c556125801d1861acf0e6762ca7c0df976e22aefbc3aeea10db9884bdaf6","size":1989,"type":"style"},{"path":"/assets/settingsRegistry-Dhn0ecnA-lazy-imports.js","hash":"f74066daf0700bb6ec8f366031b1674180fe94370dc42e304e9b33fe19706f34","size":6043,"type":"script"},{"path":"/assets/settingsRegistry-Dhn0ecnA.js","hash":"7a8a9582df767d04ba27de66e0c39792f67c08a26fa1b0364da630f8014b435c","size":26497,"type":"script"},{"path":"/assets/settingsSearch-140W7Fyu.js","hash":"5ce14163db384393eccf27f80f0c6e751330fbbf1979d513fb844c78250d784c","size":26346,"type":"script"},{"path":"/assets/share-BVWIjt8S.js","hash":"72d3eefe0083f3460cbb6cb10fcd4802bfa469b5850e9fbe771482c81fa118cf","size":13112,"type":"script"},{"path":"/assets/shareContentCache-6gh6w0ZE.js","hash":"1f97836c3988a33ab08a925ca58481cc7af601d66e7127cdfaa5863e53743833","size":4151,"type":"script"},{"path":"/assets/sharedTooltipScope-CTSAYomA.js","hash":"9c58ecfca00c1cfbae2f889dbde1e058dd5054e1b8e6991268eade832ff3c928","size":368,"type":"script"},{"path":"/assets/shareHome-DwUr4Haj.js","hash":"38757ca74f614f15c142500a99c4a4ea5c0c2579e1a60c878d8ca4211437c4bb","size":3181,"type":"script"},{"path":"/assets/shareManage-enWUsiot.js","hash":"c592b138d956edbd26a8c355b3cdbc123c3a06124180def82bc70dc219a4d9af","size":6885,"type":"script"},{"path":"/assets/sharePage-BelR0py7.js","hash":"f883cd89ded3e04f9c25e729f8951561f094f153d768a95664a897e780bdbef2","size":4359,"type":"script"},{"path":"/assets/shareSay-nHZIP-8f.js","hash":"59853dffe9ea61dfb7e0212b83864592a3ab6e95eb95e2c4fd36721b7ec709f8","size":333,"type":"script"},{"path":"/assets/simpleMode-Bx2Y28Z4.js","hash":"2aa8b5f0d0add8427388afdcbae21fb0404913fc5caea72c4b07896d1e4d26ea","size":8835,"type":"script"},{"path":"/assets/simpleModeSlice-DLv8rjXj.js","hash":"04654efbe7600b6555ceceaeefbd4622b79b09850660080515eae4fdfe918b1d","size":2153,"type":"script"},{"path":"/assets/slider-Diz758Mc.js","hash":"4e301dd6ffaab9a88a341b51451f5d747a5bf98263e4afb82e34f67958ac41e3","size":26778,"type":"script"},{"path":"/assets/sliderScrollScopeContext-Dn-6HqaF.js","hash":"20df231ddeb7b6576b210c93f5c692001dca85426c5f8ff72970289c64d9d9fd","size":146,"type":"script"},{"path":"/assets/SortAscendingOutlined-fXtcdXHJ.js","hash":"f50f5e95014596f07677e44a73375a1ddb42065bc214df6c0a653a09652893ce","size":1269,"type":"script"},{"path":"/assets/space-it8h_FLP.js","hash":"c7729632069749a724fc3aec23ac2ed1fc758747f73a242b4f3646213fe12aff","size":2060,"type":"script"},{"path":"/assets/startup-core-utils-BhEKj4eH.js","hash":"eed52d9ec1b02b5fb23d90cde4988f152ad5a490c3277167b33fa10d99a83e95","size":11340,"type":"script"},{"path":"/assets/startup-home-icons-CK_mCQX6.js","hash":"dbc4a798b5e2f5537a94e684cf6201f47c79acc0d18525d1b20d2057cd32a4a0","size":14064,"type":"script"},{"path":"/assets/startup-home-utils-DHT_DrdV.js","hash":"015a2415aaf24ea4e4de2458f595f8675d507731fd51577a59d907aa3f6971fa","size":3728,"type":"script"},{"path":"/assets/startup-react-runtime-Dx4Yh6bL.js","hash":"fbff65934ac4dac91527f793f077d43ffb6abea67356c4a8a37e83a0072f11da","size":593,"type":"script"},{"path":"/assets/staticImage-BMQ7xvv-.js","hash":"4aa48c108ff402b2f4d0253c1ab6445babe3bf7bd6dea471545d84ba4050e670","size":676,"type":"script"},{"path":"/assets/staticImage-BZYZOQfz.css","hash":"520957b9bab6187b71ab361b147d46aa0ad62079e1c8c584086daadb34a45fa0","size":140,"type":"style"},{"path":"/assets/stockPanel-D6AYe09G.js","hash":"5c00a91494c0f18932aadf2f2866395f549302a10b9f2493954c6b9717c37d3e","size":633648,"type":"script"},{"path":"/assets/stockSettings-Z67281b0.js","hash":"41bb417bf7f39a43396f35b41f9d9f9f103c216a724d38fd2f44af41431e2ab9","size":5142,"type":"script"},{"path":"/assets/StopOutlined-0tuU51wo.js","hash":"2367a84131cbcfb7a1f767efd45f6b1b8f723b62e0eb3b1f2c67f03e4363d53c","size":837,"type":"script"},{"path":"/assets/style-CFO23lxj.js","hash":"d0555b1cf96413c28425ecdb2f74bf7fd94039440283eef0bb625807cc4730cd","size":3555,"type":"script"},{"path":"/assets/styleChecker-CxzNOujK.js","hash":"6a1f6a89a265e320a85c54aa73327e9df65fb7278ae5e0a6ad903de873ff04a2","size":421,"type":"script"},{"path":"/assets/submitForInclusion-UI1ve2K4.js","hash":"7e0b11f7292752384a9b554d497c86824ce4dd9e35fa987f5bbc48eb75f28a08","size":6021,"type":"script"},{"path":"/assets/swiperSlice-KJuXQCBB.js","hash":"1f34de0928c9b864950a7b639fe7862c68354e21fc31a49ae483e71b89d59aef","size":16880,"type":"script"},{"path":"/assets/switch-BEJOONAK.js","hash":"a5fd35b229666dc7b3b0624f44a604e7df93de27981eb7cedad1dd5513c9bb48","size":7952,"type":"script"},{"path":"/assets/Title-CPZDNJJK.js","hash":"13a4880f7951cebed6b5e1ec9922bb723fdf0d36a9451ef15be4ec5cda57b747","size":20697,"type":"script"},{"path":"/assets/tooltip-Bww237ac.js","hash":"e3750bcd41210bff1b31b293b6daf7c583c4e770c10936cd246fcc804c4b280a","size":14271,"type":"script"},{"path":"/assets/transformData-BkCAZYBG.js","hash":"ab6d77f28b8733afa45bb0df518a15a778c99eeb94c2a20096f3ca0839a34400","size":752,"type":"script"},{"path":"/assets/tslib.es6-KccWJ94y.js","hash":"4630bde5125cb59f3f15667779ade5ed4fb31ba975279442512db12f66eaf544","size":2545,"type":"script"},{"path":"/assets/typography-C4aZc-cN.js","hash":"23b1b7c6b236bf331447fce0906f5abc647915d2f4fc8492fa38fd3f64f73d57","size":1375,"type":"script"},{"path":"/assets/update-SiuRIG9d.js","hash":"96b22150d091e7e909992953faf3a1a5c7e20c066db44639fb2999caf501f375","size":1385,"type":"script"},{"path":"/assets/upload-CxKDC4Kr.js","hash":"8f2379c77bde58d72ca3312af35a814a2674f57cf01f566b5d8d559bc12bc9ee","size":35460,"type":"script"},{"path":"/assets/uploadSrc-DFArak51.js","hash":"20583d2dc27f35e6e1692749feff918b4e64e6f7584eb97a47134bfe71ccd948","size":6685,"type":"script"},{"path":"/assets/useBubbleLock-X_4Xer0k.js","hash":"9ec038ac7a678fbcf324f71fd1dbd8f32b445ecdee340dadd03c2240eae768df","size":1531,"type":"script"},{"path":"/assets/useDestroyReactSortable-aghLgoKz.js","hash":"446d586d3c1049c4f0f041f3d0f472fb4fe2dacd9f1cb803043cca270bf1702b","size":75761,"type":"script"},{"path":"/assets/useForm-M2aR7siw.js","hash":"9e0e07548d32bbc3578628bec1bd9fb361721f2bbe9d61704e8b1b0a4a79f0a6","size":5171,"type":"script"},{"path":"/assets/useIcons-BoNeA0ee.js","hash":"67c05cf3a3b6fd1a0617a9ee5445e0fd26ab2962c819aea421cc1e3023bd84e8","size":5304,"type":"script"},{"path":"/assets/useMeasure-CoREmbLt.js","hash":"d6b06a874ba60b80720f5340490f4905f91a913ff5dae72aa2e99097513b59ea","size":1471,"type":"script"},{"path":"/assets/useModal-DFQ0sBKY.js","hash":"74eb747781d2cd609560a45cfb635997e3ac0df4ee1fc3470c7561e6ba45be3d","size":39719,"type":"script"},{"path":"/assets/user-BQK9iMPa.js","hash":"7780bacdff118da464a2fd510ff53e4f8f35477f5b3a38fec0da23fcc7ca74fd","size":4241,"type":"script"},{"path":"/assets/userAppellation-B7wkJjZt.js","hash":"4e445c2e8b766fc31b8625fb32c061c90e7956eb0e5be75097b93a2645f6a655","size":4063,"type":"script"},{"path":"/assets/userInfo-CijgVjpE.js","hash":"4ea6b01d8f1ed955e426b45e250c386358c17de3f899d1d53cf9ff3444c8050b","size":26460,"type":"script"},{"path":"/assets/userManage-CdRi0uEW.js","hash":"931986d7ffd49917d8a93203646374bd2dd99f0d27dffe4b6363edbc98bdccec","size":9638,"type":"script"},{"path":"/assets/useSaveShortcut-C91XkxAa.js","hash":"fd80bca1f83ede9bfe23fbee83df4ab1da3a9406e7688f69803d9a79f9b5672c","size":574,"type":"script"},{"path":"/assets/useShowArrow-BikTARmY.js","hash":"689188ce55a15ae269c05e83528f39327c8e2d76f6210eed712843ada1e4eebb","size":64986,"type":"script"},{"path":"/assets/useSortableGridConfig-DdLIspH5.js","hash":"09451409dec3eb90ddfef557923feb3befec4c4f6952d99edfaaf62a32f05626","size":10511,"type":"script"},{"path":"/assets/useTimeTicker-C0Qt1c8B.js","hash":"cd656ff80f7b58381ac992c2c020324de889bde83005de751a09e98b862c068d","size":2548,"type":"script"},{"path":"/assets/useToken-DeQ7oFnG.js","hash":"d5cbd38b5fa3f8a7bcae7551c93840bb422e9e0e508e49528b1d0ab6ea2772c9","size":48697,"type":"script"},{"path":"/assets/useUpdateEffect-Cbax_qYZ.js","hash":"39eefb8536a8b1293a6055d9683c9fefeb28448c4e58448d843fd67b13cf83f8","size":230,"type":"script"},{"path":"/assets/useVirtualScrollReveal-B4fuou6-.js","hash":"f2b0fddbd1e22ae55ec8f57547df95dd3c68e13389ffb5048a9a376e452f9626","size":446,"type":"script"},{"path":"/assets/useWindowSize-HdRjkQDY.js","hash":"beb3af9ad9f40b0c9982be2ea774d646b547b09000d6a3df0f616cc732f939e3","size":3045,"type":"script"},{"path":"/assets/util-CmYHFVqq.js","hash":"498c45470c24e5d67ae3cb82f337cfaf549895d2dad37396ef457cc1a6db559f","size":14216,"type":"script"},{"path":"/assets/wallpaper-B7QuTm_Y.js","hash":"efa71ce2fe7538a633bf0caf853d10e008167f67a439c44a5c6f431a4dd90483","size":75768,"type":"script"},{"path":"/assets/wallpaper-C8BujJa7.css","hash":"7675ebe418c0f2cc7ddb8ccf4572dd58fd5c79fbeb79f26129ecc04fe3e54737","size":22947,"type":"style"},{"path":"/assets/wallpaperDisplayWorker-DC7ed_CG.js","hash":"fbb491067b6583742ebc1a267b85ab4e3cb0e85305b10651889313cc2faf3ba7","size":1613,"type":"script"},{"path":"/assets/wallpaperManage-Dl5Z3DSn.js","hash":"39583c53ed6b847297a3e60618b630ed106e7c4215de9a75b2e5d9ad04584772","size":8464,"type":"script"},{"path":"/assets/wallpaperThemeSlice-Dk1jzZwH.js","hash":"91d435d1f33115b50d9822f3e6ca807f6baca6ab7f9662bf4f3d69832410c50a","size":3661,"type":"script"},{"path":"/assets/wave-D5ELEOKG.js","hash":"eeb5881a45f841a9815dbc55839d757c4e25336294caa014460d3cbd6c9a7fd5","size":9499,"type":"script"},{"path":"/assets/weatherLayout-BmIIB2q6.js","hash":"69d3c6543c11b697024afc4249cef9956d7f11a53ecba367fb103a983fde1bb4","size":9209,"type":"script"},{"path":"/assets/weatherSettings-BxCMPdTN.js","hash":"4e78fdd44307b0ac0f9771eeb4da4d1bac053021e7d9094c2a76a9f8f8ef7cf3","size":27860,"type":"script"},{"path":"/assets/webAssetCache-DkkUHqsB.js","hash":"71754b2fb99e41632eb2749263a9ef8eda8f305afb03673459600008110da6f1","size":6710,"type":"script"},{"path":"/assets/websiteCategoryManage-BME_Tqwa.js","hash":"7cf1ed5682d29114f86ae9d500b54bb656248657748c17544dccdbe4f8397977","size":6218,"type":"script"},{"path":"/assets/websiteSource-CS_q4QZu.js","hash":"7e883a6073a708b48f0fd80ede76a61b1a7141012b3493a8480c5f56b7b71f54","size":7266,"type":"script"},{"path":"/assets/websiteSourceManage-CTgyBC-a.js","hash":"844b4eb061339d35bf87b28503b75c133015f7e93c48f56ab29c0c2624f0e1c7","size":7431,"type":"script"},{"path":"/assets/widgetAppearanceSettings-TvUdDlEO.js","hash":"ea973eedc9815fd1e19dea7f3e2621823508644135ace7c37550f8212f79f0ec","size":2367,"type":"script"},{"path":"/assets/widgetStateCache-DU4wFLYp.js","hash":"0a2ccd3a5dda15a694b7c3419bf1126caaffdbac1ddda7baed3d57be07bc67b6","size":1630,"type":"script"},{"path":"/assets/win10UpdatePage-DFW8O_qD.js","hash":"b1cf3dc7c80e55cb1bbbfe090be3318b95b1eec9d126abe7d843601b6999fa42","size":1671,"type":"script"},{"path":"/assets/win11UpdatePage-hJdWlb2E.js","hash":"62f129f038b0da2ccd9422187a7c2dff521a64f2b21bbebc3407d91abcffa048","size":1378,"type":"script"},{"path":"/assets/zoom-CyOEOG4e.js","hash":"dbc931f49a921ef4d5fbfd20066be7794238bd2820bb871c704109d11d8d04b5","size":2420,"type":"script"},{"path":"/startupTitle.js?v=4857dc31a625","hash":"4857dc31a6251e9a07e5210b20a134f3e7d5068ff1a77504210bdd7326f85298","size":6617,"type":"script"}]};
 const PREFIX = `gotab:assets:v1:${encodeURIComponent(BUILD.scope)}:`;
 const META_CACHE = `${PREFIX}metadata`;
 const CACHE_NAME = `${PREFIX}${BUILD.version}`;
@@ -14,13 +14,23 @@ const HTML_CONTENT_REVISION = "x-gotab-html-content-revision";
 const CONFIG_REVISION = "x-gotab-config-revision";
 const CONFIG_URL = "x-gotab-config-url";
 const CONFIG_SAVED_AT = "x-gotab-config-saved-at";
+const HTML_CHECK_SEQUENCE = "x-gotab-page-check-sequence";
 const checkingPages = new Map();
 const detectedPages = new Map();
 const MAX_SHARE_PAGES = 16;
+const PARTIAL_BUILD_TTL = 7 * 24 * 60 * 60 * 1000;
+const PREPARATION_LEASE = 2 * 60 * 1000;
+const NAVIGATION_PIN_GRACE = 60_000;
+const buildPreparations = new Map();
+const assetTransfers = new Map();
 const SHARE_PUBLIC_TTL = 24 * 60 * 60 * 1000;
 // Coordinate installing/active workers and simultaneous tabs, including cache eviction.
+let buildLockTail = Promise.resolve();
 function withBuildLock(callback) {
-	return self.navigator?.locks ? self.navigator.locks.request(`${PREFIX}update`, callback) : callback();
+	if (self.navigator?.locks) return self.navigator.locks.request(`${PREFIX}update`, callback);
+	const result = buildLockTail.then(callback);
+	buildLockTail = result.catch(() => undefined);
+	return result;
 }
 const META_ROOT = new URL(`${BUILD.scope}__gotab_asset_cache__/`, self.location.origin).href;
 const MAX_TOTAL_BYTES = 128 * 1024 * 1024;
@@ -31,8 +41,11 @@ const MAX_CONFIG_TOTAL_BYTES = 8 * 1024 * 1024;
 const FETCH_TIMEOUT = 30_000;
 const VERSION_PATTERN = /^[a-f0-9]{20}$/;
 const DIGEST_PATTERN = /^[a-f0-9]{64}$/;
+const REFRESH_QUERY = "__gotab_refresh";
+const REFRESH_TOKEN = /^[a-f0-9]{32}$/;
+const REFRESH_TTL = 30_000;
 const currentAssets = new Map(BUILD.assets.map((asset) => [new URL(asset.path, self.location.origin).href, asset]));
-let previousBuilds = null;
+
 
 function configurationURL(value) {
 	try {
@@ -44,8 +57,14 @@ function configurationURL(value) {
 	} catch { return null; }
 }
 
-function pageKind(value) {
+function navigationURL(value) {
 	const url = new URL(value, HOME_URL);
+	if (REFRESH_TOKEN.test(url.searchParams.get(REFRESH_QUERY) || "") && [...url.searchParams].length === 1) url.search = "";
+	return url;
+}
+
+function pageKind(value) {
+	const url = navigationURL(value);
 	if (url.origin !== self.location.origin) return "other";
 	if (!url.search && [BUILD.scope, `${BUILD.scope}index.html`].includes(url.pathname)) return "home";
 	const relative = url.pathname.slice(BUILD.scope.length);
@@ -54,7 +73,7 @@ function pageKind(value) {
 }
 
 function pageURL(value) {
-	const url = new URL(value, HOME_URL);
+	const url = navigationURL(value);
 	const kind = pageKind(url.href);
 	return kind === "home" ? HOME_URL : kind === "share" ? `${url.origin}${url.pathname}` : null;
 }
@@ -111,6 +130,15 @@ async function pruneConfigurations(reserveBytes = 0, reservedRevision) {
 		const entry = await readClient(client.id);
 		if (DIGEST_PATTERN.test(entry.configRevision)) keep.add(entry.configRevision);
 		else unknown = true;
+	}
+	// Configuration pins have the same reserved-client window as asset pins.
+	const meta = await caches.open(META_CACHE);
+	for (const key of await meta.keys()) {
+		if (!key.url.startsWith(`${META_ROOT}client/`)) continue;
+		try {
+			const client = await (await meta.match(key)).json();
+			if (client.pageURL && Date.now() - client.savedAt < NAVIGATION_PIN_GRACE && DIGEST_PATTERN.test(client.configRevision)) keep.add(client.configRevision);
+		} catch { /* Malformed metadata cannot pin configuration. */ }
 	}
 	let total = entries.reduce((sum, entry) => sum + entry.size, reserveBytes);
 	for (const entry of [...entries].reverse()) {
@@ -174,9 +202,14 @@ async function pinnedBuilds() {
 	for (const key of await meta.keys()) {
 		if (!key.url.startsWith(`${META_ROOT}client/`)) continue;
 		const id = decodeURIComponent(key.url.slice(`${META_ROOT}client/`.length));
-		if (!ids.has(id)) { await meta.delete(key); continue; }
 		try {
 			const entry = await (await meta.match(key)).json();
+			// A reserved navigation client is absent from matchAll until its
+			// document becomes execution-ready. Give that newly written pin time
+			// to appear; closed tabs are reclaimed after the same short grace.
+			if (!ids.has(id) && !(entry.pageURL && Date.now() - entry.savedAt < NAVIGATION_PIN_GRACE)) {
+				await meta.delete(key); continue;
+			}
 			if (VERSION_PATTERN.test(entry.version)) {
 				pinned.add(entry.version);
 				reported.add(id);
@@ -191,29 +224,75 @@ async function pinnedBuilds() {
 	return pinned;
 }
 
-async function pruneCaches(reserveBytes = 0) {
+// Called under the shared metadata lock; no network transfer holds this lock.
+async function pruneCaches(reserveBytes = 0, reservedVersion) {
 	await pruneSharePages();
 	const builds = await listBuilds();
 	const pinned = await pinnedBuilds();
 	pinned.add(BUILD.version);
-	const retained = new Set([...pinned, ...builds.slice(0, 2).map((build) => build.version)]);
+	if (reservedVersion) pinned.add(reservedVersion);
+	const now = Date.now();
+	for (const build of builds) if (build.preparingUntil > now) pinned.add(build.version);
+	// A throttled worker may still hold its preparation lock after its persisted
+	// lease expires. Never evict files out from underneath that live operation.
+	if (self.navigator?.locks?.query) {
+		const prefix = `${PREFIX}prepare:`;
+		const { held } = await self.navigator.locks.query();
+		for (const lock of held) if (lock.name.startsWith(prefix) && VERSION_PATTERN.test(lock.name.slice(prefix.length))) pinned.add(lock.name.slice(prefix.length));
+	}
+	// An incomplete replacement does not discard the last complete build.
+	// Older records without the flag were committed only after a full install.
+	const newestComplete = builds.find((build) => build.complete !== false);
 	const meta = await caches.open(META_CACHE);
 	const sizes = new Map(builds.map((build) => [build.version, build.assets.reduce((total, asset) => total + asset.size, 0)]));
 	let total = builds.reduce((sum, build) => sum + sizes.get(build.version), reserveBytes);
 	for (const build of [...builds].reverse()) {
 		if (pinned.has(build.version)) continue;
-		if (retained.has(build.version) && total <= MAX_TOTAL_BYTES) continue;
+		const superseded = newestComplete && newestComplete.savedAt > build.savedAt;
+		const expired = build.complete === false && now - build.savedAt > PARTIAL_BUILD_TTL;
+		if (!superseded && !expired && total <= MAX_TOTAL_BYTES) continue;
 		await caches.delete(`${PREFIX}${build.version}`);
 		await meta.delete(`${META_ROOT}manifest/${build.version}`);
 		total -= sizes.get(build.version);
 	}
-	// Only our exact cache names are eligible. Other applications and SWs are untouched.
+	// Partial builds have metadata too. Never delete a known preparation merely
+	// because it has not finished, or an old page has not reported its version yet.
 	const known = new Set((await listBuilds()).map((build) => `${PREFIX}${build.version}`));
 	for (const name of await caches.keys()) {
-		if (name.startsWith(PREFIX) && VERSION_PATTERN.test(name.slice(PREFIX.length)) && name !== CACHE_NAME && !known.has(name)) await caches.delete(name);
+		if (name.startsWith(PREFIX) && VERSION_PATTERN.test(name.slice(PREFIX.length)) &&
+			!pinned.has(name.slice(PREFIX.length)) && !known.has(name)) await caches.delete(name);
 	}
 	if (total > MAX_TOTAL_BYTES) throw new Error("Active GoTab builds fill the asset cache budget");
-	previousBuilds = null;
+}
+
+const manifestKey = (version) => `${META_ROOT}manifest/${version}`;
+async function readBuild(version) {
+	try {
+		const entry = await (await (await caches.open(META_CACHE)).match(manifestKey(version)))?.json();
+		return isManifest(entry) ? entry : null;
+	} catch { return null; }
+}
+async function writeBuild(build) {
+	await (await caches.open(META_CACHE)).put(manifestKey(build.version),
+		new Response(JSON.stringify(build), { headers: { "content-type": "application/json" } }));
+}
+
+// Persist the bounded manifest before creating its cache. A partial build is
+// usable for individual verified assets, but is not marked fully offline-ready.
+async function registerBuild(build) {
+	if (!isManifest({ ...build, savedAt: Date.now() })) throw new Error("Invalid GoTab build manifest");
+	const requiredBytes = build.assets.reduce((sum, asset) => sum + asset.size, 0);
+	if (requiredBytes > MAX_BUILD_BYTES) throw new Error("GoTab build exceeds the asset cache budget");
+	const existing = await readBuild(build.version);
+	if (existing) {
+		if (JSON.stringify(existing.assets) !== JSON.stringify(build.assets)) throw new Error("Conflicting GoTab build manifest");
+		return existing;
+	}
+	await pruneCaches(requiredBytes, build.version);
+	const entry = { ...build, savedAt: Date.now(), complete: false, preparingUntil: 0 };
+	await writeBuild(entry);
+	await caches.open(`${PREFIX}${build.version}`);
+	return entry;
 }
 
 function validContentType(response, type) {
@@ -273,60 +352,102 @@ async function fetchAsset(url, asset) {
 	} finally { clearTimeout(timeout); }
 }
 
-async function prepareBuild(build) {
-	if (!isManifest({ ...build, savedAt: Date.now() })) throw new Error("Invalid GoTab build manifest");
-	const requiredBytes = build.assets.reduce((sum, asset) => sum + asset.size, 0);
-	if (!isManifest({ ...build, savedAt: Date.now() }) || requiredBytes > MAX_BUILD_BYTES) throw new Error("GoTab build exceeds the asset cache budget");
-	const builds = await listBuilds();
-	const alreadyInstalled = builds.some((entry) => entry.version === build.version);
-	const cache = await caches.open(`${PREFIX}${build.version}`);
-	if (alreadyInstalled) {
-		// Every put was digest-verified before the manifest commit. Avoid reading
-		// and hashing the entire unchanged build on every navigation/config check.
-		const stored = new Set((await cache.keys()).map((key) => key.url));
-		if (build.assets.every((asset) => stored.has(new URL(asset.path, self.location.origin).href))) return;
-	}
-	await pruneCaches(alreadyInstalled ? 0 : requiredBytes);
-	const olderCaches = (await listBuilds()).filter((entry) => entry.version !== build.version).map((entry) => `${PREFIX}${entry.version}`);
-	let index = 0;
-	let failed = false;
-	const populate = async () => {
-		while (!failed && index < build.assets.length) {
-			const asset = build.assets[index++];
-			const url = new URL(asset.path, self.location.origin).href;
+// A separate per-asset lock lets a foreground import share a background fetch
+// without queueing behind unrelated files. Locks also coordinate active/installing workers.
+async function ensureAsset(build, asset) {
+	const url = new URL(asset.path, self.location.origin).href;
+	const key = `${build.version}:${url}`;
+	if (!assetTransfers.has(key)) {
+		const load = async () => {
+			const cacheName = `${PREFIX}${build.version}`;
+			if (await caches.has(cacheName)) {
+				const cached = await (await caches.open(cacheName)).match(url);
+				if (cached) return cached;
+			}
+			let response;
+			for (const older of await listBuilds()) {
+				if (older.version === build.version || !older.assets.some((item) => item.path === asset.path && item.hash === asset.hash && item.size === asset.size)) continue;
+				const name = `${PREFIX}${older.version}`;
+				if (await caches.has(name)) response = await (await caches.open(name)).match(url);
+				if (response) break;
+			}
+			if (!response) response = await fetchAsset(url, asset);
+			if (!response) throw new Error("GoTab asset content does not match the deployed build");
+			const stored = response.clone();
 			try {
-				let response = await cache.match(url);
-				if (!response) {
-					for (const name of olderCaches) {
-						response = await (await caches.open(name)).match(url);
-						if (response) break;
-					}
-				}
-				response = response ? await verifiedResponse(response, asset) : null;
-				if (!response) response = await fetchAsset(url, asset);
-				if (!response) throw new Error("GoTab asset content does not match the deployed build");
-				await cache.put(url, response);
-			} catch (error) { failed = true; throw error; }
-		}
-	};
-	const results = await Promise.allSettled(Array.from({ length: 4 }, populate));
-	if (results.some((result) => result.status === "rejected")) {
-		if (!alreadyInstalled) await caches.delete(`${PREFIX}${build.version}`);
-		throw new Error("GoTab asset cache installation was incomplete");
+				await withBuildLock(async () => {
+					const entry = await readBuild(build.version);
+					// An obsolete in-flight request must not recreate an evicted build.
+					if (!entry) return;
+					await (await caches.open(cacheName)).put(url, stored);
+					if (entry.preparingUntil > 0) await writeBuild({ ...entry, preparingUntil: Date.now() + PREPARATION_LEASE });
+				});
+			} catch { /* Cache quota/storage failure must not discard a valid foreground response. */ }
+			return response;
+		};
+		const transfer = (self.navigator?.locks ? self.navigator.locks.request(`${PREFIX}asset:${key}`, load) : load())
+			.finally(() => assetTransfers.delete(key));
+		assetTransfers.set(key, transfer);
 	}
-	const meta = await caches.open(META_CACHE);
-	await meta.put(`${META_ROOT}manifest/${build.version}`, new Response(JSON.stringify({ ...build, savedAt: Date.now() }), { headers: { "content-type": "application/json" } }));
-	previousBuilds = null;
+	return (await assetTransfers.get(key)).clone();
 }
 
-self.addEventListener("install", (event) => event.waitUntil(withBuildLock(async () => { await prepareBuild(BUILD); await self.skipWaiting(); })));
+function prepareBuild(build) {
+	if (!buildPreparations.has(build.version)) {
+		const populate = async () => {
+			const complete = await withBuildLock(async () => {
+				const entry = await registerBuild(build);
+				const cache = await caches.open(`${PREFIX}${build.version}`);
+				const stored = new Set((await cache.keys()).map((key) => key.url));
+				if (build.assets.every((asset) => stored.has(new URL(asset.path, self.location.origin).href))) {
+					if (entry.complete !== true || entry.preparingUntil) await writeBuild({ ...entry, complete: true, preparingUntil: 0 });
+					await pruneCaches();
+					return true;
+				}
+				await writeBuild({ ...entry, complete: false, preparingUntil: Date.now() + PREPARATION_LEASE });
+				return false;
+			});
+			if (complete) return;
+			let index = 0;
+			let failed = false;
+			try {
+				const results = await Promise.allSettled(Array.from({ length: 4 }, async () => {
+					while (!failed && index < build.assets.length) {
+						try { await ensureAsset(build, build.assets[index++]); }
+						catch (error) { failed = true; throw error; }
+					}
+				}));
+				if (results.some((result) => result.status === "rejected")) throw new Error("GoTab asset cache installation was incomplete");
+			} finally {
+				await withBuildLock(async () => {
+					const entry = await readBuild(build.version);
+					if (!entry) return;
+					const cache = await caches.open(`${PREFIX}${build.version}`);
+					const stored = new Set((await cache.keys()).map((key) => key.url));
+					const complete = build.assets.every((asset) => stored.has(new URL(asset.path, self.location.origin).href));
+					await writeBuild({ ...entry, complete, preparingUntil: 0 });
+					await pruneCaches();
+					if (!complete) throw new Error("GoTab asset cache installation was incomplete");
+				});
+			}
+		};
+		const preparation = (self.navigator?.locks ? self.navigator.locks.request(`${PREFIX}prepare:${build.version}`, populate) : populate())
+			.finally(() => buildPreparations.delete(build.version));
+		buildPreparations.set(build.version, preparation);
+	}
+	return buildPreparations.get(build.version);
+}
+
+self.addEventListener("install", (event) => event.waitUntil((async () => {
+	// Installing the cache handler must not require downloading every optional panel.
+	await withBuildLock(() => registerBuild(BUILD));
+	await self.skipWaiting();
+})()));
 self.addEventListener("activate", (event) => {
 	event.waitUntil((async () => {
 		await self.clients.claim();
 		for (const client of await self.clients.matchAll({ type: "window" })) client.postMessage({ type: "gotab-assets:request-version" });
-		await checkHomePage().catch(() => undefined);
-		// Installation already pruned against persisted client ownership. Defer
-		// further pruning until the next install so a navigation can report its version.
+		await Promise.allSettled([checkHomePage(), prepareBuild(BUILD)]);
 	})());
 });
 
@@ -337,42 +458,94 @@ async function readClient(id) {
 
 async function writeClient(id, entry) {
 	if (!id) return;
-	await (await caches.open(META_CACHE)).put(`${META_ROOT}client/${encodeURIComponent(id)}`, new Response(JSON.stringify(entry)));
+	await (await caches.open(META_CACHE)).put(`${META_ROOT}client/${encodeURIComponent(id)}`, new Response(JSON.stringify({ ...entry, savedAt: Date.now() })));
+}
+
+const refreshKey = (token) => `${META_ROOT}refresh-token/${token}`;
+const legacyRefreshKey = (url) => `${META_ROOT}refresh-page/${encodeURIComponent(url)}`;
+
+async function refreshTarget(url) {
+	const detected = await readDetectedPage(url);
+	if (detected) return detected;
+	const page = await (await caches.open(PAGE_CACHE)).match(url);
+	return page ? {
+		version: page.headers.get(HTML_VERSION), htmlRevision: page.headers.get(HTML_CONTENT_REVISION),
+		configRevision: page.headers.get(CONFIG_REVISION), configURL: page.headers.get(CONFIG_URL),
+		checkSequence: Number(page.headers.get(HTML_CHECK_SEQUENCE)) || 0,
+	} : null;
+}
+
+async function pruneRefreshTokens(cache) {
+	for (const key of await cache.keys()) {
+		if (!["refresh/", "refresh-token/", "refresh-page/"].some((prefix) => key.url.startsWith(`${META_ROOT}${prefix}`))) continue;
+		try {
+			const entry = await (await cache.match(key)).json();
+			if (Number.isFinite(entry.savedAt) && Date.now() - entry.savedAt < REFRESH_TTL) continue;
+		} catch { /* Remove invalid metadata with expired requests. */ }
+		await cache.delete(key);
+	}
 }
 
 const detectedPageKey = (url) => `${META_ROOT}detected/${encodeURIComponent(url)}`;
 
-async function rememberDetectedPage(url, detected) {
-	detectedPages.set(url, detected);
+async function readDetectedRecord(url) {
 	try {
-		await (await caches.open(META_CACHE)).put(detectedPageKey(url), new Response(JSON.stringify(detected)));
-	} catch { /* Storage restrictions must not suppress a live update notice. */ }
+		const response = await (await caches.open(META_CACHE)).match(detectedPageKey(url));
+		const detected = response ? await response.json() : null;
+		// Other workers can replace or clear this record. Memory is only a fallback
+		// when storage is unavailable, never a reason to ignore their newer state.
+		if (detected) detectedPages.set(url, detected);
+		else detectedPages.delete(url);
+		return detected;
+	} catch { return detectedPages.get(url) || null; }
 }
 
-async function clearDetectedPage(url) {
+async function rememberDetectedPage(url, detected) {
+	return withBuildLock(async () => {
+		const current = await readDetectedRecord(url);
+		let committed;
+		try { committed = await (await caches.open(PAGE_CACHE)).match(url); } catch { /* A live notice can survive revoked storage. */ }
+		if (Number(current?.checkSequence) > detected.checkSequence ||
+			Number(committed?.headers.get(HTML_CHECK_SEQUENCE)) >= detected.checkSequence) return false;
+		detectedPages.set(url, detected);
+		try {
+			await (await caches.open(META_CACHE)).put(detectedPageKey(url), new Response(JSON.stringify(detected)));
+		} catch { /* Storage restrictions must not suppress a live update notice. */ }
+		return true;
+	});
+}
+
+// Call under the shared metadata lock. A completed check only owns its marker;
+// unconditional clearing is reserved for revoked/evicted share pages.
+async function clearDetectedPage(url, checkSequence) {
+	if (checkSequence !== undefined) {
+		const current = await readDetectedRecord(url);
+		if (current?.checkSequence !== undefined && current.checkSequence !== checkSequence) return;
+	}
 	detectedPages.delete(url);
 	try { await (await caches.open(META_CACHE)).delete(detectedPageKey(url)); }
 	catch { /* A stale marker is also compared with the committed page below. */ }
 }
 
 async function readDetectedPage(url) {
-	let detected = detectedPages.get(url);
+	const detected = await readDetectedRecord(url);
 	try {
-		if (!detected) detected = await (await (await caches.open(META_CACHE)).match(detectedPageKey(url)))?.json();
 		if (!detected || !VERSION_PATTERN.test(detected.version) || !DIGEST_PATTERN.test(detected.htmlRevision) ||
 			!DIGEST_PATTERN.test(detected.revision) || !configurationURL(detected.configURL) ||
-			(detected.configRevision !== undefined && !DIGEST_PATTERN.test(detected.configRevision))) return null;
+			(detected.configRevision !== undefined && !DIGEST_PATTERN.test(detected.configRevision)) ||
+			(detected.checkSequence !== undefined && (!Number.isSafeInteger(detected.checkSequence) || detected.checkSequence <= 0))) return null;
 		const committed = await (await caches.open(PAGE_CACHE)).match(url);
+		if (detected.checkSequence !== undefined && Number(committed?.headers.get(HTML_CHECK_SEQUENCE)) >= detected.checkSequence) return null;
 		if (committed?.headers.get(HTML_CONTENT_REVISION) === detected.htmlRevision &&
 			(!detected.configRevision || committed.headers.get(CONFIG_REVISION) === detected.configRevision)) return null;
 		return detected;
 	} catch { return detected || null; }
 }
 
-async function reportPage(client, detected) {
+async function reportPage(client) {
 	const url = pageURL(client.url);
 	if (!url) return;
-	const page = detected || await readDetectedPage(url) || await (await caches.open(PAGE_CACHE)).match(url);
+	const page = await readDetectedPage(url) || await (await caches.open(PAGE_CACHE)).match(url);
 	if (!page) return;
 	const served = await readClient(client.id);
 	const pending = !(page instanceof Response);
@@ -389,9 +562,9 @@ async function reportPage(client, detected) {
 	});
 }
 
-async function broadcastPage(url, detected) {
+async function broadcastPage(url) {
 	for (const client of await self.clients.matchAll({ type: "window" })) {
-		if (pageURL(client.url) === url) await reportPage(client, detected);
+		if (pageURL(client.url) === url) await reportPage(client);
 	}
 }
 
@@ -404,18 +577,31 @@ self.addEventListener("message", (event) => {
 		const url = pageURL(source.href);
 		if (event.data.type === "gotab-pages:refresh") {
 			if (!url) { event.ports?.[0]?.postMessage({ ok: true }); return; }
-			// Deliberate refresh must not wait behind the background build lock.
-			// The navigation consumes this exact client's one-use network preference.
-			await (await caches.open(META_CACHE)).put(`${META_ROOT}refresh/${encodeURIComponent(event.source.id)}`, new Response(JSON.stringify({ url, savedAt: Date.now() })));
-			event.ports?.[0]?.postMessage({ ok: true });
+			const token = event.data.token;
+			if (token !== undefined && !REFRESH_TOKEN.test(token)) return;
+			// Only short metadata work holds this lock, never resource downloads.
+			await withBuildLock(async () => {
+				const cache = await caches.open(META_CACHE);
+				await pruneRefreshTokens(cache);
+				const entry = { url, savedAt: Date.now(), target: await refreshTarget(url) };
+				if (token) await cache.put(refreshKey(token), new Response(JSON.stringify(entry)));
+				else {
+					// Pages from before the token protocol still call location.reload().
+					await cache.put(`${META_ROOT}refresh/${encodeURIComponent(event.source.id)}`, new Response(JSON.stringify(entry)));
+					await cache.put(legacyRefreshKey(url), new Response(JSON.stringify({ ...entry, clientId: event.source.id })));
+				}
+			});
+			event.ports?.[0]?.postMessage({ ok: true, token });
 			return;
 		}
 		if (event.data.type.startsWith("gotab-pages:share-")) {
 			if (!url || pageKind(url) !== "share" || event.data.path !== source.pathname) return;
 			if (event.data.type === "gotab-pages:share-revoke") {
-				await (await caches.open(META_CACHE)).delete(publicShareKey(url));
-				await (await caches.open(PAGE_CACHE)).delete(url);
-				await clearDetectedPage(url);
+				await withBuildLock(async () => {
+					await (await caches.open(META_CACHE)).delete(publicShareKey(url));
+					await (await caches.open(PAGE_CACHE)).delete(url);
+					await clearDetectedPage(url);
+				});
 			} else {
 				// Only the application's fresh successful public payload authorizes a
 				// share shell. Its API remains outside the worker's fetch handler.
@@ -442,6 +628,7 @@ self.addEventListener("message", (event) => {
 			const entry = await readClient(event.source.id);
 			const reportedURL = typeof event.data.configURL === "string" ? configurationURL(event.data.configURL) : null;
 			await writeClient(event.source.id, { ...entry, version: event.data.version, ...(!entry.configURL && reportedURL ? { configURL: reportedURL } : {}) });
+			await pruneCaches();
 		});
 		await reportPage(event.source);
 	})().catch(() => { event.ports?.[0]?.postMessage({ ok: false }); }));
@@ -523,7 +710,7 @@ async function fetchUpdate(url) {
 	} finally { clearTimeout(timer); }
 }
 
-async function preparePage(next, url) {
+async function preparePage(next, url, checkSequence) {
 	const config = await inspectConfiguration(await fetchUpdate(next.configURL), next.configURL);
 	if (!config) throw new Error("GoTab configuration does not match its document");
 	if (!new URL(next.configURL).searchParams.has("v")) {
@@ -531,42 +718,42 @@ async function preparePage(next, url) {
 		if (!confirmed || confirmed.revision !== next.revision || confirmed.configURL !== next.configURL) throw new Error("GoTab document changed while preparing its configuration");
 	}
 	const revision = await digest(new TextEncoder().encode(`${next.revision}\n${config.revision}`));
-	const cache = await caches.open(PAGE_CACHE);
-	const previous = await cache.match(url);
-	if (previous?.headers.get(HTML_REVISION) === revision && await cachedConfiguration(config.revision)) {
-		await clearDetectedPage(url);
-		await broadcastPage(url);
-		return;
-	}
-	const detected = { version: next.version, revision, htmlRevision: next.revision, configRevision: config.revision, configURL: next.configURL };
-	await rememberDetectedPage(url, detected);
-	await broadcastPage(url, detected);
-	await withBuildLock(async () => {
-		if (next.version === BUILD.version) await prepareBuild(BUILD);
-		else {
-			const response = await fetchUpdate(new URL(`gotab-asset-manifest.json?v=${next.version}`, HOME_URL).href);
-			if (!/^application\/json(?:;|$)/i.test(response.headers.get("content-type") || "")) throw new Error("GoTab manifest MIME type mismatch");
-			const manifest = JSON.parse(new TextDecoder().decode(await readLimited(response, 2 * 1024 * 1024)));
-			if (manifest.version !== next.version || !isManifest({ ...manifest, savedAt: Date.now() })) throw new Error("GoTab manifest version mismatch");
-			await prepareBuild(manifest);
-		}
-		// A revocation may arrive while resources are downloading.
-		if (pageKind(url) === "share" && !(await isPublicShare(url))) return;
+	const committed = await withBuildLock(async () => {
+		if (pageKind(url) === "share" && !(await isPublicShare(url))) return false;
+		const cache = await caches.open(PAGE_CACHE);
+		const previous = await cache.match(url);
+		// A slow check in another worker must not roll back a later check's pair.
+		if (checkSequence !== undefined && Number(previous?.headers.get(HTML_CHECK_SEQUENCE)) > checkSequence) return false;
 		await storeConfiguration(config);
 		const headers = new Headers(next.response.headers);
 		headers.set(HTML_REVISION, revision);
 		headers.set(CONFIG_REVISION, config.revision);
 		headers.set(CONFIG_URL, next.configURL);
 		headers.set("x-gotab-page-saved-at", String(Date.now()));
-		// Atomic navigation switch: the exact config and verified build are ready.
+		if (checkSequence !== undefined) headers.set(HTML_CHECK_SEQUENCE, String(checkSequence));
+		// Commit the matching HTML/config pair now. Missing assets load normally
+		// after refresh; full offline readiness is tracked separately on the build.
 		await cache.put(url, new Response(next.response.body, { status: 200, headers }));
 		if (pageKind(url) === "share") {
 			if (!(await isPublicShare(url))) await cache.delete(url);
 			await pruneSharePages(url);
 		}
+		await clearDetectedPage(url, checkSequence);
+		return true;
 	});
-	await clearDetectedPage(url);
+	if (!committed) return;
 	await broadcastPage(url);
+	// Keep this work attached to the event lifetime without delaying the cache
+	// commit or update notice. Even unchanged HTML resumes an incomplete download.
+	if (pageKind(url) === "share" && !(await isPublicShare(url))) return;
+	let build = next.version === BUILD.version ? BUILD : await readBuild(next.version);
+	if (!build) {
+		const response = await fetchUpdate(new URL(`gotab-asset-manifest.json?v=${next.version}`, HOME_URL).href);
+		if (!/^application\/json(?:;|$)/i.test(response.headers.get("content-type") || "")) throw new Error("GoTab manifest MIME type mismatch");
+		build = JSON.parse(new TextDecoder().decode(await readLimited(response, 2 * 1024 * 1024)));
+		if (build.version !== next.version || !isManifest({ ...build, savedAt: Date.now() })) throw new Error("GoTab manifest version mismatch");
+	}
+	await prepareBuild(build);
 }
 
 async function pruneSharePages(reservedURL) {
@@ -589,16 +776,26 @@ function checkPage(url = HOME_URL) {
 	if (!checkingPages.has(url)) {
 		checkingPages.set(url, (async () => {
 			if (pageKind(url) === "share" && !(await isPublicShare(url))) return;
+			const checkSequence = await withBuildLock(async () => {
+				const cache = await caches.open(META_CACHE);
+				const key = `${META_ROOT}check/${encodeURIComponent(url)}`;
+				let previous = 0;
+				try { previous = Number(await (await cache.match(key))?.text()) || 0; } catch { /* Start a new counter. */ }
+				const sequence = previous + 1;
+				await cache.put(key, new Response(String(sequence)));
+				return sequence;
+			});
 			const next = await inspectHTML(await fetchUpdate(url));
 			if (!next?.configURL) return;
 			const previous = await (await caches.open(PAGE_CACHE)).match(url);
+			if (Number(previous?.headers.get(HTML_CHECK_SEQUENCE)) > checkSequence) return;
 			if (previous?.headers.get(HTML_CONTENT_REVISION) !== next.revision) {
-				const detected = { version: next.version, revision: next.revision, htmlRevision: next.revision, configURL: next.configURL };
-				await rememberDetectedPage(url, detected);
+				const detected = { version: next.version, revision: next.revision, htmlRevision: next.revision, configURL: next.configURL, checkSequence };
+				const remembered = await rememberDetectedPage(url, detected);
 				// Notify before fetching config or waiting for any build asset.
-				await broadcastPage(url, detected);
+				if (remembered) await broadcastPage(url);
 			}
-			await preparePage(next, url);
+			await preparePage(next, url, checkSequence);
 		})().finally(() => { checkingPages.delete(url); }));
 	}
 	return checkingPages.get(url);
@@ -606,18 +803,31 @@ function checkPage(url = HOME_URL) {
 const checkHomePage = () => checkPage(HOME_URL);
 
 async function consumeRefresh(event, url) {
-	const cache = await caches.open(META_CACHE);
-	for (const id of [event.clientId, event.replacesClientId].filter(Boolean)) {
-		const key = `${META_ROOT}refresh/${encodeURIComponent(id)}`;
-		const response = await cache.match(key);
-		if (!response) continue;
-		await cache.delete(key);
-		try {
-			const token = await response.json();
-			if (token.url === url && Date.now() - token.savedAt < 30_000) return true;
-		} catch { /* Ignore corrupt/expired one-use tokens. */ }
-	}
-	return false;
+	return withBuildLock(async () => {
+		const cache = await caches.open(META_CACHE);
+		const token = new URL(event.request.url).searchParams.get(REFRESH_QUERY);
+		const keys = REFRESH_TOKEN.test(token || "") ? [refreshKey(token)] :
+			[event.clientId, event.replacesClientId].filter(Boolean).map((id) => `${META_ROOT}refresh/${encodeURIComponent(id)}`);
+		// Older documents cannot carry a token. On browsers that omit navigation
+		// client IDs, a revalidation of this exact page can consume their intent.
+		if (!token && await isReloadNavigation(event.request, event, url)) keys.push(legacyRefreshKey(url));
+		for (const key of keys) {
+			const response = await cache.match(key);
+			if (!response) continue;
+			try {
+				const entry = await response.json();
+				if (entry.url !== url) continue;
+				await cache.delete(key);
+				if (!Number.isFinite(entry.savedAt) || Date.now() - entry.savedAt >= REFRESH_TTL) continue;
+				if (!token) {
+					await cache.delete(legacyRefreshKey(url));
+					if (entry.clientId) await cache.delete(`${META_ROOT}refresh/${encodeURIComponent(entry.clientId)}`);
+				}
+				return entry;
+			} catch { await cache.delete(key); }
+		}
+		return null;
+	});
 }
 
 async function isReloadNavigation(request, event, url) {
@@ -625,25 +835,36 @@ async function isReloadNavigation(request, event, url) {
 	// Prefer the explicit Fetch signal, including an authoritative false value.
 	if (typeof request.isReloadNavigation === "boolean") return request.isReloadNavigation;
 	if (request.isHistoryNavigation || !["no-cache", "reload"].includes(request.cache)) return false;
-	// Older browsers: require revalidation AND replacement of this exact page.
-	// New tabs and unrelated same-tab navigations do not inherit update intent.
+	// Legacy navigation often has neither client ID. Revalidation is sufficient
+	// only when serveNavigation also finds a pending update for this exact path.
 	for (const id of [event.replacesClientId, event.clientId].filter(Boolean)) {
 		if ((await readClient(id)).pageURL === url) return true;
 	}
-	return false;
+	return !event.replacesClientId && !event.clientId;
 }
 
-async function serveCachedNavigation(url, kind, event) {
+async function serveCachedNavigation(url, kind, event, target) {
 	try {
-		if (kind !== "home" && !(await isPublicShare(url))) return null;
-		const response = await (await caches.open(PAGE_CACHE)).match(url);
-		if (!response || !event.resultingClientId || !(await cachedConfiguration(response.headers.get(CONFIG_REVISION)))) return null;
-		await writeClient(event.resultingClientId, {
-			version: response.headers.get(HTML_VERSION), pageRevision: response.headers.get(HTML_REVISION),
-			htmlContentRevision: response.headers.get(HTML_CONTENT_REVISION), configRevision: response.headers.get(CONFIG_REVISION),
-			configURL: response.headers.get(CONFIG_URL), pageKind: kind, pageURL: url,
+		const response = await withBuildLock(async () => {
+			if (kind !== "home" && !(await isPublicShare(url))) return null;
+			const cached = await (await caches.open(PAGE_CACHE)).match(url);
+			if (!cached || !event.resultingClientId || !(await cachedConfiguration(cached.headers.get(CONFIG_REVISION)))) return null;
+			if (target && (cached.headers.get(HTML_CONTENT_REVISION) !== target.htmlRevision ||
+				(target.configRevision && cached.headers.get(CONFIG_REVISION) !== target.configRevision))) {
+				// Check order cannot establish deployment order (a CDN can return an
+				// older document). Only this confirmed pair may satisfy the refresh.
+				return null;
+			}
+			// The pair stays protected until the resulting client's pin is durable.
+			// Otherwise another worker can switch/prune it between read and pin.
+			await writeClient(event.resultingClientId, {
+				version: cached.headers.get(HTML_VERSION), pageRevision: cached.headers.get(HTML_REVISION),
+				htmlContentRevision: cached.headers.get(HTML_CONTENT_REVISION), configRevision: cached.headers.get(CONFIG_REVISION),
+				configURL: cached.headers.get(CONFIG_URL), pageKind: kind, pageURL: url,
+			});
+			return cached;
 		});
-		event.waitUntil(checkPage(url).catch(() => undefined));
+		if (response) event.waitUntil(checkPage(url).catch(() => undefined));
 		return response;
 	} catch { return null; }
 }
@@ -652,12 +873,21 @@ async function serveNavigation(request, event) {
 	const url = pageURL(request.url);
 	const kind = pageKind(url);
 	let refresh = false;
+	let target;
 	try {
-		refresh = await consumeRefresh(event, url) ||
-			(await isReloadNavigation(request, event, url) && Boolean(await readDetectedPage(url)));
+		const intent = await consumeRefresh(event, url);
+		target = intent?.target;
+		refresh = Boolean(intent);
+		if (!refresh && await isReloadNavigation(request, event, url)) {
+			target = await readDetectedPage(url);
+			refresh = Boolean(target);
+		}
 	} catch { /* Storage may be unavailable. */ }
-	if (!refresh) {
-		const cached = await serveCachedNavigation(url, kind, event);
+	// Unregistered/expired markers still bypass old HTML, but cannot select a
+	// cached target or gain authorization to a private share page.
+	if (new URL(request.url).searchParams.has(REFRESH_QUERY)) refresh = true;
+	if (!refresh || target) {
+		const cached = await serveCachedNavigation(url, kind, event, refresh ? target : undefined);
 		if (cached) return cached;
 	}
 	let failedResponse;
@@ -670,7 +900,7 @@ async function serveNavigation(request, event) {
 		}
 		failedResponse = network;
 	} catch (error) { networkError = error; }
-	// A deliberate update during an outage can retain the last complete pair.
+	// A deliberate update during an outage can retain the cached HTML/config pair.
 	// Do not hide permission errors, removals or redirects behind an old page.
 	if (refresh) {
 		const cached = await serveCachedNavigation(url, kind, event);
@@ -681,22 +911,27 @@ async function serveNavigation(request, event) {
 }
 
 async function serveNetworkNavigation(request, event, kind, refresh = false) {
-	const response = await fetch(refresh ? new Request(request, { cache: "no-store" }) : request);
+	const cleanURL = refresh ? pageURL(request.url) : navigationURL(request.url).href;
+	const response = request.url !== cleanURL
+		? await fetch(cleanURL, { headers: request.headers, credentials: request.credentials, cache: "no-store", redirect: request.redirect, referrer: request.referrer, referrerPolicy: request.referrerPolicy })
+		: await fetch(refresh ? new Request(request, { cache: "no-store" }) : request);
 	if (event.resultingClientId) {
 		try {
 			const document = await inspectHTML(response.clone());
 			if (document?.configURL) {
 				const url = pageURL(request.url);
-				const record = { version: document.version, htmlContentRevision: document.revision, configURL: document.configURL, pageKind: kind, pageURL: url, refreshConfiguration: refresh };
-				const page = await (await caches.open(PAGE_CACHE)).match(url);
-				// A user-confirmed refresh must not pair fresh unversioned HTML with
-				// the old config even when its build/script URL happens to be unchanged.
-				if (!refresh && page?.headers.get(HTML_VERSION) === document.version && page.headers.get(CONFIG_URL) === document.configURL &&
-					page.headers.get(HTML_CONTENT_REVISION) === document.revision && await cachedConfiguration(page.headers.get(CONFIG_REVISION))) {
-					record.configRevision = page.headers.get(CONFIG_REVISION);
-					record.pageRevision = page.headers.get(HTML_REVISION);
-				}
-				await writeClient(event.resultingClientId, record);
+				await withBuildLock(async () => {
+					const record = { version: document.version, htmlContentRevision: document.revision, configURL: document.configURL, pageKind: kind, pageURL: url, refreshConfiguration: refresh };
+					const page = await (await caches.open(PAGE_CACHE)).match(url);
+					// A user-confirmed refresh must not pair fresh unversioned HTML with
+					// the old config even when its build/script URL happens to be unchanged.
+					if (!refresh && page?.headers.get(HTML_VERSION) === document.version && page.headers.get(CONFIG_URL) === document.configURL &&
+						page.headers.get(HTML_CONTENT_REVISION) === document.revision && await cachedConfiguration(page.headers.get(CONFIG_REVISION))) {
+						record.configRevision = page.headers.get(CONFIG_REVISION);
+						record.pageRevision = page.headers.get(HTML_REVISION);
+					}
+					await writeClient(event.resultingClientId, record);
+				});
 			}
 		} catch { /* Network navigation and its initial data flow remain usable. */ }
 	}
@@ -744,32 +979,27 @@ async function serveConfiguration(request, event) {
 
 async function matchAsset(url) {
 	const current = currentAssets.get(url);
-	if (current) return { asset: current, cacheName: CACHE_NAME };
-	if (!previousBuilds) previousBuilds = listBuilds().catch(() => { previousBuilds = null; return []; });
-	for (const build of await previousBuilds) {
+	if (current) return { asset: current, build: BUILD };
+	// Another worker can register a build at any time. Do not retain a stale
+	// in-memory manifest list across update events or newly controlled documents.
+	for (const build of await listBuilds()) {
 		const asset = build.assets.find((item) => new URL(item.path, self.location.origin).href === url);
-		if (asset) return { asset, cacheName: `${PREFIX}${build.version}` };
+		if (asset) return { asset, build };
 	}
 	return null;
 }
 
 async function serveAsset(request, event) {
 	let entry;
-	try {
-		entry = await matchAsset(request.url);
-		if (entry) {
-			const response = await (await caches.open(entry.cacheName)).match(request.url);
-			if (response) return response;
-		}
-	} catch { /* Storage access can be revoked at any time. */ }
-	const response = await fetch(request);
-	if (entry) {
-		event.waitUntil((async () => {
-			const verified = await verifiedResponse(response.clone(), entry.asset);
-			if (verified) await (await caches.open(entry.cacheName)).put(request.url, verified);
-		})().catch(() => undefined));
+	try { entry = await matchAsset(request.url); }
+	catch { /* Storage access can be revoked at any time. */ }
+	if (!entry) return fetch(request);
+	try { return await ensureAsset(entry.build, entry.asset); }
+	catch {
+		// Cache/quota failures must not make an otherwise available module unusable.
+		// The browser's HTTP cache can still satisfy this ordinary request.
+		return fetch(request);
 	}
-	return response;
 }
 
 self.addEventListener("fetch", (event) => {
