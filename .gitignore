@@ -1,3 +1,45 @@
+# Published binaries and web/ assets intentionally remain tracked.
+
+# Unified and legacy runtime storage
+/data/
+/uploads/
+/sourceStore/
+/backup/
+/backups/
+/config.toml
+/config.toml.bak
+/config.toml.before-migration
+/.config.toml.tmp-*
+/.config.toml.bak.tmp-*
+/.config.toml.before-migration.tmp-*
+
+# SQLite defaults used by the legacy layout
+/gotab.db
+/gotab.db-*
+/gotab-*.db
+/gotab-*.db-*
+
+# Initialization, restore and migration recovery journals
+/init-pending.json
+/restore-pending.json
+/migration-pending.json
+/.init-pending.json.tmp-*
+/.restore-pending.json.tmp-*
+/.migration-pending.json.tmp-*
+
+# Local deployment settings
+/.env
+/.env.*
+!/.env.example
+!/.env.*.example
+
+# Generated development and validation output
+/artifacts/
+/coverage/
+/test-results/
+/playwright-report/
+/logs/
+
+# Operating-system metadata
 .DS_Store
-**/.DS_Store
 .DS_Store?

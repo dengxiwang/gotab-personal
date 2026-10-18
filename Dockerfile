@@ -22,11 +22,15 @@ WORKDIR /app
 COPY --from=builder /app/gotab-server .
 COPY --from=builder /app/web ./web/
 
+# 同一镜像自动识别旧的分散挂载和新的 /app/data 挂载。
+# 不预建 data、不设置默认路径变量：Docker 挂载会创建目标目录，
+# 两种布局同时存在时 data 优先；只有旧挂载时仍沿用 /app 根目录。
+
 # 定义运行时环境变量
 ENV SERVER_PORT=8080
 EXPOSE ${SERVER_PORT}
 
-CMD ["sh", "-c", "echo Running server on port $SERVER_PORT && ./gotab-server -port=$SERVER_PORT"]
+CMD ["sh", "-c", "exec ./gotab-server -port=\"${SERVER_PORT}\""]
 
 # 多平台构建
 
@@ -36,7 +40,7 @@ CMD ["sh", "-c", "echo Running server on port $SERVER_PORT && ./gotab-server -po
 
 # 第二步（本地测试）：
 
-# VERSION=2.2.1.3
+# VERSION=2.2.1.4
 # docker buildx build \
 #     --platform linux/arm64 \
 #     -t doxwant/gotab:${VERSION} \
@@ -47,7 +51,7 @@ CMD ["sh", "-c", "echo Running server on port $SERVER_PORT && ./gotab-server -po
 
 # 第三步（多平台构建推送）：
 
-# VERSION=2.2.1.3
+# VERSION=2.2.1.4
 # docker buildx build \
 #     --platform linux/amd64,linux/arm64 \
 #     -t doxwant/gotab:${VERSION} \

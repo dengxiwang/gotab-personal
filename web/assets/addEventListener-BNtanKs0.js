@@ -1,0 +1,1 @@
+import{o as e}from"./react-CaHqTYKJ.js";import{q as t}from"./reactNode-vq-YR-WJ.js";var n=e(t());function r(e,t,r,i){var a=n.unstable_batchedUpdates?function(e){n.unstable_batchedUpdates(r,e)}:r;return e!=null&&e.addEventListener&&e.addEventListener(t,a,i),{remove:function(){e!=null&&e.removeEventListener&&e.removeEventListener(t,a,i)}}}export{r as t};
