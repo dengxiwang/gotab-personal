@@ -24,7 +24,9 @@ COPY --from=builder /app/web ./web/
 
 # 同一镜像自动识别旧的分散挂载和新的 /app/data 挂载。
 # 不预建 data、不设置默认路径变量：Docker 挂载会创建目标目录，
-# 两种布局同时存在时 data 优先；只有旧挂载时仍沿用 /app 根目录。
+# data 用于 SQLite、备份与维护日志；已有 data/config.toml 时优先使用整套 data 配置及资源。
+# 新增空 data 挂载时继续读取旧 /app/config.toml（兼容 /config.toml）及已有资源，无需重新初始化。
+# 后台数据库迁移成功后统一使用 data 中的配置和资源，旧文件保留，资源访问地址不变。
 
 # 定义运行时环境变量
 ENV SERVER_PORT=8080
