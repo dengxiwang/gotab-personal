@@ -1,1 +1,0 @@
-import{G as e,H as t,V as n}from"./useToken-DeQ7oFnG.js";var r=function(){function r(n,i){t(this,r),e(this,`name`,void 0),e(this,`style`,void 0),e(this,`_keyframe`,!0),this.name=n,this.style=i}return n(r,[{key:`getName`,value:function(){var e=arguments.length>0&&arguments[0]!==void 0?arguments[0]:``;return e?`${e}-${this.name}`:this.name}}]),r}();export{r as t};

@@ -1,1 +1,0 @@
-import{o as e,t}from"./react-CaHqTYKJ.js";import{n,t as r}from"./startup-react-runtime-Dx4Yh6bL.js";import{t as i}from"./markdownContent-1V516lTx.js";var a=n(),o=e(t(),1),s=r();function c(e){let t=(0,a.c)(2),{content:n}=e,r;return t[0]===n?r=t[1]:(r=(0,s.jsx)(i,{content:n}),t[0]=n,t[1]=r),r}var l=(0,o.memo)(c);export{l as default};

@@ -1,0 +1,1 @@
+import{o as e,t}from"./react-CaHqTYKJ.js";var n=(0,e(t()).createContext)({});export{n as t};

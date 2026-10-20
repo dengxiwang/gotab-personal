@@ -1,0 +1,1 @@
+import{Hc as e,Uc as t}from"./myErrorPage-BFOxbJXD.js";import{Z as n}from"./startup-core-utils-l5Z7yEqA.js";import{nn as r,rn as i,t as a}from"./main-CyOk_C3P.js";import{t as o}from"./startup-react-runtime-Dx4Yh6bL.js";import{n as s}from"./webAssetCache-DnjQ03er.js";var c=o();e(),i(),s();try{r()}catch(e){console.error(`Sortable 初始化失败`,e)}t((0,c.jsx)(a,{})),n(import.meta.url);

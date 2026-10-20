@@ -1,0 +1,1 @@
+function e(e){return!e||typeof e!=`string`?!1:/^(?:https?:)?\/\//i.test(e)||/^(?:data:image\/|blob:|chrome-extension:|moz-extension:)/i.test(e)||e.startsWith(`/`)||e.startsWith(`./`)||e.startsWith(`../`)||e.includes(`/`)||/\.(?:avif|bmp|gif|ico|jpe?g|png|svg|webp)(?:[?#].*)?$/i.test(e)}export{e as t};

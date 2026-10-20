@@ -1,0 +1,1 @@
+import{W as e,i as t}from"./startup-core-utils-l5Z7yEqA.js";function n(){let n=e(t()),r=e(`https://web.gotab.cn`);return!n||n===r}export{n as t};
