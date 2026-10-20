@@ -131,28 +131,20 @@ Windows 使用对应 `.exe`。首次访问同样按初始化向导配置。默�
 
 ## 界面预览
 
-<details>
-<summary>查看页面截图</summary>
-
 ![GoTab 主页](https://github.com/user-attachments/assets/9e9d7ce4-e63f-4ec6-a319-b3afb538fe83)
 
 ![GoTab 卡片布局](https://github.com/user-attachments/assets/a6bc5871-80d5-412c-9b65-6345e563d5df)
 
 ![GoTab 个性化设置](https://github.com/user-attachments/assets/a1b34288-b356-44b1-8789-3736db4eaa2e)
 
-</details>
-
 ## 帮助与支持
 
 QQ 群：727809499。需要云服务器可了解[雨云服务器](https://www.rainyun.com/gotab_)，感谢支持。
 
-<details>
-<summary>捐赠支持</summary>
+### 捐赠支持
 
-<div style="display:flex;flex-wrap:wrap;gap:12px;">
-<img src="https://github.com/user-attachments/assets/7c379a17-475d-432f-944e-292f39e0e0ba" width="200" alt="微信支付二维码">
-<img src="https://github.com/user-attachments/assets/e3681a43-aec3-4601-a1dd-272c83145e85" width="200" alt="支付宝二维码">
-<img src="https://github.com/user-attachments/assets/3423b752-efbd-4fb4-b330-402276d645d1" width="200" alt="微信图片">
-</div>
-
-</details>
+<p class="flex flex-wrap gap-3 items-start">
+  <img src="https://github.com/user-attachments/assets/7c379a17-475d-432f-944e-292f39e0e0ba" width="200" hspace="6" alt="微信支付二维码">
+  <img src="https://github.com/user-attachments/assets/e3681a43-aec3-4601-a1dd-272c83145e85" width="200" hspace="6" alt="支付宝二维码">
+  <img src="https://github.com/user-attachments/assets/3423b752-efbd-4fb4-b330-402276d645d1" width="200" hspace="6" alt="爱发电支持二维码">
+</p>
