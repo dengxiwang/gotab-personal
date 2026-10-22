@@ -22,6 +22,9 @@ WORKDIR /app
 COPY --from=builder /app/gotab-server .
 COPY --from=builder /app/web ./web/
 
+# 在最终运行环境中执行目标架构程序，同时校验前端资源，避免发布无法启动的镜像。
+RUN ./gotab-server -h
+
 # 同一镜像自动识别旧的分散挂载和新的 /app/data 挂载。
 # 不预建 data、不设置默认路径变量：Docker 挂载会创建目标目录，
 # data 用于 SQLite、备份与维护日志；已有 data/config.toml 时优先使用整套 data 配置及资源。
@@ -42,7 +45,7 @@ CMD ["sh", "-c", "exec ./gotab-server -port=\"${SERVER_PORT}\""]
 
 # 第二步（本地测试）：
 
-# VERSION=2.3.0.4
+# VERSION=2.3.0.5
 # docker buildx build \
 #     --platform linux/arm64 \
 #     -t doxwant/gotab:${VERSION} \
@@ -53,7 +56,7 @@ CMD ["sh", "-c", "exec ./gotab-server -port=\"${SERVER_PORT}\""]
 
 # 第三步（多平台构建推送）：
 
-# VERSION=2.3.0.4
+# VERSION=2.3.0.5
 # docker buildx build \
 #     --platform linux/amd64,linux/arm64 \
 #     -t doxwant/gotab:${VERSION} \
