@@ -1,0 +1,1 @@
+import{A as e}from"./SizeContext-CiJC09Ct.js";var t=(t,n,r)=>e({[`${t}-status-success`]:n===`success`,[`${t}-status-warning`]:n===`warning`,[`${t}-status-error`]:n===`error`,[`${t}-status-validating`]:n===`validating`,[`${t}-has-feedback`]:r}),n=(e,t)=>t||e;export{t as n,n as t};

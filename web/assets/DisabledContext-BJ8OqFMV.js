@@ -1,1 +1,0 @@
-import{o as e,t}from"./react-CaHqTYKJ.js";var n=e(t()),r=n.createContext(!1),i=({children:e,disabled:t})=>{let i=n.useContext(r);return n.createElement(r.Provider,{value:t??i},e)};export{i as n,r as t};

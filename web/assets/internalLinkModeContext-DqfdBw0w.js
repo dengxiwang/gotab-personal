@@ -1,0 +1,1 @@
+import{o as e,t}from"./react-CfAhsKre.js";var n=e(t(),1),r=(0,n.createContext)(null),i=()=>{let e=(0,n.useContext)(r);if(!e)throw Error(`useInternalLinkMode must be used within InternalLinkModeProvider`);return e};export{i as n,r as t};

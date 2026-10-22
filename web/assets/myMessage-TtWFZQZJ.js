@@ -1,1 +1,0 @@
-var e,t;function n(n){e=n.message,t=n.notification}export{e as n,t as r,n as t};

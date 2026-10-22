@@ -1,0 +1,1 @@
+var e,t,n={top:`max(16px, env(safe-area-inset-top, 0px))`,stack:!1,transitionName:`gotab-message-motion`,classNames:{list:`gotab-message`}};function r(n){e=n.message,t=n.notification}export{t as i,e as n,n as r,r as t};

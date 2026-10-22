@@ -1,0 +1,1 @@
+import{o as e,t}from"./react-CfAhsKre.js";var n=e(t()),r=e=>e===`horizontal`||e===`vertical`,i=(e,t,i)=>(0,n.useMemo)(()=>{let n=r(e),a;return a=n?e:typeof t==`boolean`?t?`vertical`:`horizontal`:r(i)?i:`horizontal`,[a,a===`vertical`]},[i,e,t]);export{i as t};

@@ -1,0 +1,1 @@
+var e=10240;function t(e){if(typeof e!=`string`&&typeof e!=`number`||typeof e==`string`&&!/^\+?\d+$/.test(e.trim()))return 512;let t=Number(e);return Number.isInteger(t)&&t>=1&&t<=10240?t:512}export{t as n,e as t};

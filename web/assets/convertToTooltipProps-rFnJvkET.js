@@ -1,1 +1,0 @@
-import{o as e,t}from"./react-CaHqTYKJ.js";import{it as n,u as r}from"./SizeContext-DuMqPANc.js";var i=e(t()),a=(e,t)=>n(e)?r(e)&&!(0,i.isValidElement)(e)?{...t,...e}:{...t,title:e}:null;export{a as t};

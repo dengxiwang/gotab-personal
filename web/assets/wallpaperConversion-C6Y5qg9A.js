@@ -1,0 +1,1 @@
+function e(e){let t=typeof e==`string`||typeof e==`number`?Number(e):NaN;return Number.isInteger(t)&&t>=1&&t<=100?t:90}export{e as t};

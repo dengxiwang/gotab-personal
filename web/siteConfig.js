@@ -14,4 +14,7 @@ globalThis.siteConfig = {
 	loginBackgroundBrightness: ``,
 	uploadWallpaper: ``,
 	uploadWallpaperMaxSize: ``,
+	wallpaperConvert: ``,
+	wallpaperConvertQuality: ``,
+	uploadIconMaxSize: ``,
 };
