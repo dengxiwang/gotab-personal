@@ -1,0 +1,1 @@
+function e(e){var t=[...arguments].slice(1);e&&e.addEventListener&&e.addEventListener.apply(e,t)}function t(e){var t=[...arguments].slice(1);e&&e.removeEventListener&&e.removeEventListener.apply(e,t)}var n=typeof window<`u`;export{t as n,e as r,n as t};
