@@ -1,1 +1,0 @@
-import{m as e}from"./serverResourceUrl-jq18Ift3.js";import{i as t}from"./startup-core-utils-59Z9kc0j.js";function n(){let n=e(t()),r=e(`https://web.gotab.cn`);return!n||n===r}export{n as t};

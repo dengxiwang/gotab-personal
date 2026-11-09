@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-BWaJ3C7D.js";import{t}from"./react-CaKr0epQ.js";var n=e(t()),r=e=>e===`horizontal`||e===`vertical`,i=(e,t,i)=>(0,n.useMemo)(()=>{let n=r(e),a;return a=n?e:typeof t==`boolean`?t?`vertical`:`horizontal`:r(i)?i:`horizontal`,[a,a===`vertical`]},[i,e,t]);export{i as t};

@@ -1,1 +1,0 @@
-var e,t=new Set;function n(e){return t.add(e),()=>{t.delete(e)}}function r(){if(e||Array.from(t).some(e=>e()))return;let n=Symbol();return e=n,()=>{e===n&&(e=void 0)}}export{r as n,n as t};

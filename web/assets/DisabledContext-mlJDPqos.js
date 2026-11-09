@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-BWaJ3C7D.js";import{t}from"./react-CaKr0epQ.js";var n=e(t()),r=n.createContext(!1),i=({children:e,disabled:t})=>{let i=n.useContext(r);return n.createElement(r.Provider,{value:t??i},e)};export{i as n,r as t};

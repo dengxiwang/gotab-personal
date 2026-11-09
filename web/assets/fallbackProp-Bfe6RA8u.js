@@ -1,0 +1,1 @@
+function e(...e){return e.find(e=>e!==void 0)}export{e as t};

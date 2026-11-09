@@ -1,0 +1,1 @@
+function e(e,t,n){let r=[],i=n-2,a=Math.max(0,e.length-t);for(let t=e.length-1;t>=a;t--){let n=JSON.stringify(e[t]),a=n.length+ +!!r.length;if(a>i)break;r.push(n),i-=a}return{json:`[${r.reverse().join(`,`)}]`,count:r.length}}export{e as t};

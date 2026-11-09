@@ -1,1 +1,0 @@
-import{o as e,t}from"./react-CfAhsKre.js";import{et as n,p as r,tt as i}from"./main-xKwGCZpD.js";import{t as a}from"./startup-react-runtime-6_U46ScP.js";var o=e(t(),1),s=a(),c=(0,o.memo)(e=>{let{children:t,...a}=e,c=(0,o.useRef)(null);return c.current||=i(),(0,s.jsxs)(n.Provider,{value:c.current,children:[t,(0,s.jsx)(r,{controller:c.current,...a})]})});export{c as t};
