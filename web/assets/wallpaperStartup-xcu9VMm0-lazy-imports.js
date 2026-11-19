@@ -1,0 +1,1 @@
+export default {"files":["./preloadNewtabIcons-CvAPb-k-.js","./linkLayout-BAtxJ9wc.js","./iconImageDataCache-DJLzgIDR.js","./safeJson-DhIUjQG7.js"],"entries":{"2b026652860e7242f4cd":[0,1,2,3]},"available":["./wallpaperStartup-xcu9VMm0.js","./preload-helper-DFkPMeKQ.js","./wallpaperStartupLayer-BovkagDb.js","./serverResourceUrl-BYWkrYc8.js","./wallpaperStartupCache-DgPc5X9L.js"]};
