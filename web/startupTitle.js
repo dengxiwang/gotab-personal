@@ -13,9 +13,96 @@
 		return;
 	}
 	const extension = /^(?:chrome|moz)-extension:$/.test(location.protocol);
+	const shareEntry = script.dataset.shareEntry;
+	const isShareEntry = /^https?:$/.test(location.protocol) && /^\/s\/[A-Za-z0-9]+(?:\.html)?\/?$/.test(location.pathname);
+	if (isShareEntry) document.documentElement.dataset.gotabShareLoading = "";
+	if (shareEntry && isShareEntry) {
+		for (const href of [shareEntry, ...(script.dataset.shareImports || "").split(" ").filter(Boolean)]) {
+			const preload = document.createElement("link");
+			preload.rel = "modulepreload";
+			preload.crossOrigin = "anonymous";
+			preload.fetchPriority = "high";
+			preload.href = href;
+			script.before(preload);
+		}
+		const loading = import(shareEntry);
+		window.gotabShareStartup = loading;
+		loading.catch(() => {
+			if (window.gotabShareStartup === loading) delete window.gotabShareStartup;
+		});
+	}
 	const isHomePage = () =>
 		[basePath, `${basePath}index.html`, ...(extension ? [`${basePath}newtab.html`] : [])].includes(location.pathname) &&
 		(!extension || ["", "#", "#/"].includes(location.hash));
+	// A warm Web entry can paint the real homepage in one frame even if the
+	// originating tab has never visited GoTab (e.g. a bookmark or noopener link).
+	if (!extension && !location.search && (isHomePage() || isShareEntry)) {
+		try {
+			const path = location.pathname;
+			const key = "gotab:last-painted-path";
+			const ready = () => document.getElementById("main-content") && (isShareEntry
+				? !document.documentElement.hasAttribute("data-gotab-share-loading")
+				: document.querySelector("[data-gotab-wallpaper-ready]"));
+			const gate = document.createElement("script");
+			const worker = navigator.serviceWorker?.controller;
+			const version = document.querySelector('meta[name="gotab-asset-cache"]')?.content;
+			if (gate.blocking?.supports("render") && version) {
+				addEventListener("pagehide", () => {
+					try {
+						if (location.pathname === path && ready()) sessionStorage.setItem(key, path);
+						else sessionStorage.removeItem(key);
+					} catch { /* Tab storage is optional. */ }
+				});
+				const navigationType = performance.getEntriesByType("navigation")[0]?.type;
+				const warmHomeEntry = navigationType === "navigate" && isHomePage() && localStorage.getItem("initOver") === "1";
+				const restoringTab = (navigationType === "reload" || navigationType === "back_forward") && sessionStorage.getItem(key) === path;
+				if ((warmHomeEntry || restoringTab) && worker?.scriptURL === new URL(`${basePath}gotab-asset-worker.js?v=${version}`, location.href).href) {
+					const homeEntryReady = () => {
+						const main = document.getElementById("main-content");
+						if (!main || (document.querySelector("[data-gotab-wallpaper-pending]") &&
+							!document.querySelector("#wallpaper-area [data-gotab-wallpaper-ready]"))) return false;
+						const swiper = document.getElementById("swiper-container-main");
+						const active = swiper && !swiper.inert && swiper.style.opacity !== "0" && swiper.querySelector(".slide-scroll-content-active");
+						if (!active) return true;
+						const grid = active.querySelector(".slide-content-class");
+						if (!grid) return false;
+						// Cached link icons are eager. Remote images and later rows
+						// stay on their usual loading path.
+						const images = grid.getElementsByTagName("img");
+						for (let i = 0; i < Math.min(images.length, 8); i++) {
+							if (images[i].loading === "eager" && images[i].decoding === "sync" && !images[i].complete) return false;
+						}
+						return true;
+					};
+					const check = () => {
+						if (location.pathname === path && !(warmHomeEntry ? homeEntryReady() : ready()) && !document.querySelector("[data-gotab-share-unavailable]")) return;
+						stop();
+						try { worker.postMessage({ type: "gotab-pages:first-paint-ready" }); }
+						catch { /* The worker's deadline also releases the frame. */ }
+					};
+					const observer = new MutationObserver(check);
+					const stop = () => {
+						observer.disconnect();
+						document.removeEventListener("load", check, true);
+						document.removeEventListener("error", check, true);
+					};
+					observer.observe(document.documentElement, {
+						childList: true, subtree: true, attributes: true,
+						attributeFilter: ["data-gotab-wallpaper-ready", "data-gotab-wallpaper-pending", "data-gotab-share-unavailable", "data-gotab-share-loading"],
+					});
+					if (warmHomeEntry) {
+						document.addEventListener("load", check, true);
+						document.addEventListener("error", check, true);
+					}
+					gate.async = true;
+					gate.blocking.add("render");
+					gate.src = `${basePath}__gotab_asset_cache__/reload-paint.js`;
+					gate.onload = gate.onerror = () => { stop(); gate.remove(); };
+					script.before(gate);
+				}
+			}
+		} catch { /* Ordinary navigation remains available without this browser feature. */ }
+	}
 	const normalize = title => typeof title === "string" ? title.trim() : "";
 	const parse = (value, fallback) => { try { return JSON.parse(value) ?? fallback; } catch { return fallback; } };
 	const key = "gotab:startup-title";

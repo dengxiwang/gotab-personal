@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-BWaJ3C7D.js";import{t}from"./react-CaKr0epQ.js";import{Z as n,a as r}from"./is-Dv0eOm6j.js";var i=e(t()),a=(e,t)=>n(e)?r(e)&&!(0,i.isValidElement)(e)?{...t,...e}:{...t,title:e}:null;export{a as t};

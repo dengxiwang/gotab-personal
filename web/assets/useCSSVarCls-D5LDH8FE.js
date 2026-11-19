@@ -1,1 +1,0 @@
-var e=e=>`${e}-css-var`;export{e as t};
